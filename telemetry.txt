@@ -1,0 +1,14 @@
+# unsorted
+ping.chartbeat.net
+cdp.cloud.unity3d.com // Unity Engine collecting personal hardware data
+stats.wp.com
+vgwzaehlungen.de
+ssl-offloader.vgwzaehlungen.de
+ssl-heise.met.vgwort.de
+
+# redshell - https://www.reddit.com/r/Steam/comments/8pud8b/psa_red_shell_spyware_holy_potatoes_were_in_space/
+redshell.io
+api.redshell.io
+treasuredata.com
+api.treasuredata.com
+in.treasuredata.com
