@@ -23,6 +23,8 @@ www.umwatson.events.data.microsoft.com
 umwatson.events.data.microsoft.com
 www.gateway.facebook.com
 gateway.facebook.com
+www.analytics.virginmobileusa.com
+analytics.virginmobileusa.com
 
 # redshell - https://www.reddit.com/r/Steam/comments/8pud8b/psa_red_shell_spyware_holy_potatoes_were_in_space/
 www.redshell.io
