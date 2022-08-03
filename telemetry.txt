@@ -25,8 +25,7 @@ www.gateway.facebook.com
 gateway.facebook.com
 www.analytics.virginmobileusa.com
 analytics.virginmobileusa.com
-
-# redshell - https://www.reddit.com/r/Steam/comments/8pud8b/psa_red_shell_spyware_holy_potatoes_were_in_space/
+# redshell - https://reddit.com/r/Steam/comments/8pud8b/psa_red_shell_spyware_holy_potatoes_were_in_space/
 www.redshell.io
 redshell.io
 www.api.redshell.io
@@ -37,3 +36,9 @@ www.api.treasuredata.com
 api.treasuredata.com
 www.in.treasuredata.com
 in.treasuredata.com
+www.bam.nr-data.net.cdn.cloudflare.net
+bam.nr-data.net.cdn.cloudflare.net
+www.bam.nr-data.net
+bam.nr-data.net
+www.integrative-mouse-tv1jh1b8kcno62an15bd6s71.herokudns.com
+integrative-mouse-tv1jh1b8kcno62an15bd6s71.herokudns.com
