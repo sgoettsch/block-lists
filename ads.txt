@@ -2,6 +2,5 @@ www.engine.mobileapptracking.com
 engine.mobileapptracking.com
 www.ad.doubleclick.net
 ad.doubleclick.net
-www.www.googleadservices.com
 www.googleadservices.com
 googleadservices.com
