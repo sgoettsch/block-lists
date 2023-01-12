@@ -293,6 +293,7 @@ direct-deals.cc
 directav1on.de
 directun1fy.de
 dirtybluenotes.net
+diskretguenstiger.nl
 donnerstagsmail.de
 donnerstagsmail.eu
 doubleo.nl
@@ -442,6 +443,7 @@ greenmedialive.com
 greenmedialive.ie
 grupamorizon.pl
 guenstiger-vergleich.de
+guenstigerebestellung.shop
 gummibaerchen-ohne-ende.de
 gutscheinbox.eu
 gutscheinedirekt.de
@@ -570,6 +572,7 @@ king-of-reels.com
 kiosk-abo.de
 kirche-teistungen.de
 kitababurdanbak.com
+klasseofferte.de
 kleie-ps.com
 klein-kletti.de
 klimaspeicher.de
@@ -1195,6 +1198,7 @@ unifyuk-mailing.com
 uniquefit.eu
 unschlagbareszuhause.de
 unsere.hier-probieren.com
+unsere.klasseofferte.de
 untold-news.com
 unusual-kids.de
 unusual-world.de
@@ -1588,6 +1592,7 @@ www.direct-deals.cc
 www.directav1on.de
 www.directun1fy.de
 www.dirtybluenotes.net
+www.diskretguenstiger.nl
 www.donnerstagsmail.de
 www.donnerstagsmail.eu
 www.doubleo.nl
@@ -1737,6 +1742,7 @@ www.greenmedialive.com
 www.greenmedialive.ie
 www.grupamorizon.pl
 www.guenstiger-vergleich.de
+www.guenstigerebestellung.shop
 www.gummibaerchen-ohne-ende.de
 www.gutscheinbox.eu
 www.gutscheinedirekt.de
@@ -1865,6 +1871,7 @@ www.king-of-reels.com
 www.kiosk-abo.de
 www.kirche-teistungen.de
 www.kitababurdanbak.com
+www.klasseofferte.de
 www.kleie-ps.com
 www.klein-kletti.de
 www.klimaspeicher.de
@@ -2490,6 +2497,7 @@ www.unifyuk-mailing.com
 www.uniquefit.eu
 www.unschlagbareszuhause.de
 www.unsere.hier-probieren.com
+www.unsere.klasseofferte.de
 www.untold-news.com
 www.unusual-kids.de
 www.unusual-world.de
