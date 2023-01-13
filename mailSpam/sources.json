@@ -1,1 +1,6 @@
-["\/list"]
+[
+    {
+        "url": "https:\/\/github.com\/sgoettsch\/block-lists\/blob\/main\/mailSpam\/list",
+        "description": "Own list"
+    }
+]
