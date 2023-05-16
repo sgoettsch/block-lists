@@ -1,0 +1,29 @@
+name: Build Lists
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 2 * * 4'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          ini-values: memory_limit=1G
+
+      - name: Build
+        run: php build.php
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git commit -am "Automated build"
+          git push
