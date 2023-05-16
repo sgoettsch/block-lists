@@ -1,0 +1,30 @@
+name: Docker image build
+
+on:
+  push:
+    branches: [ "actions" ]
+#  schedule:
+#    - cron: '0 2 * * 0'
+
+jobs:
+  docker:
+    runs-on: php:8.2-cli-alpine3.18
+    concurrency: docker-${{ github.ref }}-${{ matrix.docker-file }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          ini-values: memory_limit=1G
+
+      - name: Build
+        run: php build.php
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git commit -am "Automated build"
+          git push

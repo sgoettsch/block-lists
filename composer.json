@@ -1,0 +1,14 @@
+{
+  "name": "sgoettsch/block-lists",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  },
+  "scripts": {
+    "codeStyle:fix": "docker run --rm -v %CD%\\\\:/data cytopia/php-cs-fixer fix .",
+    "code:check": "docker run --rm --mount type=bind,src=%CD%\\\\,target=/app ghcr.io/phpstan/phpstan:latest-php8.2 analyse /app"
+  },
+  "config": {
+    "COMPOSER_ALLOW_SUPERUSER": true
+  }
+}
