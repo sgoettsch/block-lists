@@ -25,5 +25,6 @@ jobs:
       - name: Commit changes
         run: |
           git config --global user.name 'GitHub Actions'
-          git commit -am "Automated build"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Automated build"
           git push
