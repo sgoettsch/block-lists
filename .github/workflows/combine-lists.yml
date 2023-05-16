@@ -2,9 +2,9 @@ name: Build Lists
 
 on:
   push:
-    branches: [ "actions" ]
-#  schedule:
-#    - cron: '0 2 * * 0'
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 2 * * 4'
 
 jobs:
   build:
