@@ -1,0 +1,285 @@
+# This blocklist blocks SmartTV Traffic
+#
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# ===============================================================
+
+# This is a blocklist to block smart tv's sending meta data at home.
+# Please help to collect domains!
+# It could be that the TV does not receive any more updates or other services no longer work. Please report such an incident.
+
+# panasonic viera
+# Panasonic Viera & panny tv
+0077777700140002.myhomescreen.tv
+cert-test.sandbox.google.com
+
+collect-us-fy2014.myhomescreen.tv
+collect-us-fy2015.myhomescreen.tv
+collect-us-fy2016.myhomescreen.tv
+collect-us-fy2017.myhomescreen.tv
+collect-us-fy2018.myhomescreen.tv
+collect-us-fy2019.myhomescreen.tv
+collect-us-fy2020.myhomescreen.tv
+
+collect-eu-fy2014.myhomescreen.tv
+collect-eu-fy2015.myhomescreen.tv
+collect-eu-fy2017.myhomescreen.tv
+collect-eu-fy2016.myhomescreen.tv
+collect-eu-fy2018.myhomescreen.tv
+collect-eu-fy2019.myhomescreen.tv
+collect-eu-fy2020.myhomescreen.tv
+
+usage-eu-fy2014.myhomescreen.tv
+usage-eu-fy2015.myhomescreen.tv
+usage-eu-fy2016.myhomescreen.tv
+usage-eu-fy2017.myhomescreen.tv
+usage-eu-fy2018.myhomescreen.tv
+usage-eu-fy2019.myhomescreen.tv
+usage-eu-fy2020.myhomescreen.tv
+
+usage-us-fy2014.myhomescreen.tv
+usage-us-fy2015.myhomescreen.tv
+usage-us-fy2016.myhomescreen.tv
+usage-us-fy2017.myhomescreen.tv
+usage-us-fy2018.myhomescreen.tv
+usage-us-fy2019.myhomescreen.tv
+usage-us-fy2020.myhomescreen.tv
+
+#mhc-ajax-eu.myhomescreen.tv # internet connection test
+#mhc-ajax-eu-s2.myhomescreen.tv # internet connection test
+#mhc-ajax-us.myhomescreen.tv # internet connection test
+mhc-sec-eu.myhomescreen.tv
+mhc-sec-us.myhomescreen.tv
+#mhc-xpana-eu.myhomescreen.tv # required to start apps
+#mhc-xpana-eu-s2.myhomescreen.tv # required to start apps
+#mhc-xpana-us.myhomescreen.tv # required to start apps
+#vcs.vdspf.com  //  if blocked, notified of new firmware but unable to download/install
+x2.vindicosuite.com
+
+
+# sony bavaria
+# needed for applications
+# needed for applications, if blocked error "no internet connection"
+#applicast.ga.sony.net
+#portal.store.sonyentertainmentnetwork.com
+ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
+ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
+reg.biv.sony.tv
+service.biv.sony.tv
+ssm1.internet.sony.tv
+ssm2.internet.sony.tv
+ssm3.internet.sony.tv
+update.biv.sony.tv
+api-mf1.meta.ndmdhs.com
+b02.black.ndmdhs.com
+bravia.dl.playstation.net
+call.me.sel.sony.com
+flingo.tv
+sonybivstatic-a.akamaihd.net
+facemap.foldlife.net
+bdcore-apr-lb.bda.ndmdhs.com
+
+
+# LG
+ad.lgappstv.com
+ibis.lgappstv.com
+lgad.cjpowercast.com.edgesuite.net
+smartclip.com
+smartclip.net
+smartshare.lgtvsdp.com
+us.ad.lgsmartad.com
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
+us.lgtvsdp.com
+us.rdx2.lgtvsdp.com
+yumenetworks.com
+aic-ngfts.lge.com
+
+
+# philips
+legacyportal.nettvservices.com
+nettv.corio.com
+ad.nettvservices.com
+
+
+# samsung
+abtauthprd.samsungcloudsolution.com
+acr0.samsungcloudsolution.com
+ad.samsungadhub.com
+ads.samsungads.com
+amauthprd.samsungcloudsolution.com
+api-hub.samsungyosemite.com
+az43064.vo.msecnd.net
+cdn.samsungcloudsolution.net
+configprd.samsungcloudsolution.net
+Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+cpu.samsungelectronics.com
+d179kwmlpc4o47.cloudfront.net
+d179kwmlpc4o47.cloudfront.net
+d1jwpcr0q4pcq0.cloudfront.net
+d2tnx644ijgq6i.cloudfront.net
+d3mjsomixevyw7.cloudfront.net
+d37ju0xanoz6gh.cloudfront.net
+dev-multiscreen.samsung.com
+device-metrics-us.amazon.com
+fkp.samsungcloudsolution.com
+fkp.samsungcloudsolution.net
+game.internetat.tv
+gld.samsungosp.com
+gpm.samsungqbe.com
+i-stream.pl
+log-1.samsungacr.com
+log-2.samsungacr.com
+log-3.samsungacr.com
+log-ingestion.samsungacr.com
+log-ingestion-eu.samsungacr.com
+log.internetat.tv
+multiscreen.samsung.com
+musicid.samsungcloudsolution.com
+notice.samsungcloudsolution.com
+noticecdn.samsungcloudsolution.com
+noticefile.samsungcloudsolution.com
+ns11.whois.co.kr
+oempprd.samsungcloudsolution.com
+oempprd.samsungcloudsolution.net
+openapi.samsung.com
+osb-apps.samsungqbe.com
+osb-krsvc.samsungqbe.com
+osb-eusvc.samsungqbe.com
+osb.samsungqbe.com
+pavv.co.kr
+pipeaota.com
+premium-videos.telly.com
+prov.samsungcloudsolution.com
+rd.samsungadhub.com
+rwww.samsungotn.net
+samsungacr.com
+samsungadhub.com
+samsungcloudsolution.com
+samsungcloudsolution.net
+samsungqbe.com
+samsungrm.net
+sas.samsungcloudsolution.com
+sca.samsung.com
+sso.internetat.tv # account login
+syncplusconfig.s3.amazonaws.com
+targeted-config-test.samsungacr.com
+test.samsungrm.net
+us-api.samsungyosemite.com
+vd.emp.prd.s3.amazonaws.com
+vdterms.samsungcloudsolution.com
+www.samsungrm.net
+samsungelectronics.com
+apu.samsungelectronics.com
+bpu.samsungelectronics.com
+dpu.samsungelectronics.com
+kpu.samsungelectronics.com
+upu.samsungelectronics.com
+zpu.samsungelectronics.com
+xpu.samsungelectronics.com
+ypu.samsungelectronics.com
+vd.contents.prod.eu.s3.amazonaws.com
+log-ingestion-eu.samsungacr.com
+otn.samsungcloudcdn.com
+
+
+# Roku
+scribe.logs.roku.com
+midland.logs.roku.com
+display.ravm.tv
+ravm.tv
+
+
+# Vizio
+control2.tvinteractive.tv
+control-zoo-dtsprod.tvinteractive.tv
+control.tvinteractive.tv
+tvmeta-dynamic.tvinteractive.tv
+mcp.tvinteractive.tv
+
+
+# HBBTV
+cdn.hbbtv.smartclip.net
+hbbtv-1.eurosport.com
+hbbtv-extern-fe01.sim-technik.de
+hbbtv-track.redbutton.de
+hbbtv.kabeleins.de
+#hbbtv.prosieben.de # Blocks ProSieben apps from starting.
+hbbtv.qvc.de
+#hbbtv.redbutton.de # Blocks ZDF & ProSieben apps from starting.
+hbbtv.rtl2.de
+hbbtv.sat1.de
+hbbtv.sixx.de
+#hbbtv.zdf.de # Blocks ZDF apps from starting.
+hbbtv01p.anixe.net
+hbbtvapp.sonnenklar.tv
+scheduler.hbbtv.smartclip.net
+stats.hbbtv.smartclip.net
+hbbtv.superrtl.de
+p-hbbtv.superrtl.de
+hbbtv.3sat.de
+
+
+# Other useless connections from Smart-TV
+2mdn.net
+ad.71i.de
+adv.ettoday.net
+advertising.com
+api.nfl.com
+cdn.smartclip.net
+cdns-content.dzcdn.net
+cert-test.sandbox.google.com
+database01p.anixe.net
+de.ioam.de
+googleads.g.doubleclick.net
+nbc-jite.nbcuni.com
+redbutton-adproxy-lb-prod.redbutton.de
+redbutton-lb-prod.redbutton.de
+redbutton.sim-technik.de
+script.ioam.de
+start.digitaltext.rtl.de
+stats-irl.sxp.smartclip.net
+trvdp.com
+tv-static.scdn.co
+xml.opera.com
+
+
+# Netflix
+ichnaea.netflix.com
+customerevents.netflix.com
+nrdp.nccp.netflix.com
+
+
+# Hulu
+api.distribution.hulu.com
+
+
+# Hisense Smart TV
+api-gps-em.hismarttv.com
+auth-em.hismarttv.com
+msg-em.hismarttv.com
+api-launcher-em.hismarttv.com
+auth-launcher-em.hismarttv.com
+unified-ter-na.hismarttv.com
+# These may be needed for software/firmware updates, not sure if it's one or both but the first one tries thousands of times a day to connect.
+api.us.hismarttv.com
+api.euro.hismarttv.com
+
+
+# SiliconDust HDHomeRun
+tuner-api.hdhomerun.com
+location-api.hdhomerun.com
+
+
+# Foxtel Australia cable/satellite set-top box
+_xmpp-client._tcp.managed.xmpp.foxtel.com.au
+managed.xmpp.foxtel.com.au
+foxtel-prod-events.digitalsmiths.net
+e2.resources.foxtel.com.au
+a1.resources.foxtel.com.au
+
+
+
+# Yamaha AV receivers
+avpro.global.yamaha.com
