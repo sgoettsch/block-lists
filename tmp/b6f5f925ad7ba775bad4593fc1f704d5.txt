@@ -79,7 +79,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="C380:37FB:D589352:DFF3378:64640168" data-pjax-transient="true"/><meta name="html-safe-nonce" content="ef13f71a9e3bd355e4f32dac6b29bfa2f6f78d0bc9b361ff320c86926ff8d66d" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDMzgwOjM3RkI6RDU4OTM1MjpERkYzMzc4OjY0NjQwMTY4IiwidmlzaXRvcl9pZCI6Ijc4NTc0MTg3MjE1MzE1Mjc1MjgiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="a23999453442e793e94c501800f3d2fbef6a9374214dcc642cce96520ba533ca" data-pjax-transient="true"/>
+  <meta name="request-id" content="2DC0:0C8D:B7219F:118C59B:6465234F" data-pjax-transient="true"/><meta name="html-safe-nonce" content="fcad25d8345d65e1f0514d2b1ac090d948b46a37be0e3493f7acb6f0d3d785ba" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIyREMwOjBDOEQ6QjcyMTlGOjExOEM1OUI6NjQ2NTIzNEYiLCJ2aXNpdG9yX2lkIjoiNDUzNDEwNDU5NTYxOTk4MDExMSIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="765c4db67f78742bf1353441be51cdb30aaf87ac2eb6e2d4aeb335c2390f9861" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:482125208" data-turbo-transient>
@@ -587,7 +587,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="Ygjm7DbHmveLoSY66QOGAxQPyIk9Js2HCWH0OIC+m9H6jb37UH7liFEFKqwQWmlEwDdqtwuXIJJa2OPw9oD1NQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="rlouRw8WeriKf1ajOo6YIJZOsQfzO/VgiicvBC3FiWFpP3Qq4hk1XG1Po6p6l4XivqU7O2gCR/RSP71YJr9qwg==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1075,7 +1075,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sgoettsch/block-lists/blob/63c6e2c4537e34e976cecce88910429e5e63580e/fakeNews/list">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sgoettsch/block-lists/blob/270795c7d257bbd6a1fa82add3bc598ded345807/fakeNews/list">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1296,7 +1296,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/sgoettsch/block-lists/blob/63c6e2c4537e34e976cecce88910429e5e63580e/fakeNews/list" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/sgoettsch/block-lists/blob/270795c7d257bbd6a1fa82add3bc598ded345807/fakeNews/list" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1324,7 +1324,7 @@
   
 </div></div>
 
-    <include-fragment src="/sgoettsch/block-lists/spoofed_commit_check/63c6e2c4537e34e976cecce88910429e5e63580e" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/sgoettsch/block-lists/spoofed_commit_check/270795c7d257bbd6a1fa82add3bc598ded345807" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
   <include-fragment src="/sgoettsch/block-lists/contributors/main/fakeNews/list" class="commit-loader">
@@ -1366,11 +1366,11 @@
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/sgoettsch/block-lists/raw/63c6e2c4537e34e976cecce88910429e5e63580e/fakeNews/list" href="/sgoettsch/block-lists/raw/main/fakeNews/list" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+        <a data-permalink-href="/sgoettsch/block-lists/raw/270795c7d257bbd6a1fa82add3bc598ded345807/fakeNews/list" href="/sgoettsch/block-lists/raw/main/fakeNews/list" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a data-permalink-href="/sgoettsch/block-lists/blame/63c6e2c4537e34e976cecce88910429e5e63580e/fakeNews/list" href="/sgoettsch/block-lists/blame/main/fakeNews/list" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+          <a data-permalink-href="/sgoettsch/block-lists/blame/270795c7d257bbd6a1fa82add3bc598ded345807/fakeNews/list" href="/sgoettsch/block-lists/blame/main/fakeNews/list" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -1379,7 +1379,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/sgoettsch/block-lists/edit/main/fakeNews/list" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lDaWvXIOwMX1_IEInqgIwfLoj_BGmJbSHFdAHKOfFISfaU1vmSWkT3gr0gHUeiXgheIYVmC3hu2b3XEvBh10tw" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/sgoettsch/block-lists/edit/main/fakeNews/list" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QliJt3woAos62YAXXHAD-HCVepeF2hgCM98CELsn_OAl_R3bwXralwaEPTC4MixeNh8fLeHT2RYAQfclhyTBGg" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1389,7 +1389,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/sgoettsch/block-lists/edit/main/fakeNews/list" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FRKu1KL39roHviHMikXVrV5XsjulgMMCp4_Dio_8Wn8eTXUGSdySMIppcsXAl_iMKV0lnYOv0z0gBfK5Kn46TA" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/sgoettsch/block-lists/edit/main/fakeNews/list" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CO3zOTki69u5-bH19k8i_jJd6oXEldkRgUHkDD4MoABvSGdVhHAzx4WkDNISDQ1YdNePP6CcGAWy3xE5Ag-d-g" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1527,7 +1527,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/sgoettsch/block-lists/blame/63c6e2c4537e34e976cecce88910429e5e63580e/fakeNews/list">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/sgoettsch/block-lists/blame/270795c7d257bbd6a1fa82add3bc598ded345807/fakeNews/list">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/sgoettsch/block-lists/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
