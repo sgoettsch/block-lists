@@ -79,7 +79,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="2DC1:0C8D:B70C8E:118A638:64652342" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4fd1f0d4164e22c9f7c7bf9e48e47ed454c2725b205b344edaf59ae41db8546c" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIyREMxOjBDOEQ6QjcwQzhFOjExOEE2Mzg6NjQ2NTIzNDIiLCJ2aXNpdG9yX2lkIjoiODAzNzMxOTE5OTE2MDYwNzU1NCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="44d02407f39536bf157880039d22ef617e50893a35d21f2aaabfabed6462165c" data-pjax-transient="true"/>
+  <meta name="request-id" content="F3C2:56DF:186578B:19881F5:64658D44" data-pjax-transient="true"/><meta name="html-safe-nonce" content="821d1b5adfebcbe1937c6088bc44cb284b619b53eec9e8f567a12c08b1b12d81" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJGM0MyOjU2REY6MTg2NTc4QjoxOTg4MUY1OjY0NjU4RDQ0IiwidmlzaXRvcl9pZCI6IjY2NjI0ODgxMTE3Mzc4MzQ4MjAiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="4008248abc70c62bcc4518cb214e8cd82cc6eb40939222c8874137ef00f3e518" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:482125208" data-turbo-transient>
@@ -587,7 +587,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="ryjcIrbtE9j2k7DeHFEOf6kie5ZgmWWxzVzzi//LVvqXXT+nz/AzwBanKNKX16ocC2YLdEr1De4nY5z6rBeMnQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="GDVrv4A32wRCWh7UjgNgY5o8y+SpJd3+/Qq+k1c/C6+7VdDDurjRwy7fIbuuuNdg8HqDXWNAvGpoJlJS3jryhQ==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1075,7 +1075,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sgoettsch/block-lists/blob/270795c7d257bbd6a1fa82add3bc598ded345807/ads/list">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sgoettsch/block-lists/blob/ad2b77359feb43f13bdae8e95821224140408707/ads/list">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1296,7 +1296,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/sgoettsch/block-lists/blob/270795c7d257bbd6a1fa82add3bc598ded345807/ads/list" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/sgoettsch/block-lists/blob/ad2b77359feb43f13bdae8e95821224140408707/ads/list" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1324,7 +1324,7 @@
   
 </div></div>
 
-    <include-fragment src="/sgoettsch/block-lists/spoofed_commit_check/270795c7d257bbd6a1fa82add3bc598ded345807" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/sgoettsch/block-lists/spoofed_commit_check/ad2b77359feb43f13bdae8e95821224140408707" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
   <include-fragment src="/sgoettsch/block-lists/contributors/main/ads/list" class="commit-loader">
@@ -1366,11 +1366,11 @@
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/sgoettsch/block-lists/raw/270795c7d257bbd6a1fa82add3bc598ded345807/ads/list" href="/sgoettsch/block-lists/raw/main/ads/list" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+        <a data-permalink-href="/sgoettsch/block-lists/raw/ad2b77359feb43f13bdae8e95821224140408707/ads/list" href="/sgoettsch/block-lists/raw/main/ads/list" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a data-permalink-href="/sgoettsch/block-lists/blame/270795c7d257bbd6a1fa82add3bc598ded345807/ads/list" href="/sgoettsch/block-lists/blame/main/ads/list" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+          <a data-permalink-href="/sgoettsch/block-lists/blame/ad2b77359feb43f13bdae8e95821224140408707/ads/list" href="/sgoettsch/block-lists/blame/main/ads/list" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -1379,7 +1379,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/sgoettsch/block-lists/edit/main/ads/list" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5ToewIKQhzYrzOEefSGzft6zJO8FSZ_FLioMML11O-J5PSm_PzYZ-mdhnvbkoWfF2qoZsjaj1xyxIqx2l6df6Q" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/sgoettsch/block-lists/edit/main/ads/list" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ORaCHaQ7YxZf34Aj3yYLKChb0ouED63kVExzh7p4eIoe7LrciePYSDABkKkaXmf9V4qu03SThJPlsZsaXJLR3g" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1389,7 +1389,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/sgoettsch/block-lists/edit/main/ads/list" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="petmdHq1zIo2jft5rgiDpYGAwpXttzqD8SJJqz6P2qg57FELxxNSRnoghJE3iFcehZn_yN5dclpuKuntFF2-ow" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/sgoettsch/block-lists/edit/main/ads/list" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sApOQW9KP1DyLvju5Jj0KDS-0JpilJbSj_jrltyxCq6X8HaAQpKEDp3w6GQh4Jj9S2-swpIIv6U-BQMLOluj-g" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1531,7 +1531,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/sgoettsch/block-lists/blame/270795c7d257bbd6a1fa82add3bc598ded345807/ads/list">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/sgoettsch/block-lists/blame/ad2b77359feb43f13bdae8e95821224140408707/ads/list">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/sgoettsch/block-lists/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
