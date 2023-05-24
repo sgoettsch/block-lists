@@ -1,6 +1,6 @@
 [
     {
-        "url": "https:\/\/github.com\/sgoettsch\/block-lists\/blob\/main\/mailSpam\/list",
+        "url": "https://raw.githubusercontent.com/sgoettsch/block-lists/main/mailSpam/list",
         "description": "Own list"
     }
 ]
