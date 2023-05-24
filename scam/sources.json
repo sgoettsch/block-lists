@@ -1,70 +1,70 @@
 [
     {
-        "url": "https:\/\/github.com\/sgoettsch\/block-lists\/blob\/main\/scam\/list",
+        "url": "https://raw.githubusercontent.com/sgoettsch/block-lists/main/scam/list",
         "description": "Own list"
     },
     {
-        "url": "https:\/\/blocklistproject.github.io\/Lists\/scam.txt",
+        "url": "https://blocklistproject.github.io/Lists/scam.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/FadeMind\/hosts.extras\/master\/add.Dead\/hosts",
+        "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts",
         "description": ""
     },
     {
-        "url": "https:\/\/someonewhocares.org\/hosts\/zero\/hosts",
+        "url": "https://someonewhocares.org/hosts/zero/hosts",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/azet12\/KADhosts\/master\/KADhosts.txt",
+        "url": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/FadeMind\/hosts.extras\/master\/add.Risk\/hosts",
+        "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/Dawsey21\/Lists\/master\/main-blacklist.txt",
+        "url": "https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/hostsfile.org\/Downloads\/hosts.txt",
+        "url": "https://hostsfile.org/Downloads/hosts.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/blocklistproject.github.io\/Lists\/drugs.txt",
+        "url": "https://blocklistproject.github.io/Lists/drugs.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/blocklistproject.github.io\/Lists\/fraud.txt",
+        "url": "https://blocklistproject.github.io/Lists/fraud.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/blocklistproject.github.io\/Lists\/phishing.txt",
+        "url": "https://blocklistproject.github.io/Lists/phishing.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/blocklistproject.github.io\/Lists\/piracy.txt",
+        "url": "https://blocklistproject.github.io/Lists/piracy.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/blocklistproject.github.io\/Lists\/redirect.txt",
+        "url": "https://blocklistproject.github.io/Lists/redirect.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/tqml\/Pi-Hole-Lists\/master\/other.txt",
+        "url": "https://raw.githubusercontent.com/tqml/Pi-Hole-Lists/master/other.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/PolishFiltersTeam\/KADhosts\/master\/KADhosts.txt",
+        "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/MetaMask\/eth-phishing-detect\/master\/src\/hosts.txt",
+        "url": "https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/shreyasminocha\/shady-hosts\/main\/hosts",
+        "url": "https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts",
         "description": ""
     }
 ]

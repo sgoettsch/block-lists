@@ -1,10 +1,10 @@
 [
     {
-        "url": "https:\/\/github.com\/sgoettsch\/block-lists\/blob\/main\/gambling\/list",
+        "url": "https://raw.githubusercontent.com/sgoettsch/block-lists/main/gambling/list",
         "description": "Own list"
     },
     {
-        "url": "https:\/\/blocklistproject.github.io\/Lists\/gambling.txt",
+        "url": "https://blocklistproject.github.io/Lists/gambling.txt",
         "description": ""
     }
 ]

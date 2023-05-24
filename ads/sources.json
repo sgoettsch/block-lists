@@ -1,134 +1,134 @@
 [
     {
-        "url": "https:\/\/github.com\/sgoettsch\/block-lists\/blob\/main\/ads\/list",
+        "url": "https://raw.githubusercontent.com/sgoettsch/block-lists/main/ads/list",
         "description": "Own list"
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/AdAway\/adaway.github.io\/master\/hosts.txt",
+        "url": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/s3.amazonaws.com\/lists.disconnect.me\/simple_ad.txt",
+        "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/v.firebog.net\/hosts\/AdguardDNS.txt",
+        "url": "https://v.firebog.net/hosts/AdguardDNS.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/v.firebog.net\/hosts\/Easylist.txt",
+        "url": "https://v.firebog.net/hosts/Easylist.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/someonewhocares.org\/hosts\/hosts",
+        "url": "https://someonewhocares.org/hosts/hosts",
         "description": ""
     },
     {
-        "url": "https:\/\/gitlab.com\/quidsup\/notrack-blocklists\/raw\/master\/notrack-blocklist.txt",
+        "url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/r-a-y\/mobile-hosts\/master\/AdguardMobileAds.txt",
+        "url": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/winhelp2002.mvps.org\/hosts.txt",
+        "url": "https://winhelp2002.mvps.org/hosts.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/pgl.yoyo.org\/adservers\/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0",
+        "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/FadeMind\/hosts.extras\/master\/UncheckyAds\/hosts",
+        "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/AlexRabbit\/ADios\/master\/PIHOLE\/hosts",
+        "url": "https://raw.githubusercontent.com/AlexRabbit/ADios/master/PIHOLE/hosts",
         "description": ""
     },
     {
-        "url": "https:\/\/v.firebog.net\/hosts\/static\/w3kbl.txt",
+        "url": "https://v.firebog.net/hosts/static/w3kbl.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/AdAway\/adaway.github.io\/master\/hosts.txt",
+        "url": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/vokins\/yhosts\/master\/hosts",
+        "url": "https://raw.githubusercontent.com/vokins/yhosts/master/hosts",
         "description": ""
     },
     {
-        "url": "https:\/\/v.firebog.net\/hosts\/Easyprivacy.txt",
+        "url": "https://v.firebog.net/hosts/Easyprivacy.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/v.firebog.net\/hosts\/Prigent-Ads.txt",
+        "url": "https://v.firebog.net/hosts/Prigent-Ads.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/evankrob\/hosts-filenetrehost\/master\/ad_servers.txt",
+        "url": "https://raw.githubusercontent.com/evankrob/hosts-filenetrehost/master/ad_servers.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/winhelp2002.mvps.org\/hosts.txt",
+        "url": "https://winhelp2002.mvps.org/hosts.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/RooneyMcNibNug\/pihole-stuff\/master\/SNAFU.txt",
+        "url": "https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/anudeepND\/blacklist\/master\/adservers.txt",
+        "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/pgl.yoyo.org\/adservers\/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+        "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/bigdargon\/hostsVN\/master\/hosts",
+        "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/jdlingyu\/ad-wars\/master\/hosts",
+        "url": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
         "description": ""
     },
     {
-        "url": "https:\/\/www.github.developerdan.com\/hosts\/lists\/ads-and-tracking-extended.txt",
+        "url": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/hostfiles.frogeye.fr\/firstparty-trackers-hosts.txt",
+        "url": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/hostfiles.frogeye.fr\/multiparty-trackers-hosts.txt",
+        "url": "https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/pgl.yoyo.org\/adservers\/serverlist.php?hostformat=hosts&showintro=0",
+        "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0",
         "description": ""
     },
     {
-        "url": "https:\/\/blocklistproject.github.io\/Lists\/ads.txt",
+        "url": "https://blocklistproject.github.io/Lists/ads.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/blocklistproject.github.io\/Lists\/youtube.txt",
+        "url": "https://blocklistproject.github.io/Lists/youtube.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/AdguardTeam\/cname-trackers\/master\/combined_disguised_trackers_justdomains.txt",
+        "url": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/bigdargon\/hostsVN\/master\/option\/hosts-VN",
+        "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN",
         "description": ""
     },
     {
-        "url": "https:\/\/raw.githubusercontent.com\/tiuxo\/hosts\/master\/ads",
+        "url": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
         "description": ""
     }
 ]
