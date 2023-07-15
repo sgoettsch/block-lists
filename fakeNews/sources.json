@@ -14,5 +14,9 @@
     {
         "url": "https://raw.githubusercontent.com/tqml/Pi-Hole-Lists/master/jbfake.txt",
         "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/marktron/fakenews/master/fakenews",
+        "description": ""
     }
 ]

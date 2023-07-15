@@ -52,10 +52,6 @@
         "description": ""
     },
     {
-        "url": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
-        "description": ""
-    },
-    {
         "url": "https://raw.githubusercontent.com/vokins/yhosts/master/hosts",
         "description": ""
     },
@@ -69,10 +65,6 @@
     },
     {
         "url": "https://raw.githubusercontent.com/evankrob/hosts-filenetrehost/master/ad_servers.txt",
-        "description": ""
-    },
-    {
-        "url": "https://winhelp2002.mvps.org/hosts.txt",
         "description": ""
     },
     {
