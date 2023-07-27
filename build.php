@@ -88,6 +88,8 @@ class build
         $filename = md5($l) . '.txt';
         $location = __DIR__ . '/tmp/';
 
+        echo 'Parsing list: ' . $location . $filename . PHP_EOL;
+
         $list = [];
         $content = file($location . $filename);
         if (is_array($content)) {
