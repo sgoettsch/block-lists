@@ -70,6 +70,12 @@ generation-islam.de
 www.generation-islam.de
 events.7tv.io
 www.events.7tv.io
+incoming.telemetry.mozilla.org
+www.incoming.telemetry.mozilla.org
+activity.windows.com
+www.activity.windows.com
+v10.events.data.microsoft.com
+www.v10.events.data.microsoft.com
 adjust.io
 www.adjust.io
 airbrake.io
@@ -6938,8 +6944,6 @@ tracksrv.zdf.de
 www.tracksrv.zdf.de
 notify.firetv.bugsnag.appstore.a2z.com
 www.notify.firetv.bugsnag.appstore.a2z.com
-activity.windows.com
-www.activity.windows.com
 adl.windows.com
 www.adl.windows.com
 apac1.notify.windows.com.akadns.net
@@ -7030,8 +7034,6 @@ us-v20.events.data.microsoft.com
 www.us-v20.events.data.microsoft.com
 us.vortex-win.data.microsoft.com
 www.us.vortex-win.data.microsoft.com
-v10.events.data.microsoft.com
-www.v10.events.data.microsoft.com
 v10c.events.data.microsoft.com
 www.v10c.events.data.microsoft.com
 v20.events.data.microsoft.com
@@ -27760,8 +27762,6 @@ silktide.com
 www.silktide.com
 widget.intercom.io
 www.widget.intercom.io
-incoming.telemetry.mozilla.org
-www.incoming.telemetry.mozilla.org
 scripts.mediavine.com
 www.scripts.mediavine.com
 piwik.grimoire.org
