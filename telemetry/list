@@ -38,3 +38,10 @@ events.7tv.io
 incoming.telemetry.mozilla.org
 activity.windows.com
 v10.events.data.microsoft.com
+analytics.shapez.io
+socket-mt1-ingress-1987402783.us-east-1.elb.amazonaws.com
+
+# LG TVs
+de.lgtvsdp.com
+lgtvsdp.com
+lgappstv.com
