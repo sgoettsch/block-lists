@@ -41,6 +41,7 @@ v10.events.data.microsoft.com
 analytics.shapez.io
 socket-mt1-ingress-1987402783.us-east-1.elb.amazonaws.com
 ecs.nel.measure.office.net
+eu-teams.events.data.microsoft.com
 
 # LG TVs
 de.lgtvsdp.com
