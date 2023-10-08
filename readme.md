@@ -15,7 +15,7 @@ Different host files for different cases to enhance own privacy
 | [spam](spam/hosts)           | Anti spam list               | [Sources](spam/sources.json)      |
 | [telemetry](telemetry/hosts) | Anti telemetry list          | [Sources](telemetry/sources.json) |
 
-# Description
+# 💡 Description
 
 The published files can offer an improved privacy to protect you from ads, tracking, spyware, telemetry, malware,
 advertising.

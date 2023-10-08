@@ -37,6 +37,16 @@ class build
                 $sources = json_decode($sourceContent, true, 512, JSON_THROW_ON_ERROR);
                 foreach ($sources as $source) {
                     self::downloadList($source['url']);
+
+                    echo '✅ List downloaded' . PHP_EOL;
+
+                    if (!empty($source['description'])) {
+                        echo 'ℹ️ List details: ' . $source['description'] . PHP_EOL;
+                    }
+
+                    if (!empty($source['urlDetails'])) {
+                        echo 'ℹ️ More details for this list can be found at: ' . $source['urlDetails'] . PHP_EOL;
+                    }
                 }
             }
         }
@@ -54,7 +64,7 @@ class build
             return;
         }
 
-        echo 'Downloading ' . $l . PHP_EOL;
+        echo '⬇️ Downloading ' . $l . PHP_EOL;
 
         $content = '';
 
@@ -81,7 +91,7 @@ class build
             return;
         }
 
-        throw new RuntimeException('Could not download ' . $l);
+        throw new RuntimeException('⚠️ Could not download ' . $l);
     }
 
     private static function readAndParseList(string $l): array
@@ -89,7 +99,7 @@ class build
         $filename = md5($l) . '.txt';
         $location = __DIR__ . '/tmp/';
 
-        echo 'Parsing list: ' . $location . $filename . PHP_EOL;
+        echo 'ℹ️ Parsing list: ' . $location . $filename . PHP_EOL;
 
         $list = [];
         $content = file($location . $filename);
@@ -155,12 +165,12 @@ class build
 
         $dir = __DIR__ . '/tmp/';
         if (!is_dir($dir) && !mkdir($dir) && !is_dir($dir)) {
-            throw new RuntimeException(sprintf('Directory "%s" was not created', $dir));
+            throw new RuntimeException(sprintf('⚠️ Directory "%s" was not created', $dir));
         }
 
         $result = gethostbyname('google.com');
         if ($result == 'google.com' || $result == '0.0.0.0') {
-            throw new RuntimeException('Can not resolve DNS');
+            throw new RuntimeException('⚠️ Can not resolve DNS');
         }
     }
 
@@ -195,12 +205,12 @@ class build
         if (!empty($value)) {
             $parsed = parse_url('https://' . $value);
             if (!$parsed) {
-                echo 'Skipping invalid domain: ' . print_r($parsed, true) . $originalValue . PHP_EOL;
+                echo '💡 Skipping invalid domain: ' . print_r($parsed, true) . $originalValue . PHP_EOL;
                 return '';
             }
 
             if (empty($parsed['host'])) {
-                echo 'Skipping invalid domain: ' . $originalValue . PHP_EOL;
+                echo '💡 Skipping invalid domain: ' . $originalValue . PHP_EOL;
                 return '';
             }
 
@@ -219,6 +229,8 @@ class build
     {
         foreach (self::$lists as $list) {
             $cleanList = [];
+
+            echo 'ℹ️ Validating domains from list: ' . $list . PHP_EOL;
 
             $listFile = __DIR__ . '/' . $list . '/list';
             $fileContent = file_get_contents($listFile);
