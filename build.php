@@ -86,7 +86,7 @@ class build
             curl_close($curl);
         }
 
-        if (curl_errno($curl) !== 0) {
+        if (curl_errno($curl) === 0) {
             file_put_contents($location . $filename, $content);
             return;
         }
