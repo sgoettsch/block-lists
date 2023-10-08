@@ -20,6 +20,7 @@ class build
     public static function run(): void
     {
         self::prepare();
+        self::validateOwnLists();
         self::downloadLists();
         self::combineLists();
     }
@@ -83,7 +84,7 @@ class build
         throw new RuntimeException('Could not download ' . $l);
     }
 
-    private static function readAndParseList(string $l): bool|array
+    private static function readAndParseList(string $l): array
     {
         $filename = md5($l) . '.txt';
         $location = __DIR__ . '/tmp/';
@@ -121,13 +122,12 @@ class build
                 $sources = json_decode($sourceContent, true, 512, JSON_THROW_ON_ERROR);
                 foreach ($sources as $source) {
                     $res = self::readAndParseList($source['url']);
-                    if (is_array($res)) {
-                        foreach ($res as $r) {
-                            if (!empty($r)) {
-                                $allRecords[$r] = $r;
-                            }
+                    foreach ($res as $r) {
+                        if (!empty($r)) {
+                            $allRecords[$r] = $r;
                         }
                     }
+
 
                     if (!empty($allRecords)) {
                         file_put_contents($hostsFile, implode("\n", $allRecords));
@@ -153,8 +153,14 @@ class build
 
         self::getWhiteList();
 
-        if (!mkdir($concurrentDirectory = __DIR__ . '/tmp/') && !is_dir($concurrentDirectory)) {
-            throw new RuntimeException(sprintf('Directory "%s" was not created', $concurrentDirectory));
+        $dir = __DIR__ . '/tmp/';
+        if (!is_dir($dir) && !mkdir($dir) && !is_dir($dir)) {
+            throw new RuntimeException(sprintf('Directory "%s" was not created', $dir));
+        }
+
+        $result = gethostbyname('google.com');
+        if ($result == 'google.com' || $result == '0.0.0.0') {
+            throw new RuntimeException('Can not resolve DNS');
         }
     }
 
@@ -207,6 +213,32 @@ class build
         }
 
         return '';
+    }
+
+    private static function validateOwnLists(): void
+    {
+        foreach (self::$lists as $list) {
+            $cleanList = [];
+
+            $listFile = __DIR__ . '/' . $list . '/list';
+            $fileContent = file_get_contents($listFile);
+            if ($fileContent) {
+                $sourceContent = explode("\n", $fileContent);
+                foreach ($sourceContent as $value) {
+                    $value = trim($value);
+                    $dnsValue = gethostbyname($value);
+
+                    if ($value != $dnsValue) {
+                        $cleanList[$value] = $value;
+                    }
+                }
+
+                $newContent = implode("\n", $cleanList);
+                if ($newContent != $sourceContent) {
+                    file_put_contents($listFile, $newContent);
+                }
+            }
+        }
     }
 }
 
