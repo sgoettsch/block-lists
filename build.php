@@ -247,7 +247,7 @@ class build
                     }
                 }
 
-                $newContent = '## Generated at: ' . date('c');
+                $newContent = '## Generated at: ' . date('c') . PHP_EOL;
                 $newContent .= implode("\n", $cleanList);
                 if ($newContent != $sourceContent) {
                     file_put_contents($listFile, $newContent);
