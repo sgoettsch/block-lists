@@ -238,14 +238,17 @@ class build
                 $sourceContent = explode("\n", $fileContent);
                 foreach ($sourceContent as $value) {
                     $value = trim($value);
-                    $dnsValue = gethostbyname($value);
+                    if (!str_starts_with($value, '#')) {
+                        $dnsValue = gethostbyname($value);
 
-                    if ($value != $dnsValue) {
-                        $cleanList[$value] = $value;
+                        if ($value != $dnsValue) {
+                            $cleanList[$value] = $value;
+                        }
                     }
                 }
 
-                $newContent = implode("\n", $cleanList);
+                $newContent = '## Generated at: ' . date('c');
+                $newContent .= implode("\n", $cleanList);
                 if ($newContent != $sourceContent) {
                     file_put_contents($listFile, $newContent);
                 }
