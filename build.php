@@ -234,7 +234,7 @@ class build
 
             $listFile = __DIR__ . '/' . $list . '/list';
             $fileContent = file_get_contents($listFile);
-            if ($fileContent) {
+            if ($fileContent !== false) {
                 $sourceContent = explode("\n", $fileContent);
                 foreach ($sourceContent as $value) {
                     $value = trim($value);
