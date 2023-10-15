@@ -183,12 +183,14 @@ class build
             return '';
         }
 
-        if (in_array($value[0], ['#', '[', ':', '(', '&', '"', '@', '<', '/'], true)) {
-            return '';
-        }
-
         /** @noinspection HttpUrlsUsage */
         $value = trim(str_replace(['http://', 'https://', 'www.', '0.0.0.0 ', '127.0.0.1 ', "\r", "\n"], '', $value));
+
+        foreach(['#', '[', ':', '(', '&', '"', '@', '<', '/'] as $needle) {
+            if (str_starts_with($value, $needle)) {
+                return '';
+            }
+        }
 
         // remove comments
         foreach (['#', '[', ':', '(', '&', '"', '@', '<', '/', ' '] as $remove) {
@@ -198,7 +200,7 @@ class build
             }
         }
 
-        if (in_array($value, ['localhost', '404'], true)) {
+        if (in_array($value, ['localhost', '404', '127.0.0.1', 'wpad'], true)) {
             return '';
         }
 
