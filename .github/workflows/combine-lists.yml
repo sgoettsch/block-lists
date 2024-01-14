@@ -9,6 +9,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    concurrency: build-${{ github.repository }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
