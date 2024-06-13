@@ -17,5 +17,14 @@
   "prHourlyLimit": 0,
   "prConcurrentLimit": 0,
   "dependencyDashboard": false,
-  "separateMinorPatch": true
+  "separateMinorPatch": true,
+  "platformAutomerge": true,
+  "automergeType": "branch",
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["pin", "digest", "pinDigest"],
+      "automerge": true,
+      "automergeType": "branch"
+    }
+  ]
 }
