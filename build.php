@@ -3,6 +3,8 @@
 class build
 {
     private static array $cache = [];
+
+    /** @var array|string[] $lists */
     private static array $lists = [
         'ads',
         'fakeNews',
@@ -23,6 +25,7 @@ class build
         self::validateOwnLists();
         self::downloadLists();
         self::combineLists();
+        self::writeNewDeadHosts();
     }
 
     /**
@@ -32,20 +35,23 @@ class build
     public static function downloadLists(): void
     {
         foreach (self::$lists as $list) {
-            $sourceContent = file_get_contents(__DIR__ . '/' . $list . '/sources.json');
-            if ($sourceContent) {
-                $sources = json_decode($sourceContent, true, 512, JSON_THROW_ON_ERROR);
-                foreach ($sources as $source) {
-                    self::downloadList($source['url']);
+            $source = __DIR__ . '/' . $list . '/sources.json';
+            if (file_exists($source)) {
+                $sourceContent = file_get_contents($source);
+                if ($sourceContent) {
+                    $sources = json_decode($sourceContent, true, 512, JSON_THROW_ON_ERROR);
+                    foreach ($sources as $source) {
+                        self::downloadList($source['url']);
 
-                    echo '✅ List downloaded' . PHP_EOL;
+                        echo '✅ List downloaded' . PHP_EOL;
 
-                    if (!empty($source['description'])) {
-                        echo 'ℹ️ List details: ' . $source['description'] . PHP_EOL;
-                    }
+                        if (!empty($source['description'])) {
+                            echo 'ℹ️ List details: ' . $source['description'] . PHP_EOL;
+                        }
 
-                    if (!empty($source['urlDetails'])) {
-                        echo 'ℹ️ More details for this list can be found at: ' . $source['urlDetails'] . PHP_EOL;
+                        if (!empty($source['urlDetails'])) {
+                            echo 'ℹ️ More details for this list can be found at: ' . $source['urlDetails'] . PHP_EOL;
+                        }
                     }
                 }
             }
@@ -84,11 +90,11 @@ class build
             ]);
             $content = curl_exec($curl);
             curl_close($curl);
-        }
 
-        if (curl_errno($curl) === 0) {
-            file_put_contents($location . $filename, $content);
-            return;
+            if (curl_errno($curl) === 0) {
+                file_put_contents($location . $filename, $content);
+                return;
+            }
         }
 
         throw new RuntimeException('⚠️ Could not download ' . $l);
@@ -127,20 +133,23 @@ class build
             $allRecords = [];
 
             $hostsFile = __DIR__ . '/' . $list . '/hosts';
-            $sourceContent = file_get_contents(__DIR__ . '/' . $list . '/sources.json');
-            if ($sourceContent) {
-                $sources = json_decode($sourceContent, true, 512, JSON_THROW_ON_ERROR);
-                foreach ($sources as $source) {
-                    $res = self::readAndParseList($source['url']);
-                    foreach ($res as $r) {
-                        if (!empty($r)) {
-                            $allRecords[$r] = $r;
+            $source = __DIR__ . '/' . $list . '/sources.json';
+            if (file_exists($source)) {
+                $sourceContent = file_get_contents($source);
+                if ($sourceContent) {
+                    $sources = json_decode($sourceContent, true, 512, JSON_THROW_ON_ERROR);
+                    foreach ($sources as $source) {
+                        $res = self::readAndParseList($source['url']);
+                        foreach ($res as $r) {
+                            if (!empty($r)) {
+                                $allRecords[$r] = $r;
+                            }
                         }
-                    }
 
 
-                    if (!empty($allRecords)) {
-                        file_put_contents($hostsFile, implode("\n", $allRecords));
+                        if (!empty($allRecords)) {
+                            file_put_contents($hostsFile, implode("\n", $allRecords));
+                        }
                     }
                 }
             }
@@ -186,7 +195,7 @@ class build
         /** @noinspection HttpUrlsUsage */
         $value = trim(str_replace(['http://', 'https://', 'www.', '0.0.0.0 ', '127.0.0.1 ', "\r", "\n"], '', $value));
 
-        foreach(['#', '[', ':', '(', '&', '"', '@', '<', '/'] as $needle) {
+        foreach (['#', '[', ':', '(', '&', '"', '@', '<', '/'] as $needle) {
             if (str_starts_with($value, $needle)) {
                 return '';
             }
@@ -245,6 +254,8 @@ class build
 
                         if ($value != $dnsValue) {
                             $cleanList[$value] = $value;
+                        } else {
+                            self::$cache['deadHosts'][] = $value;
                         }
                     }
                 }
@@ -254,6 +265,29 @@ class build
                 if ($newContent != $sourceContent) {
                     file_put_contents($listFile, $newContent);
                 }
+            }
+        }
+    }
+
+    private static function writeNewDeadHosts(): void
+    {
+        $deadHostsFile = __DIR__ . '/dead/hosts';
+
+        if (file_exists($deadHostsFile)) {
+            $cleanList = file($deadHostsFile);
+            if ($cleanList) {
+                unset($cleanList[0]);
+
+                foreach (self::$cache['deadHosts'] as $value) {
+                    $value = trim($value);
+                    if (!empty($value)) {
+                        $cleanList[] = $value;
+                    }
+                }
+
+                $newContent = '## Generated at: ' . date('c') . PHP_EOL;
+                $newContent .= implode("\n", array_unique($cleanList));
+                file_put_contents($deadHostsFile, $newContent);
             }
         }
     }

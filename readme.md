@@ -4,16 +4,17 @@ Different host files for different cases to enhance own privacy
 
 # 🗒️ Lists
 
-| File                         | Use case                     | Sources                           |
-|------------------------------|------------------------------|-----------------------------------|
-| [ads](ads/hosts)             | Anti ads and ad tracker list | [Sources](ads/sources.json)       |
-| [fakeNews](fakeNews/hosts)   | Anti fake news list          | [Sources](fakeNews/sources.json)  |
-| [gambling](gambling/hosts)   | Anti gambling list           | [Sources](gambling/sources.json)  |
-| [mailSpam](mailSpam/hosts)   | Anti spam mail list          | [Sources](mailSpam/sources.json)  |
-| [malware](malware/hosts)     | Anti malware list            | [Sources](malware/sources.json)   |
-| [scam](scam/hosts)           | Anti scam list               | [Sources](scam/sources.json)      |
-| [spam](spam/hosts)           | Anti spam list               | [Sources](spam/sources.json)      |
-| [telemetry](telemetry/hosts) | Anti telemetry list          | [Sources](telemetry/sources.json) |
+| File                         | Use case                     | Sources                                              |
+|------------------------------|------------------------------|------------------------------------------------------|
+| [ads](ads/hosts)             | Anti ads and ad tracker list | [Sources](ads/sources.json)                          |
+| [dead](dead/hosts)           | Dead hosts list              | Domain no longer found on other lists are added here |
+| [fakeNews](fakeNews/hosts)   | Anti fake news list          | [Sources](fakeNews/sources.json)                     |
+| [gambling](gambling/hosts)   | Anti gambling list           | [Sources](gambling/sources.json)                     |
+| [mailSpam](mailSpam/hosts)   | Anti spam mail list          | [Sources](mailSpam/sources.json)                     |
+| [malware](malware/hosts)     | Anti malware list            | [Sources](malware/sources.json)                      |
+| [scam](scam/hosts)           | Anti scam list               | [Sources](scam/sources.json)                         |
+| [spam](spam/hosts)           | Anti spam list               | [Sources](spam/sources.json)                         |
+| [telemetry](telemetry/hosts) | Anti telemetry list          | [Sources](telemetry/sources.json)                    |
 
 # 💡 Description
 
