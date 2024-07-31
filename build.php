@@ -275,7 +275,7 @@ class build
 
         if (file_exists($deadHostsFile)) {
             $cleanList = file($deadHostsFile);
-            if ($cleanList) {
+            if (is_array($cleanList)) {
                 unset($cleanList[0]);
 
                 foreach (self::$cache['deadHosts'] as $value) {
