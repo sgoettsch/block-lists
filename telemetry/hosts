@@ -856,8 +856,6 @@ traces.sr.roku.com
 www.traces.sr.roku.com
 analytics.kidoz.net
 www.analytics.kidoz.net
-event.collector.scopely.io
-www.event.collector.scopely.io
 track.tenjin.com
 www.track.tenjin.com
 tracker.mtrtb.com
@@ -1074,6 +1072,10 @@ int.vlancaa.fun
 www.int.vlancaa.fun
 tok.vaicore.xyz
 www.tok.vaicore.xyz
+stats.rustore.ru
+www.stats.rustore.ru
+vk-analytics.ru
+www.vk-analytics.ru
 tracking.iwhop.cn
 www.tracking.iwhop.cn
 push-api.topaz-analytics.com
