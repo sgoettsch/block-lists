@@ -83,5 +83,10 @@
         "url": "https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt",
         "urlDetails": "",
         "description": ""
-    }
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/refs/heads/master/SmartTV.txt",
+        "urlDetails": "",
+        "description": ""
+    },
 ]
