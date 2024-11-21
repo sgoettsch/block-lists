@@ -286,7 +286,7 @@ class build
                 }
 
                 $newContent = '## Generated at: ' . date('c') . PHP_EOL;
-                $newContent .= implode("\n", array_unique($cleanList));
+                $newContent .= implode("\n", array_unique(array_filter($cleanList)));
                 file_put_contents($deadHostsFile, $newContent);
             }
         }
