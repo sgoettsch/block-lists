@@ -278,6 +278,10 @@ class build
             if (is_array($cleanList)) {
                 unset($cleanList[0]);
 
+                foreach ($cleanList as $key => $value) {
+                    $cleanList[$key] = trim($value);
+                }
+
                 foreach (self::$cache['deadHosts'] as $value) {
                     $value = trim($value);
                     if (!empty($value)) {
