@@ -1048,6 +1048,8 @@ int.vlancaa.fun
 www.int.vlancaa.fun
 tok.vaicore.xyz
 www.tok.vaicore.xyz
+logs-ingress.svc.vinted.com
+www.logs-ingress.svc.vinted.com
 analytics.baliusuperapp.xyz
 www.analytics.baliusuperapp.xyz
 log-va-us-looki.capcutapi.com
@@ -1688,8 +1690,6 @@ adtracker.mkjigsaw.com
 www.adtracker.mkjigsaw.com
 stats.oilpainting.colorbynumber.veraxen.com
 www.stats.oilpainting.colorbynumber.veraxen.com
-snowplow-collector.apartmentlist.io
-www.snowplow-collector.apartmentlist.io
 qa-events-schema.viacom.tech
 www.qa-events-schema.viacom.tech
 dns-clientinfo.cbsivideo.com
