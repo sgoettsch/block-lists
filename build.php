@@ -148,6 +148,7 @@ class build
 
 
                         if (!empty($allRecords)) {
+                            asort($allRecords);
                             file_put_contents($hostsFile, implode("\n", $allRecords));
                         }
                     }
@@ -261,6 +262,7 @@ class build
                 }
 
                 $newContent = '## Generated at: ' . date('c') . PHP_EOL;
+                asort($cleanList);
                 $newContent .= implode("\n", $cleanList);
                 if ($newContent != $sourceContent) {
                     file_put_contents($listFile, $newContent);
@@ -290,7 +292,9 @@ class build
                 }
 
                 $newContent = '## Generated at: ' . date('c') . PHP_EOL;
-                $newContent .= implode("\n", array_unique(array_filter($cleanList)));
+                $array_unique = array_unique(array_filter($cleanList));
+                asort($array_unique);
+                $newContent .= implode("\n", $array_unique);
                 file_put_contents($deadHostsFile, $newContent);
             }
         }
