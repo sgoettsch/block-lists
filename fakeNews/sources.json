@@ -19,5 +19,13 @@
     {
         "url": "https://raw.githubusercontent.com/marktron/fakenews/master/fakenews",
         "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/alternates/fakenews-only/hosts",
+        "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/alternates/fakenews/hosts",
+        "description": ""
     }
 ]

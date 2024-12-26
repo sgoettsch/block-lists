@@ -143,5 +143,10 @@
         "url": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
         "urlDetails": "https://github.com/tiuxo/hosts/",
         "description": "Categorized hosts files for DNS based content blocking"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
+        "urlDetails": "https://adaway.org/",
+        "description": "AdAway is an open source ad blocker for Android using the host file"
     }
 ]
