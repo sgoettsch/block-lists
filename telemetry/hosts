@@ -1,4 +1,4 @@
-## Generated at: 2025-04-03T03:06:33+00:00
+## Generated at: 2025-04-03T18:13:47+00:00
 0077777700140002.myhomescreen.tv
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
@@ -154,7 +154,9 @@
 9pwigjmwo.xzcs3zlph.com
 9pwigjmwo.xzcs3zlph.com.edgesuite.net
 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+_hbbtv-ait._tcp.hbbtvopapps.org
 _xmpp-client._tcp.managed.xmpp.foxtel.com.au
+_xmpp-client._tcp.scs.samsungqbe.com
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -350,10 +352,12 @@ ad.exelate.com
 ad.fyber.angsrvr.com
 ad.groupon.co.uk
 ad.lgappstv.com
+ad.lgsmartad.com
 ad.nettvservices.com
 ad.prismamediadigital.com
 ad.pxlad.io
 ad.samsungadhub.com
+ad.samsungadhub.net
 ad.smartclip.net
 ad.sxp.smartclip.net
 ad.toutiao.com
@@ -652,7 +656,10 @@ ads.mopub.com
 ads.msn.com
 ads.pointroll.com
 ads.pureleads.com
+ads.roku.com
+ads.samsung.com
 ads.samsungads.com
+ads.samsungads.net
 ads.tapdaq.com
 ads.tiktok.com
 ads.tiktok.com.edgekey.net
@@ -892,7 +899,14 @@ agyahooag.112.2o7.net
 ahainternational.com
 ahainternational.net
 ahalogy.com
+ai.tclking.com
 aic-ngfts.lge.com
+aic.cdpsvc.lgtvcommon.com
+aic.homeprv.lgtvcommon.com
+aic.netflixvoice.lgtvcommon.com
+aic.nudge.lgtvcommon.com
+aic.recommend.lgtvcommon.com
+aic.service.lgtvcommon.com
 aideas.toutiao.com
 aidps.atdmt.com
 aiglifemicrositeprod.112.2o7.net
@@ -994,6 +1008,7 @@ am.myapps123.com
 am.yahoo.co.jp
 amaliatz.com
 amandatz.com
+amarillo.sb.roku.com
 amaritzer.com
 amauthprd.samsungcloudsolution.com
 amazdiaeprod.112.2o7.net
@@ -1285,6 +1300,7 @@ and.co.uk.122.2o7.net
 and.noahapps.jp
 andmlb.kshwtj.com
 andomedia.com
+andr-25-aftkmst12-641002610.api.amazonvideo.com
 android-stat.acestream.net
 android.bugly.qq.com
 androidtvchannels-pa.googleapis.com
@@ -1468,6 +1484,7 @@ api.112.2o7.net
 api.abcsinsights.com
 api.ad.intl.xiaomi.com
 api.ad.xiaomi.com
+api.amazon.com
 api.amemv.com
 api.amemv.com.bytedns.net
 api.amemv.com.w.kunluncan.com
@@ -1501,6 +1518,7 @@ api.pubnative.net
 api.redshell.io
 api.reproio.com
 api.saasexch.com
+api.samsungcloud.com
 api.sec.miui.com
 api.segment.io
 api.setting.intl.miui.com
@@ -1814,6 +1832,7 @@ appleglobal.102.112.2o7.net
 appleglobal.112.2o7.net
 applepstcrmprod.112.2o7.net
 appliances2compare.com
+applicast.ga.sony.net
 applicationstreamingnetwork.com
 applicationstreamingnetwork.info
 applicationstreamingnetwork.net
@@ -1894,12 +1913,14 @@ arc3.msn.com
 arcpublishing.com
 arcspire.io
 arcsystem.rodopibg.net
+arcus-uswest.amazon.com
 arddigit.ivwbox.de
 areyouahuman.com
 argus.byted.org
 ariba.112.2o7.net
 arnostat.nl
 arrowscripts.com
+artcom-ctv.com
 arthurmaes.top
 artist.tiktok.com
 artists.tiktok.com
@@ -1996,6 +2017,7 @@ auth-launcher-em.hismarttv.com
 auth-launcher-na.hismarttv.com
 auth-na.hismarttv.com
 auth.be.sec.miui.com
+auth.samsungosp.com
 authbe.sec.intl.miui.com
 authorisationimprint.com
 autoanythingcom.112.2o7.net
@@ -2025,6 +2047,8 @@ avazuinc.com
 avazunativeads.com
 avdpro.ru
 avgtechnologies.112.2o7.net
+aviary.amazon.com
+aviary.amazon.de
 avid.com.102.112.2o7.net
 avidtechnology.112.2o7.net
 avis.112.2o7.net
@@ -2039,6 +2063,7 @@ avnglobalprod.112.2o7.net
 avocarrot.com
 avocet.io
 avon.112.2o7.net
+avs-alexa-19-eu.amazon.com
 awaps.net
 awarenesstech.122.2o7.net
 aweber.com
@@ -2120,6 +2145,7 @@ b94.yahoo.co.jp
 b99.yahoo.co.jp
 babebrkrflow.com
 babycentercom.112.2o7.net
+backend.redbutton.de
 backlinkbuild.com
 bae5tracker.com
 bafybeihxqop3q2g3f6dd6ermzqn3xg7jbtz762papo5eye2nermqothtie.ipfs.nftstorage.link
@@ -2271,6 +2297,7 @@ bidswitch.net
 bidtheatre.com
 bidtrk.com
 bidvertiser.com
+bif.sr.roku.com
 bigbos.top
 bigdata.adups.com
 bigdataexchange.com
@@ -2808,7 +2835,9 @@ cdn.sgsnssdk.com
 cdn.smartclip.net
 cdn.tiktok.com.c.footprint.net
 cdn.tiktok.com.c.secure.footprint.net
+cdn.tvtelemetrie.de
 cdn.video.playwire.com
+cdn.welt-ctv.com
 cdn1-effect.snssdk.com
 cdn2.inner-active.mobi
 cdn3-effect.snssdk.com
@@ -2819,6 +2848,8 @@ cdnh2.net
 cdnh3.net
 cdns-content.dzcdn.net
 cdp.cloud.unity3d.com
+cdpbeacon.lgtvcommon.com
+cdpsvc.lgtvcommon.com
 cds1.stn.llnw.net
 cds10.stn.llnw.net
 cds1203.lon.llnw.net
@@ -3270,6 +3301,7 @@ collect-eu-fy2019.myhomescreen.tv
 collect-eu-fy2020.myhomescreen.tv
 collect-eu-fy2021.myhomescreen.tv
 collect-eu-fy2022.myhomescreen.tv
+collect-eu-fy2023.myhomescreen.tv
 collect-us-fy2014.myhomescreen.tv
 collect-us-fy2015.myhomescreen.tv
 collect-us-fy2016.myhomescreen.tv
@@ -3279,6 +3311,7 @@ collect-us-fy2019.myhomescreen.tv
 collect-us-fy2020.myhomescreen.tv
 collect-us-fy2021.myhomescreen.tv
 collect-us-fy2022.myhomescreen.tv
+collect-us-fy2023.myhomescreen.tv
 collect.4gtv.tv
 collect.analytics.unity3d.com
 collect.babybus.com
@@ -3338,8 +3371,10 @@ config.inmobi.com
 config.ioam.de
 config.jpush.cn
 config.safedk.com
+config.samsungads.com
 config.uca.cloud.unity3d.com
 config2.mparticle.com
+configprd.samsungcloudsolution.com
 configprd.samsungcloudsolution.net
 confirmsubscription.com
 conn.masjesu.zip
@@ -3366,6 +3401,7 @@ contextuads.com
 contextweb.com
 continuum.dds.microsoft.com
 control-zoo-dai-default.tvinteractive.tv
+control-zoo-dtsstage.tvinteractive.tv
 control.smbeat.jp
 control.tvinteractive.tv
 control2.tvinteractive.tv
@@ -3388,6 +3424,7 @@ cookingcom.112.2o7.net
 coolander247.click
 cooldeal.click
 cooper.logs.roku.com
+coordinator-production-28516768.us-east-1.elb.amazonaws.com
 corelcom.112.2o7.net
 corelividkds.112.2o7.net
 coreluk.112.2o7.net
@@ -3647,6 +3684,7 @@ d179kwmlpc4o47.cloudfront.ne
 d179kwmlpc4o47.cloudfront.net
 d1fet3u01ea8tr.cloudfront.net
 d1g3gvqfdsvkse.cloudfront.net
+d1itljbfuaik2i.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
 d1oxlq5h9kq8q5.cloudfront.net
 d1p5t7ayuzmgma.cloudfront.net
@@ -3737,6 +3775,7 @@ dcoengine.com
 ddf-t1.com
 ddf-t2.com
 ddf-t3.com
+de.container.enhanced.live
 de.coremetrics.com
 de.ioam.de
 de.lgtvsdp.com
@@ -3768,6 +3807,7 @@ deltadevconfirmsubscription.com
 deltadevcreatesend.com
 deltatestconfirmsubscription.com
 deltatestcreatesend.com
+deluxemusic.hbbtv.xadspoteffects.tv
 demandbase.com
 demdex.com
 demdex.net
@@ -3985,6 +4025,7 @@ dowjoneson.com
 down.muscdn.com
 download.innovare.no
 download.yourfileinfo.com
+dp-gw-na.amazon.com
 dpagcoagcoglobal.112.2o7.net
 dpbolvw.net
 dpchica.mobi
@@ -4154,6 +4195,7 @@ edge-alinc2-oss-slb2.bytecdn.cn
 edge-alisc1-oss.bytecdn.cn
 edge-alisc1-oss.snssdk.com
 edge-api.saasexch.com
+edgesuite.net
 edietsmain.112.2o7.net
 edigitalresearch.com
 edigitalsurvey.com
@@ -4202,6 +4244,12 @@ effimails8.com
 egeng.info
 ehadvicedev.112.2o7.net
 eharmony.112.2o7.net
+eic.cdpsvc.lgtvcommon.com
+eic.homeprv.lgtvcommon.com
+eic.netflixvoice.lgtvcommon.com
+eic.nudge.lgtvcommon.com
+eic.recommend.lgtvcommon.com
+eic.service.lgtvcommon.com
 eiodiscount.org
 ek92.cn
 ekomi-argentina.com
@@ -4330,6 +4378,7 @@ epocrates.112.2o7.net
 epom.com
 eprize.com
 eprizefulfillment.com
+epu.samsungelectronics.com
 eqads.com
 equinix-fra-api1.l.byteoversea.net
 equinix-fra-k8s-v1.l.byteoversea.net
@@ -4353,6 +4402,7 @@ erne.co
 ero-advertising.com
 erombflowms.com
 errorception.com
+errors.hbbtv.smartclip.net
 erstegroupholding.112.2o7.net
 ertpikbdctyfxeqkzdghb.com
 esa-reg-eup.myoppo.com
@@ -4377,9 +4427,11 @@ etracker.com
 etracker.de
 ets.easybrain.com
 etyper.com
+eu-api.samsungyosemite.com
 eu-teams.events.data.microsoft.com
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
+eu.api.amazonvideo.com
 eu.vortex-win.data.microsoft.com
 eu.vortex.data.microsoft.com
 euc.adserver.snapads.com
@@ -4434,6 +4486,7 @@ events.kaloo.ga
 events.lbesecapi.com
 events.mz.unity3d.com
 events.prd.api.discomax.com
+events.samsungads.com
 events.swiftlycontent.net
 events.swishapps.ai
 events.textme-app.com
@@ -4590,6 +4643,7 @@ fhr.cdn.mozilla.net
 fidelity-media.com
 fierts.com
 figlobal.112.2o7.net
+file2fxm.azureedge.net
 filebulldog.com
 fileserve.xyz
 filitrac.com
@@ -4661,6 +4715,7 @@ foxidol.112.2o7.net
 foxinteractivemedia.122.2o7.net
 foxtel-prod-events.digitalsmiths.net
 fpctraffic2.com
+fpu.samsungelectronics.com
 fqtag.com
 fr4.byteoversea.com
 frantro.de
@@ -4704,6 +4759,7 @@ frtyg.com
 fruitflan.com
 ft.snssdk.com
 ft.snssdk.com.w.kunluncan.com
+ftv-smtv.ntp-fireos.com
 fujielectricholdings.112.2o7.net
 fullstory.com
 fungetbag.info
@@ -4751,6 +4807,11 @@ gateway.122.2o7.net
 gateway.facebook.com
 gator.io
 gaug.es
+gb.ad.lgsmartad.com
+gb.info.lgsmartad.com
+gb.lgrecommends.lgappstv.com
+gb.lgtvsdp.com
+gb.rdx2.lgtvsdp.com
 gbl007.com
 gblwebcen.com
 gcd-s2s.appsflyer.com
@@ -4822,6 +4883,7 @@ geoadnxs.org
 geocomply.com
 geogslb.com
 geogslb.net
+geohawk.co.uk
 geoinfo.i2w.io
 geoip.fotoable.net
 geoip.ifunny.co
@@ -4875,6 +4937,8 @@ gjfastcompanycom.112.2o7.net
 gjincscobleizer.112.2o7.net
 glam.com
 glclk.about.com
+gld.push.samsungosp.co
+gld.push.samsungosp.com
 gld.samsungosp.com
 gldsta-02-or.com
 gleam.io
@@ -4958,6 +5022,7 @@ gplog-sg.byteoversea.com
 gplog-va.byteoversea.com
 gplog.snssdk.com
 gpm.samsungqbe.com
+gpu.samsungelectronics.com
 gpwebsolutions.co.uk
 graf.ly
 grafana-boe.byted.org
@@ -5082,6 +5147,7 @@ havingtrack.com
 haymarketbusinesspublications.122.2o7.net
 hb.afl.rakuten.co.jp
 hbbtv-1.eurosport.com
+hbbtv-apps.redbutton.de
 hbbtv-extern-fe01.sim-technik.de
 hbbtv-track.redbutton.de
 hbbtv.3sat.de
@@ -5090,9 +5156,12 @@ hbbtv.kabeleins.de
 hbbtv.prosieben.de
 hbbtv.qvc.de
 hbbtv.redbutton.de
+hbbtv.rtl.de
 hbbtv.rtl2.de
 hbbtv.sat1.de
+hbbtv.servustv.com
 hbbtv.sixx.de
+hbbtv.sport1.de
 hbbtv.superrtl.de
 hbbtv.zdf.de
 hbbtv01p.anixe.net
@@ -5249,6 +5318,7 @@ homed.snssdk.com
 homed.snssdk.com.w.kunluncan.com
 homepjlconline.com.112.2o7.net
 homepproav.112.2o7.net
+homeprv.lgtvcommon.com
 homesteadtechnologies.122.2o7.net
 homestore.122.2o7.net
 homewebbnew.us
@@ -5283,6 +5353,7 @@ houseads.ttpsdk.info
 housextriertst.bid
 hpepdfembedapi.112.2o7.net
 hphqglobal.112.2o7.net
+hpu.samsungelectronics.com
 hq1.appsflyer.com
 hqcampaign.com
 hr.toutiao.com
@@ -5343,6 +5414,7 @@ httpdns.byteoversea.com
 httptrack.com
 htyy.toutiao.com
 huafeibianzhidai.com
+huan.tv
 hublogic.com
 hubspot.net
 hubspot10.com
@@ -5450,6 +5522,7 @@ ibd-as-api.iq.com
 ibibo.112.2o7.net
 ibillboard.com
 ibis.lgappstv.com
+ibs.lgappstv.com
 ibytedtos.com
 ibytedtos.com.edgekey.net
 ibytedtos.com.edgesuite.net
@@ -5471,6 +5544,7 @@ ichannel.musical.ly
 ichannel.sgsnssdk.com
 ichannel.snssdk.com
 ichannel.snssdk.com.bytedns.net
+ichnaea-web.netflix.com
 ichnaea.netflix.com
 iconpeak.com
 icweiliimg1.pstatp.com
@@ -5563,6 +5637,8 @@ imdcd.snssdk.com
 imedia.cz
 imeem.112.2o7.net
 img-bcy-qn.pstatp.com
+img-ctv.digitaluk.co.uk
+img-resize-cdn-prod.samsungnyc.com
 img.onesignal.com
 imgclick.net
 imiclk.com
@@ -5609,6 +5685,7 @@ influentialinsights.com
 influentialinsights.net
 info.a7.org
 info.kugou.com
+info.lgsmartad.com
 infolink.pavv.co.k
 infolink.pavv.co.kr
 infolinks.com
@@ -5736,6 +5813,7 @@ ipstatp.com
 ipstatp.com.edgekey.net
 ipstatp.com.edgesuite.net
 iptrack.biz
+ipu.samsungelectronics.com
 ipv4-count.gmx.net
 ipv6-count.gmx.net
 ipv6-v16.muscdn.com
@@ -5850,11 +5928,13 @@ johnlewis.112.2o7.net
 jordao.80.hk
 joscramp.top
 journalregistercompany.122.2o7.net
+jp.ad.lgsmartad.com
 jp.info.lgsmartad.com
 jp.lgtvsdp.com
 jp.rdx2.lgtvsdp.com
 jpmpartnersites.112.2o7.net
 jpmprivatebank.112.2o7.net
+jpu.samsungelectronics.com
 jpush.cn
 jpush.io
 jrcdelcotimescom.122.2o7.net
@@ -6019,6 +6099,7 @@ lbapi.snssdk.com
 lbapi.snssdk.com.w.kunluncan.com
 lccronadevelopment.112.2o7.net
 lcprd1.samsungcloudsolution.net
+lcprd2.samsungcloudsolution.net
 lcstg2.samsungcloudsolution.net
 lctrk.com
 lds.lenovomm.com
@@ -6051,6 +6132,7 @@ legacyportal.nettvservices.com
 legolas-media.com
 legroup21.gslb.cdnle.com
 leiki.com
+leiniao.com
 lelabdecisionnel.com
 lenovoappsshareitprod.112.2o7.net
 lenovoappssystemupdateprod.112.2o7.net
@@ -6148,6 +6230,7 @@ lg-lf.snssdk.com
 lg-lq.snssdk.com
 lg-release-tracking-8080.gcld-line.com
 lg.snssdk.com
+lgad.cjpowercast.com
 lgad.cjpowercast.com.edgesuite.net
 lgappstv.com
 lgelectronics.122.2o7.net
@@ -6247,6 +6330,7 @@ log-api.pangolin-sdk-toutiao.com
 log-c.snssdk.com
 log-c.snssdk.com.w.kunluncan.com
 log-cold.snssdk.com
+log-config.samsungacr.com
 log-hl-ipv6.snssdk.com
 log-hl.snssdk.com
 log-hl.snssdk.com.w.kunluncan.com
@@ -6385,6 +6469,7 @@ logsink.zedge.net
 logsss.com
 logtrace.snssdk.com
 logupdate.avlyun.sec.miui.com
+longpolling.redbutton.de
 loomia.com
 loopback.axelvasquez.com
 loopme.me
@@ -6394,6 +6479,7 @@ lp4.io
 lps.innogames.com
 lps.innogamescdn.com
 lpsnmedia.net
+lpu.samsungelectronics.com
 lqw.me
 lrcdn.net
 lt.snssdk.com
@@ -6519,6 +6605,7 @@ marksandspencer.122.2o7.net
 marktest.pt
 marktools.awem.com
 marsads.com
+mas-ext-eu.amazon.com
 mas-sdk.amazon.com
 maskbaby.com.cn
 masnbc.com
@@ -17049,6 +17136,7 @@ mpnrs.com
 mpstat.us
 mptc-suse1.muscdn.com
 mptracking.mobi
+mpu.samsungelectronics.com
 mpud-suse1.muscdn.com
 mpunlock.com
 mqtt-mini.facebook.com
@@ -17158,6 +17246,7 @@ mthsense.com
 mtlog.droid4x.cn
 mtrace.qq.com
 mtrack.port25251.com
+mtrcs.samba.tv
 mtvn.112.2o7.net
 mu.isnssdk.com
 mue.toutiao.com
@@ -17192,6 +17281,7 @@ musically.app.link
 musically.muscdn.com
 musician.tiktok.com
 musicid.samsungcloudsolution.com
+musicid.samsungcloudsolution.net
 mva.byteoversea.com
 mva.isnssdk.com
 mva2.byteoversea.com
@@ -17207,6 +17297,7 @@ mxmacromedia.112.2o7.net
 mxpnl.com
 mxptint.net
 my.yieldmanager.com
+my7v.com
 myads.com
 myads.re
 myapptv.net
@@ -17376,6 +17467,7 @@ ngfts.lge.com
 nhl.112.2o7.net
 nicecdn01.com
 nicecdn02.com
+nickelodeon-at.gbucket.at
 nielsen.112.2o7.net
 nihonkogakuin.122.2o7.net
 nikefootball.112.2o7.net
@@ -17473,6 +17565,7 @@ novonordiskas.112.2o7.net
 npario-inc.net
 npario.com
 npaw.com
+npu.samsungelectronics.com
 nqzeqb.xzcs3zlph.com
 nr-data.net
 nr.bidderstack.com
@@ -17496,6 +17589,7 @@ ntracker-collector.naver.com
 nttcommunications.122.2o7.net
 ntv.io
 ntvp.wpu.sh
+nudge.lgtvcommon.com
 nuffnang.com.sg
 nuggad.net
 numerino.cz
@@ -17525,6 +17619,7 @@ nyttechnology.112.2o7.net
 o-sg.ibytedtos.com
 o-us.ibytedtos.com
 o2o.api.xiaomi.com
+o2r2hew432.execute-api.us-east-1.amazonaws.com
 oas-central.com
 oas-central.net
 oas-network.com
@@ -17542,6 +17637,7 @@ oca.telemetry.microsoft.com
 oca.telemetry.microsoft.com.nsatc.net
 oca.telemetry.microsoft.us
 occ-0-399-783.1.nflxso.net
+ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
 oclaserver.com
 oclasrv.com
 octonet.com
@@ -17690,6 +17786,7 @@ optinmonster.com
 optnmnstr.com
 optnmstr.com
 optoutasap.com
+opu.samsungelectronics.com
 oracle.112.2o7.net
 oraclecom.112.2o7.net
 oracleglobal.112.2o7.net
@@ -17702,8 +17799,10 @@ orkutoxy.com
 orlandoinfocom.112.2o7.net
 osb-apps-v2.samsungqbe.com
 osb-apps.samsungqbe.com
+osb-auth-eusvc-v2.samsungqbe.com
 osb-eusvc.samsungqbe.com
 osb-krsvc.samsungqbe.com
+osb-v2.samsungqbe.com
 osb.samsungqbe.com
 osiristrading.112.2o7.net
 otfp.byteoversea.com
@@ -17739,6 +17838,7 @@ p-hbbtv.superrtl.de
 p-t2.byteoversea.com
 p-td.com
 p-vcloud.byteimg.com
+p.ads.roku.com
 p.hypstarcdn.com
 p.ipstatp.com
 p.nexac.com
@@ -18272,6 +18372,7 @@ pixel.honestjohn.co.uk
 pixel.invitemedia.com
 pixel.magentamarketing.com
 pixel.messenger.com
+pixel.mtrcs.samba.tv
 pixel.quantcount.com
 pixel.reddit.com
 pixel.redditmedia.com
@@ -18357,6 +18458,7 @@ ppcstat.com
 ppjol.net
 ppp077069099253.access.hol.gr
 pps-log.op-mobile.opera.com
+ppu.samsungelectronics.com
 ppx-2.isnssdk.com
 ppx-a.isnssdk.com
 ppx-a.isnssdk.com.edgekey.net
@@ -18405,6 +18507,8 @@ pro-market.net
 proadsredmsmt.com
 prod-analytics.royal.drmgms.com
 prod-clientlog.fastly.newssuite.sinfony.ne.jp
+prod-program.redbutton.de
+prod.amazoncrl.com
 prod.ingestion-edge.prod.dataops.mozgcp.net
 prod.report.nacustomerexperience.citi.com
 prod.spotify.map.fastlylb.net
@@ -18428,6 +18532,7 @@ propllrcurlmb.com
 proton-cj.com
 prov.samsungcloudsolution.com
 providence.net.br
+provisioning-use2.mgmt.aibixby.com
 proxy.siteterbaru.xyz
 proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
 prscripts.com
@@ -18715,6 +18820,7 @@ qifann.com
 qingcdn.com
 qmerce.com
 qnsr.com
+qpu.samsungelectronics.com
 qservz.com
 qsubmit.com
 qualityoffers.info
@@ -18819,6 +18925,7 @@ rcsmetrics.it
 rd.ane.yahoo.co.jp
 rd.business.com
 rd.samsungadhub.com
+rdl.lgtvcommon.com
 rdl.raysysacc.ir
 rdrct.cloud
 rdsa2011.com
@@ -18830,6 +18937,7 @@ rdsa2016.com
 rdsa2017.com
 rdsa2018.com
 rdsa2019.com
+rdx2.lgtvsdp.com
 reactful.com
 reading-hl.snssdk.com
 reading.snssdk.com
@@ -18853,6 +18961,7 @@ receiver-metis.infeng.site
 receiver.habby.mobi
 reclaimthenet.com
 recomenda.com.br
+recommend.lgtvcommon.com
 recordeaglecom.112.2o7.net
 recordnetcom.112.2o7.net
 recordonlinecom.112.2o7.net
@@ -18879,6 +18988,7 @@ redzumsmtva.com
 rees46.com
 reevoo.com
 refinedads.com
+reg.biv.sony.tv
 register.appsflyer.com
 register.appsflyersdk.com
 registercom.122.2o7.net
@@ -19031,6 +19141,7 @@ route.to
 routecdn.com
 royapp.com
 rp.com
+rpu.samsungelectronics.com
 rranking14.ziyu.net
 rrpartners.122.2o7.net
 rs.adapf.com
@@ -19067,6 +19178,8 @@ rtbx.us
 rtc-boe.byted.org
 rtc-logger-va.tiktokv.com
 rtc.bytedanceapi.com
+rtl-digitaltext.rtl-hbbtv.de
+rtl2.de
 rtlog-va.tiktokv.com
 rtlog.byteoversea.com
 rtlog.isnssdk.com
@@ -19238,16 +19351,22 @@ salesforce.com
 salesmanago.pl
 salespayouts.com
 salliemaecom.112.2o7.net
+samba.tv
 samsclub.112.2o7.net
 samson.hr
 samsungacr.com
+samsungacr.net
 samsungadhub.com
+samsungadhub.net
 samsungads.com
+samsungads.net
 samsungcloudsolution.com
 samsungcloudsolution.net
 samsungelectronics.com
+samsungosp.com
 samsungotn.net
 samsungqbe.com
+samsungrm.com
 samsungrm.net
 sanalytics.autozone.com
 sanalytics.boingtv.fr
@@ -19296,6 +19415,7 @@ sarky.org
 sas.samsungcloudsolution.com
 sas15k01.com
 sascdn.com
+sastv.samsungqbe.com
 saveu.tiktokv.com
 saxobutlereagle.122.2o7.net
 saxoconcordmonitor.122.2o7.net
@@ -19354,6 +19474,7 @@ script.trackword.net
 scripts.chitika.net
 scripts.kataweb.it
 scs-anapa.ru
+scs.samsungqbe.com
 scsmetrics.vodafone.it
 sd-ad.net
 sd-ad.org
@@ -19428,6 +19549,7 @@ secure-au.imrworldwide.com
 secure-cn.imrworldwide.com
 secure-dk.imrworldwide.com
 secure-eu.imrworldwide.com
+secure-geolocation.premiumtv.co.uk
 secure-it.imrworldwide.com
 secure-jp.imrworldwide.com
 secure-nz.imrworldwide.com
@@ -19530,11 +19652,13 @@ servesharp.net
 service.avail.net
 service.fyber.com
 service.game-mode.net
+service.lgtvcommon.com
 services.coem.awem.com
 services.wes.df.telemetry.microsoft.com
 servicesupport.hicloud.com
 serving-sys.com
 servingclks.com
+ses.3-t.uk
 sessioncam.com
 setting.adzcore.com
 settings-sandbox.data.microsoft.com
@@ -20258,6 +20382,7 @@ snta0034.com
 snxd.com
 so.toutiao.com
 so.toutiao.com.w.cdngslb.com
+social.biv.sony.tv
 socialhoney.co
 sociomantic.com
 socket-mt1-ingress-1987402783.us-east-1.elb.amazonaws.com
@@ -20299,6 +20424,7 @@ solvemedia.com
 sometrics.netapp.com
 songlytics.net
 sonobi.com
+sony.net
 sonybivstatic-a.akamaihd.net
 sonychina.112.2o7.net
 sonycorporate.112.2o7.net
@@ -20367,6 +20493,7 @@ sprinklecontent.com
 sprinkletxt.com
 sprintglobal.112.2o7.net
 sptslmtrafms.com
+spu.samsungelectronics.com
 spylog.com
 spylog.ru
 spynet2.microsoft.com
@@ -20397,6 +20524,8 @@ ssl.google-analytics.com
 ssl.ipstatp.com.edgekey.net
 ssl.tiktok.com.c.secure.footprint.net
 ssm1.internet.sony.tv
+ssm2.internet.sony.tv
+ssm3.internet.sony.tv
 sso.internetat.tv
 sso.toutiao.com
 sso.toutiao.com.w.cdngslb.com
@@ -20447,6 +20576,7 @@ static.242.130.55.162.clients.your-server.de
 static.2mdn.net
 static.audienceinsights.net
 static.chartbeat.com
+static.doubleclick.net
 static.fengkongcloud.com
 static.muscdn.com
 static.toutiao.com
@@ -20666,6 +20796,7 @@ tbsveryfunnyads.112.2o7.net
 tc.tradetracker.net
 tcinvitationsbydawn.112.2o7.net
 tck-10408-53.pl
+tcllauncher.com
 tcs-maliva-lb-useast2a.byteoversea.net
 tctm.co
 tdid.m.qq.com
@@ -20823,6 +20954,7 @@ tiktokv.com.edgekey.net
 tiktokv.com.edgesuite.net
 tiles.cdn.mozilla.net
 tiller.co
+time.samsungcloudsolution.com
 time1.byteoversea.com
 time2.byteoversea.com
 timechange.space
@@ -21116,6 +21248,7 @@ tp-paysg.snssdk.com
 tp2p.kg.qq.com
 tpaw-use1.muscdn.com
 tpciletsgo.112.2o7.net
+tpu.samsungelectronics.com
 tqlkg.com
 tqn.com
 tr-domaincfg.vivoglobal.com
@@ -21194,12 +21327,14 @@ track.securedvisit.com
 track.shop2market.com
 track.social.com
 track.spankadoo.pl
+track.sr.roku.com
 track.starmakerstudios.com
 track.talarsystems.com
 track.tenjin.com
 track.tenjin.io
 track.toutiao.com
 track.trkgd.com
+track.tvping.com
 track.uc.cn
 track.us.org
 track.webbranddeals.com
@@ -21487,7 +21622,9 @@ tv.ads.spotx.tv
 tv.deezer.com
 tvappvertising.net
 tvguide.112.2o7.net
+tvinteractive.tv
 tvmeta-dynamic.tvinteractive.tv
+tvpnlogopeu.samsungcloud.tv
 tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
 tvsquared.com
 tvtrack.us
@@ -21527,6 +21664,7 @@ ubiquitv.net
 uc.ucweb.com
 ucounter.ucoz.net
 ucweb.com
+ud-prd.geohawk.co.uk
 udc.msn.com
 udmserve.net
 ue.flipboard.com
@@ -21537,7 +21675,9 @@ ugdturner.com
 ugg66.com
 ui.skype.com
 uim.tifbs.net
+uimetadata.samsungiotcloud.com
 uimserv.net
+uk-api.samsungyosemite.com
 uks.b.prd.ags.trafficmanager.net
 ukxeudykhgdi.com
 ulog-sdk.gifshow.com
@@ -21555,6 +21695,7 @@ umhalilabs.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 umwatsonc.telemetry.microsoft.us
+unagi-na.amazon.com
 unauthorized.snssdk.com
 unavailable.tiktokv.com
 unbranli.com
@@ -21635,6 +21776,7 @@ uptilt.com
 uptilt.net
 upu.samsungelectronics.com
 urbanairship.com
+urfcgnbx.1bliq.io
 urs.microsoft.com
 us-api.samsungyosemite.com
 us-east-1.paa-reporting-advertising.amazon
@@ -22306,12 +22448,14 @@ voucher-club.com
 voucheralley.com
 vouchercodeclub.com
 voucherwindow.com
+vox-digitaltext.rtl-hbbtv.de
 voxmedia.com
 voycme.com
 vpmc.122.2o7.net
 vpn2.byted.org
 vppgamingnetwork.com
 vps-5fc33f45.vps.ovh.ca
+vpu.samsungelectronics.com
 vrsmicros38msfteducationstorepr.112.2o7.net
 vrtztrk.com
 vs.snssdk.com
@@ -22333,6 +22477,7 @@ w55c.net
 wa.appsflyer.com
 wafmedia3.com
 wafmedia5.com
+wakadu-api.prod.rtl-hbbtv.de
 walgrns.112.2o7.net
 walkme.com
 wallet-hl.snssdk.com
@@ -22642,6 +22787,7 @@ wpa.qq.com
 wpdigital.net
 wpni.112.2o7.net
 wpnipostcomjobs.112.2o7.net
+wpu.samsungelectronics.com
 wrightsmedia.com
 wrigley.122.2o7.net
 ws-dot-web94p.appspot.com
@@ -22824,7 +22970,9 @@ www.9nl.us
 www.9pwigjmwo.xzcs3zlph.com
 www.9pwigjmwo.xzcs3zlph.com.edgesuite.net
 www.Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+www._hbbtv-ait._tcp.hbbtvopapps.org
 www._xmpp-client._tcp.managed.xmpp.foxtel.com.au
+www._xmpp-client._tcp.scs.samsungqbe.com
 www.a-0001.a-msedge.net
 www.a-0002.a-msedge.net
 www.a-0003.a-msedge.net
@@ -23020,10 +23168,12 @@ www.ad.exelate.com
 www.ad.fyber.angsrvr.com
 www.ad.groupon.co.uk
 www.ad.lgappstv.com
+www.ad.lgsmartad.com
 www.ad.nettvservices.com
 www.ad.prismamediadigital.com
 www.ad.pxlad.io
 www.ad.samsungadhub.com
+www.ad.samsungadhub.net
 www.ad.smartclip.net
 www.ad.sxp.smartclip.net
 www.ad.toutiao.com
@@ -23322,7 +23472,10 @@ www.ads.mopub.com
 www.ads.msn.com
 www.ads.pointroll.com
 www.ads.pureleads.com
+www.ads.roku.com
+www.ads.samsung.com
 www.ads.samsungads.com
+www.ads.samsungads.net
 www.ads.tapdaq.com
 www.ads.tiktok.com
 www.ads.tiktok.com.edgekey.net
@@ -23562,7 +23715,14 @@ www.agyahooag.112.2o7.net
 www.ahainternational.com
 www.ahainternational.net
 www.ahalogy.com
+www.ai.tclking.com
 www.aic-ngfts.lge.com
+www.aic.cdpsvc.lgtvcommon.com
+www.aic.homeprv.lgtvcommon.com
+www.aic.netflixvoice.lgtvcommon.com
+www.aic.nudge.lgtvcommon.com
+www.aic.recommend.lgtvcommon.com
+www.aic.service.lgtvcommon.com
 www.aideas.toutiao.com
 www.aidps.atdmt.com
 www.aiglifemicrositeprod.112.2o7.net
@@ -23664,6 +23824,7 @@ www.am.myapps123.com
 www.am.yahoo.co.jp
 www.amaliatz.com
 www.amandatz.com
+www.amarillo.sb.roku.com
 www.amaritzer.com
 www.amauthprd.samsungcloudsolution.com
 www.amazdiaeprod.112.2o7.net
@@ -23955,6 +24116,7 @@ www.and.co.uk.122.2o7.net
 www.and.noahapps.jp
 www.andmlb.kshwtj.com
 www.andomedia.com
+www.andr-25-aftkmst12-641002610.api.amazonvideo.com
 www.android-stat.acestream.net
 www.android.bugly.qq.com
 www.androidtvchannels-pa.googleapis.com
@@ -24138,6 +24300,7 @@ www.api.112.2o7.net
 www.api.abcsinsights.com
 www.api.ad.intl.xiaomi.com
 www.api.ad.xiaomi.com
+www.api.amazon.com
 www.api.amemv.com
 www.api.amemv.com.bytedns.net
 www.api.amemv.com.w.kunluncan.com
@@ -24171,6 +24334,7 @@ www.api.pubnative.net
 www.api.redshell.io
 www.api.reproio.com
 www.api.saasexch.com
+www.api.samsungcloud.com
 www.api.sec.miui.com
 www.api.segment.io
 www.api.setting.intl.miui.com
@@ -24484,6 +24648,7 @@ www.appleglobal.102.112.2o7.net
 www.appleglobal.112.2o7.net
 www.applepstcrmprod.112.2o7.net
 www.appliances2compare.com
+www.applicast.ga.sony.net
 www.applicationstreamingnetwork.com
 www.applicationstreamingnetwork.info
 www.applicationstreamingnetwork.net
@@ -24564,12 +24729,14 @@ www.arc3.msn.com
 www.arcpublishing.com
 www.arcspire.io
 www.arcsystem.rodopibg.net
+www.arcus-uswest.amazon.com
 www.arddigit.ivwbox.de
 www.areyouahuman.com
 www.argus.byted.org
 www.ariba.112.2o7.net
 www.arnostat.nl
 www.arrowscripts.com
+www.artcom-ctv.com
 www.arthurmaes.top
 www.artist.tiktok.com
 www.artists.tiktok.com
@@ -24666,6 +24833,7 @@ www.auth-launcher-em.hismarttv.com
 www.auth-launcher-na.hismarttv.com
 www.auth-na.hismarttv.com
 www.auth.be.sec.miui.com
+www.auth.samsungosp.com
 www.authbe.sec.intl.miui.com
 www.authorisationimprint.com
 www.autoanythingcom.112.2o7.net
@@ -24695,6 +24863,8 @@ www.avazuinc.com
 www.avazunativeads.com
 www.avdpro.ru
 www.avgtechnologies.112.2o7.net
+www.aviary.amazon.com
+www.aviary.amazon.de
 www.avid.com.102.112.2o7.net
 www.avidtechnology.112.2o7.net
 www.avis.112.2o7.net
@@ -24709,6 +24879,7 @@ www.avnglobalprod.112.2o7.net
 www.avocarrot.com
 www.avocet.io
 www.avon.112.2o7.net
+www.avs-alexa-19-eu.amazon.com
 www.awaps.net
 www.awarenesstech.122.2o7.net
 www.aweber.com
@@ -24790,6 +24961,7 @@ www.b94.yahoo.co.jp
 www.b99.yahoo.co.jp
 www.babebrkrflow.com
 www.babycentercom.112.2o7.net
+www.backend.redbutton.de
 www.backlinkbuild.com
 www.bae5tracker.com
 www.bafybeihxqop3q2g3f6dd6ermzqn3xg7jbtz762papo5eye2nermqothtie.ipfs.nftstorage.link
@@ -24941,6 +25113,7 @@ www.bidswitch.net
 www.bidtheatre.com
 www.bidtrk.com
 www.bidvertiser.com
+www.bif.sr.roku.com
 www.bigbos.top
 www.bigdata.adups.com
 www.bigdataexchange.com
@@ -25478,7 +25651,9 @@ www.cdn.sgsnssdk.com
 www.cdn.smartclip.net
 www.cdn.tiktok.com.c.footprint.net
 www.cdn.tiktok.com.c.secure.footprint.net
+www.cdn.tvtelemetrie.de
 www.cdn.video.playwire.com
+www.cdn.welt-ctv.com
 www.cdn1-effect.snssdk.com
 www.cdn2.inner-active.mobi
 www.cdn3-effect.snssdk.com
@@ -25489,6 +25664,8 @@ www.cdnh2.net
 www.cdnh3.net
 www.cdns-content.dzcdn.net
 www.cdp.cloud.unity3d.com
+www.cdpbeacon.lgtvcommon.com
+www.cdpsvc.lgtvcommon.com
 www.cds1.stn.llnw.net
 www.cds10.stn.llnw.net
 www.cds1203.lon.llnw.net
@@ -25940,6 +26117,7 @@ www.collect-eu-fy2019.myhomescreen.tv
 www.collect-eu-fy2020.myhomescreen.tv
 www.collect-eu-fy2021.myhomescreen.tv
 www.collect-eu-fy2022.myhomescreen.tv
+www.collect-eu-fy2023.myhomescreen.tv
 www.collect-us-fy2014.myhomescreen.tv
 www.collect-us-fy2015.myhomescreen.tv
 www.collect-us-fy2016.myhomescreen.tv
@@ -25949,6 +26127,7 @@ www.collect-us-fy2019.myhomescreen.tv
 www.collect-us-fy2020.myhomescreen.tv
 www.collect-us-fy2021.myhomescreen.tv
 www.collect-us-fy2022.myhomescreen.tv
+www.collect-us-fy2023.myhomescreen.tv
 www.collect.4gtv.tv
 www.collect.analytics.unity3d.com
 www.collect.babybus.com
@@ -26008,8 +26187,10 @@ www.config.inmobi.com
 www.config.ioam.de
 www.config.jpush.cn
 www.config.safedk.com
+www.config.samsungads.com
 www.config.uca.cloud.unity3d.com
 www.config2.mparticle.com
+www.configprd.samsungcloudsolution.com
 www.configprd.samsungcloudsolution.net
 www.confirmsubscription.com
 www.conn.masjesu.zip
@@ -26036,6 +26217,7 @@ www.contextuads.com
 www.contextweb.com
 www.continuum.dds.microsoft.com
 www.control-zoo-dai-default.tvinteractive.tv
+www.control-zoo-dtsstage.tvinteractive.tv
 www.control.smbeat.jp
 www.control.tvinteractive.tv
 www.control2.tvinteractive.tv
@@ -26058,6 +26240,7 @@ www.cookingcom.112.2o7.net
 www.coolander247.click
 www.cooldeal.click
 www.cooper.logs.roku.com
+www.coordinator-production-28516768.us-east-1.elb.amazonaws.com
 www.corelcom.112.2o7.net
 www.corelividkds.112.2o7.net
 www.coreluk.112.2o7.net
@@ -26317,6 +26500,7 @@ www.d179kwmlpc4o47.cloudfront.ne
 www.d179kwmlpc4o47.cloudfront.net
 www.d1fet3u01ea8tr.cloudfront.net
 www.d1g3gvqfdsvkse.cloudfront.net
+www.d1itljbfuaik2i.cloudfront.net
 www.d1jwpcr0q4pcq0.cloudfront.net
 www.d1oxlq5h9kq8q5.cloudfront.net
 www.d1p5t7ayuzmgma.cloudfront.net
@@ -26407,6 +26591,7 @@ www.dcoengine.com
 www.ddf-t1.com
 www.ddf-t2.com
 www.ddf-t3.com
+www.de.container.enhanced.live
 www.de.coremetrics.com
 www.de.ioam.de
 www.de.lgtvsdp.com
@@ -26438,6 +26623,7 @@ www.deltadevconfirmsubscription.com
 www.deltadevcreatesend.com
 www.deltatestconfirmsubscription.com
 www.deltatestcreatesend.com
+www.deluxemusic.hbbtv.xadspoteffects.tv
 www.demandbase.com
 www.demdex.com
 www.demdex.net
@@ -26655,6 +26841,7 @@ www.dowjoneson.com
 www.down.muscdn.com
 www.download.innovare.no
 www.download.yourfileinfo.com
+www.dp-gw-na.amazon.com
 www.dpagcoagcoglobal.112.2o7.net
 www.dpbolvw.net
 www.dpchica.mobi
@@ -26824,6 +27011,7 @@ www.edge-alinc2-oss-slb2.bytecdn.cn
 www.edge-alisc1-oss.bytecdn.cn
 www.edge-alisc1-oss.snssdk.com
 www.edge-api.saasexch.com
+www.edgesuite.net
 www.edietsmain.112.2o7.net
 www.edigitalresearch.com
 www.edigitalsurvey.com
@@ -26872,6 +27060,12 @@ www.effimails8.com
 www.egeng.info
 www.ehadvicedev.112.2o7.net
 www.eharmony.112.2o7.net
+www.eic.cdpsvc.lgtvcommon.com
+www.eic.homeprv.lgtvcommon.com
+www.eic.netflixvoice.lgtvcommon.com
+www.eic.nudge.lgtvcommon.com
+www.eic.recommend.lgtvcommon.com
+www.eic.service.lgtvcommon.com
 www.eiodiscount.org
 www.ek92.cn
 www.ekomi-argentina.com
@@ -27000,6 +27194,7 @@ www.epocrates.112.2o7.net
 www.epom.com
 www.eprize.com
 www.eprizefulfillment.com
+www.epu.samsungelectronics.com
 www.eqads.com
 www.equinix-fra-api1.l.byteoversea.net
 www.equinix-fra-k8s-v1.l.byteoversea.net
@@ -27023,6 +27218,7 @@ www.erne.co
 www.ero-advertising.com
 www.erombflowms.com
 www.errorception.com
+www.errors.hbbtv.smartclip.net
 www.erstegroupholding.112.2o7.net
 www.ertpikbdctyfxeqkzdghb.com
 www.esa-reg-eup.myoppo.com
@@ -27047,9 +27243,11 @@ www.etracker.com
 www.etracker.de
 www.ets.easybrain.com
 www.etyper.com
+www.eu-api.samsungyosemite.com
 www.eu-teams.events.data.microsoft.com
 www.eu-v10.events.data.microsoft.com
 www.eu-v20.events.data.microsoft.com
+www.eu.api.amazonvideo.com
 www.eu.vortex-win.data.microsoft.com
 www.eu.vortex.data.microsoft.com
 www.euc.adserver.snapads.com
@@ -27104,6 +27302,7 @@ www.events.kaloo.ga
 www.events.lbesecapi.com
 www.events.mz.unity3d.com
 www.events.prd.api.discomax.com
+www.events.samsungads.com
 www.events.swiftlycontent.net
 www.events.swishapps.ai
 www.events.textme-app.com
@@ -27260,6 +27459,7 @@ www.fhr.cdn.mozilla.net
 www.fidelity-media.com
 www.fierts.com
 www.figlobal.112.2o7.net
+www.file2fxm.azureedge.net
 www.filebulldog.com
 www.fileserve.xyz
 www.filitrac.com
@@ -27331,6 +27531,7 @@ www.foxidol.112.2o7.net
 www.foxinteractivemedia.122.2o7.net
 www.foxtel-prod-events.digitalsmiths.net
 www.fpctraffic2.com
+www.fpu.samsungelectronics.com
 www.fqtag.com
 www.fr4.byteoversea.com
 www.frantro.de
@@ -27374,6 +27575,7 @@ www.frtyg.com
 www.fruitflan.com
 www.ft.snssdk.com
 www.ft.snssdk.com.w.kunluncan.com
+www.ftv-smtv.ntp-fireos.com
 www.fujielectricholdings.112.2o7.net
 www.fullstory.com
 www.fungetbag.info
@@ -27421,6 +27623,11 @@ www.gateway.122.2o7.net
 www.gateway.facebook.com
 www.gator.io
 www.gaug.es
+www.gb.ad.lgsmartad.com
+www.gb.info.lgsmartad.com
+www.gb.lgrecommends.lgappstv.com
+www.gb.lgtvsdp.com
+www.gb.rdx2.lgtvsdp.com
 www.gbl007.com
 www.gblwebcen.com
 www.gcd-s2s.appsflyer.com
@@ -27492,6 +27699,7 @@ www.geoadnxs.org
 www.geocomply.com
 www.geogslb.com
 www.geogslb.net
+www.geohawk.co.uk
 www.geoinfo.i2w.io
 www.geoip.fotoable.net
 www.geoip.ifunny.co
@@ -27545,6 +27753,8 @@ www.gjfastcompanycom.112.2o7.net
 www.gjincscobleizer.112.2o7.net
 www.glam.com
 www.glclk.about.com
+www.gld.push.samsungosp.co
+www.gld.push.samsungosp.com
 www.gld.samsungosp.com
 www.gldsta-02-or.com
 www.gleam.io
@@ -27628,6 +27838,7 @@ www.gplog-sg.byteoversea.com
 www.gplog-va.byteoversea.com
 www.gplog.snssdk.com
 www.gpm.samsungqbe.com
+www.gpu.samsungelectronics.com
 www.gpwebsolutions.co.uk
 www.graf.ly
 www.grafana-boe.byted.org
@@ -27752,6 +27963,7 @@ www.havingtrack.com
 www.haymarketbusinesspublications.122.2o7.net
 www.hb.afl.rakuten.co.jp
 www.hbbtv-1.eurosport.com
+www.hbbtv-apps.redbutton.de
 www.hbbtv-extern-fe01.sim-technik.de
 www.hbbtv-track.redbutton.de
 www.hbbtv.3sat.de
@@ -27760,9 +27972,12 @@ www.hbbtv.kabeleins.de
 www.hbbtv.prosieben.de
 www.hbbtv.qvc.de
 www.hbbtv.redbutton.de
+www.hbbtv.rtl.de
 www.hbbtv.rtl2.de
 www.hbbtv.sat1.de
+www.hbbtv.servustv.com
 www.hbbtv.sixx.de
+www.hbbtv.sport1.de
 www.hbbtv.superrtl.de
 www.hbbtv.zdf.de
 www.hbbtv01p.anixe.net
@@ -27919,6 +28134,7 @@ www.homed.snssdk.com
 www.homed.snssdk.com.w.kunluncan.com
 www.homepjlconline.com.112.2o7.net
 www.homepproav.112.2o7.net
+www.homeprv.lgtvcommon.com
 www.homesteadtechnologies.122.2o7.net
 www.homestore.122.2o7.net
 www.homewebbnew.us
@@ -27953,6 +28169,7 @@ www.houseads.ttpsdk.info
 www.housextriertst.bid
 www.hpepdfembedapi.112.2o7.net
 www.hphqglobal.112.2o7.net
+www.hpu.samsungelectronics.com
 www.hq1.appsflyer.com
 www.hqcampaign.com
 www.hr.toutiao.com
@@ -28013,6 +28230,7 @@ www.httpdns.byteoversea.com
 www.httptrack.com
 www.htyy.toutiao.com
 www.huafeibianzhidai.com
+www.huan.tv
 www.hublogic.com
 www.hubspot.net
 www.hubspot10.com
@@ -28120,6 +28338,7 @@ www.ibd-as-api.iq.com
 www.ibibo.112.2o7.net
 www.ibillboard.com
 www.ibis.lgappstv.com
+www.ibs.lgappstv.com
 www.ibytedtos.com
 www.ibytedtos.com.edgekey.net
 www.ibytedtos.com.edgesuite.net
@@ -28141,6 +28360,7 @@ www.ichannel.musical.ly
 www.ichannel.sgsnssdk.com
 www.ichannel.snssdk.com
 www.ichannel.snssdk.com.bytedns.net
+www.ichnaea-web.netflix.com
 www.ichnaea.netflix.com
 www.iconpeak.com
 www.icweiliimg1.pstatp.com
@@ -28233,6 +28453,8 @@ www.imdcd.snssdk.com
 www.imedia.cz
 www.imeem.112.2o7.net
 www.img-bcy-qn.pstatp.com
+www.img-ctv.digitaluk.co.uk
+www.img-resize-cdn-prod.samsungnyc.com
 www.img.onesignal.com
 www.imgclick.net
 www.imiclk.com
@@ -28279,6 +28501,7 @@ www.influentialinsights.com
 www.influentialinsights.net
 www.info.a7.org
 www.info.kugou.com
+www.info.lgsmartad.com
 www.infolink.pavv.co.k
 www.infolink.pavv.co.kr
 www.infolinks.com
@@ -28406,6 +28629,7 @@ www.ipstatp.com
 www.ipstatp.com.edgekey.net
 www.ipstatp.com.edgesuite.net
 www.iptrack.biz
+www.ipu.samsungelectronics.com
 www.ipv4-count.gmx.net
 www.ipv6-count.gmx.net
 www.ipv6-v16.muscdn.com
@@ -28520,11 +28744,13 @@ www.johnlewis.112.2o7.net
 www.jordao.80.hk
 www.joscramp.top
 www.journalregistercompany.122.2o7.net
+www.jp.ad.lgsmartad.com
 www.jp.info.lgsmartad.com
 www.jp.lgtvsdp.com
 www.jp.rdx2.lgtvsdp.com
 www.jpmpartnersites.112.2o7.net
 www.jpmprivatebank.112.2o7.net
+www.jpu.samsungelectronics.com
 www.jpush.cn
 www.jpush.io
 www.jrcdelcotimescom.122.2o7.net
@@ -28689,6 +28915,7 @@ www.lbapi.snssdk.com
 www.lbapi.snssdk.com.w.kunluncan.com
 www.lccronadevelopment.112.2o7.net
 www.lcprd1.samsungcloudsolution.net
+www.lcprd2.samsungcloudsolution.net
 www.lcstg2.samsungcloudsolution.net
 www.lctrk.com
 www.lds.lenovomm.com
@@ -28721,6 +28948,7 @@ www.legacyportal.nettvservices.com
 www.legolas-media.com
 www.legroup21.gslb.cdnle.com
 www.leiki.com
+www.leiniao.com
 www.lelabdecisionnel.com
 www.lenovoappsshareitprod.112.2o7.net
 www.lenovoappssystemupdateprod.112.2o7.net
@@ -28818,6 +29046,7 @@ www.lg-lf.snssdk.com
 www.lg-lq.snssdk.com
 www.lg-release-tracking-8080.gcld-line.com
 www.lg.snssdk.com
+www.lgad.cjpowercast.com
 www.lgad.cjpowercast.com.edgesuite.net
 www.lgappstv.com
 www.lgelectronics.122.2o7.net
@@ -28917,6 +29146,7 @@ www.log-api.pangolin-sdk-toutiao.com
 www.log-c.snssdk.com
 www.log-c.snssdk.com.w.kunluncan.com
 www.log-cold.snssdk.com
+www.log-config.samsungacr.com
 www.log-hl-ipv6.snssdk.com
 www.log-hl.snssdk.com
 www.log-hl.snssdk.com.w.kunluncan.com
@@ -29055,6 +29285,7 @@ www.logsink.zedge.net
 www.logsss.com
 www.logtrace.snssdk.com
 www.logupdate.avlyun.sec.miui.com
+www.longpolling.redbutton.de
 www.loomia.com
 www.loopback.axelvasquez.com
 www.loopme.me
@@ -29064,6 +29295,7 @@ www.lp4.io
 www.lps.innogames.com
 www.lps.innogamescdn.com
 www.lpsnmedia.net
+www.lpu.samsungelectronics.com
 www.lqw.me
 www.lrcdn.net
 www.lt.snssdk.com
@@ -29189,6 +29421,7 @@ www.marksandspencer.122.2o7.net
 www.marktest.pt
 www.marktools.awem.com
 www.marsads.com
+www.mas-ext-eu.amazon.com
 www.mas-sdk.amazon.com
 www.maskbaby.com.cn
 www.masnbc.com
@@ -39719,6 +39952,7 @@ www.mpnrs.com
 www.mpstat.us
 www.mptc-suse1.muscdn.com
 www.mptracking.mobi
+www.mpu.samsungelectronics.com
 www.mpud-suse1.muscdn.com
 www.mpunlock.com
 www.mqtt-mini.facebook.com
@@ -39828,6 +40062,7 @@ www.mthsense.com
 www.mtlog.droid4x.cn
 www.mtrace.qq.com
 www.mtrack.port25251.com
+www.mtrcs.samba.tv
 www.mtvn.112.2o7.net
 www.mu.isnssdk.com
 www.mue.toutiao.com
@@ -39862,6 +40097,7 @@ www.musically.app.link
 www.musically.muscdn.com
 www.musician.tiktok.com
 www.musicid.samsungcloudsolution.com
+www.musicid.samsungcloudsolution.net
 www.mva.byteoversea.com
 www.mva.isnssdk.com
 www.mva2.byteoversea.com
@@ -39877,6 +40113,7 @@ www.mxmacromedia.112.2o7.net
 www.mxpnl.com
 www.mxptint.net
 www.my.yieldmanager.com
+www.my7v.com
 www.myads.com
 www.myads.re
 www.myapptv.net
@@ -40046,6 +40283,7 @@ www.ngfts.lge.com
 www.nhl.112.2o7.net
 www.nicecdn01.com
 www.nicecdn02.com
+www.nickelodeon-at.gbucket.at
 www.nielsen.112.2o7.net
 www.nihonkogakuin.122.2o7.net
 www.nikefootball.112.2o7.net
@@ -40143,6 +40381,7 @@ www.novonordiskas.112.2o7.net
 www.npario-inc.net
 www.npario.com
 www.npaw.com
+www.npu.samsungelectronics.com
 www.nqzeqb.xzcs3zlph.com
 www.nr-data.net
 www.nr.bidderstack.com
@@ -40166,6 +40405,7 @@ www.ntracker-collector.naver.com
 www.nttcommunications.122.2o7.net
 www.ntv.io
 www.ntvp.wpu.sh
+www.nudge.lgtvcommon.com
 www.nuffnang.com.sg
 www.nuggad.net
 www.numerino.cz
@@ -40195,6 +40435,7 @@ www.nyttechnology.112.2o7.net
 www.o-sg.ibytedtos.com
 www.o-us.ibytedtos.com
 www.o2o.api.xiaomi.com
+www.o2r2hew432.execute-api.us-east-1.amazonaws.com
 www.oas-central.com
 www.oas-central.net
 www.oas-network.com
@@ -40212,6 +40453,7 @@ www.oca.telemetry.microsoft.com
 www.oca.telemetry.microsoft.com.nsatc.net
 www.oca.telemetry.microsoft.us
 www.occ-0-399-783.1.nflxso.net
+www.ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
 www.oclaserver.com
 www.oclasrv.com
 www.octonet.com
@@ -40360,6 +40602,7 @@ www.optinmonster.com
 www.optnmnstr.com
 www.optnmstr.com
 www.optoutasap.com
+www.opu.samsungelectronics.com
 www.oracle.112.2o7.net
 www.oraclecom.112.2o7.net
 www.oracleglobal.112.2o7.net
@@ -40372,8 +40615,10 @@ www.orkutoxy.com
 www.orlandoinfocom.112.2o7.net
 www.osb-apps-v2.samsungqbe.com
 www.osb-apps.samsungqbe.com
+www.osb-auth-eusvc-v2.samsungqbe.com
 www.osb-eusvc.samsungqbe.com
 www.osb-krsvc.samsungqbe.com
+www.osb-v2.samsungqbe.com
 www.osb.samsungqbe.com
 www.osiristrading.112.2o7.net
 www.otfp.byteoversea.com
@@ -40409,6 +40654,7 @@ www.p-hbbtv.superrtl.de
 www.p-t2.byteoversea.com
 www.p-td.com
 www.p-vcloud.byteimg.com
+www.p.ads.roku.com
 www.p.hypstarcdn.com
 www.p.ipstatp.com
 www.p.nexac.com
@@ -40942,6 +41188,7 @@ www.pixel.honestjohn.co.uk
 www.pixel.invitemedia.com
 www.pixel.magentamarketing.com
 www.pixel.messenger.com
+www.pixel.mtrcs.samba.tv
 www.pixel.quantcount.com
 www.pixel.reddit.com
 www.pixel.redditmedia.com
@@ -41027,6 +41274,7 @@ www.ppcstat.com
 www.ppjol.net
 www.ppp077069099253.access.hol.gr
 www.pps-log.op-mobile.opera.com
+www.ppu.samsungelectronics.com
 www.ppx-2.isnssdk.com
 www.ppx-a.isnssdk.com
 www.ppx-a.isnssdk.com.edgekey.net
@@ -41075,6 +41323,8 @@ www.pro-market.net
 www.proadsredmsmt.com
 www.prod-analytics.royal.drmgms.com
 www.prod-clientlog.fastly.newssuite.sinfony.ne.jp
+www.prod-program.redbutton.de
+www.prod.amazoncrl.com
 www.prod.ingestion-edge.prod.dataops.mozgcp.net
 www.prod.report.nacustomerexperience.citi.com
 www.prod.spotify.map.fastlylb.net
@@ -41098,6 +41348,7 @@ www.propllrcurlmb.com
 www.proton-cj.com
 www.prov.samsungcloudsolution.com
 www.providence.net.br
+www.provisioning-use2.mgmt.aibixby.com
 www.proxy.siteterbaru.xyz
 www.proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
 www.prscripts.com
@@ -41385,6 +41636,7 @@ www.qifann.com
 www.qingcdn.com
 www.qmerce.com
 www.qnsr.com
+www.qpu.samsungelectronics.com
 www.qservz.com
 www.qsubmit.com
 www.qualityoffers.info
@@ -41489,6 +41741,7 @@ www.rcsmetrics.it
 www.rd.ane.yahoo.co.jp
 www.rd.business.com
 www.rd.samsungadhub.com
+www.rdl.lgtvcommon.com
 www.rdl.raysysacc.ir
 www.rdrct.cloud
 www.rdsa2011.com
@@ -41500,6 +41753,7 @@ www.rdsa2016.com
 www.rdsa2017.com
 www.rdsa2018.com
 www.rdsa2019.com
+www.rdx2.lgtvsdp.com
 www.reactful.com
 www.reading-hl.snssdk.com
 www.reading.snssdk.com
@@ -41523,6 +41777,7 @@ www.receiver-metis.infeng.site
 www.receiver.habby.mobi
 www.reclaimthenet.com
 www.recomenda.com.br
+www.recommend.lgtvcommon.com
 www.recordeaglecom.112.2o7.net
 www.recordnetcom.112.2o7.net
 www.recordonlinecom.112.2o7.net
@@ -41549,6 +41804,7 @@ www.redzumsmtva.com
 www.rees46.com
 www.reevoo.com
 www.refinedads.com
+www.reg.biv.sony.tv
 www.register.appsflyer.com
 www.register.appsflyersdk.com
 www.registercom.122.2o7.net
@@ -41701,6 +41957,7 @@ www.route.to
 www.routecdn.com
 www.royapp.com
 www.rp.com
+www.rpu.samsungelectronics.com
 www.rranking14.ziyu.net
 www.rrpartners.122.2o7.net
 www.rs.adapf.com
@@ -41737,6 +41994,8 @@ www.rtbx.us
 www.rtc-boe.byted.org
 www.rtc-logger-va.tiktokv.com
 www.rtc.bytedanceapi.com
+www.rtl-digitaltext.rtl-hbbtv.de
+www.rtl2.de
 www.rtlog-va.tiktokv.com
 www.rtlog.byteoversea.com
 www.rtlog.isnssdk.com
@@ -41908,16 +42167,22 @@ www.salesforce.com
 www.salesmanago.pl
 www.salespayouts.com
 www.salliemaecom.112.2o7.net
+www.samba.tv
 www.samsclub.112.2o7.net
 www.samson.hr
 www.samsungacr.com
+www.samsungacr.net
 www.samsungadhub.com
+www.samsungadhub.net
 www.samsungads.com
+www.samsungads.net
 www.samsungcloudsolution.com
 www.samsungcloudsolution.net
 www.samsungelectronics.com
+www.samsungosp.com
 www.samsungotn.net
 www.samsungqbe.com
+www.samsungrm.com
 www.samsungrm.net
 www.sanalytics.autozone.com
 www.sanalytics.boingtv.fr
@@ -41966,6 +42231,7 @@ www.sarky.org
 www.sas.samsungcloudsolution.com
 www.sas15k01.com
 www.sascdn.com
+www.sastv.samsungqbe.com
 www.saveu.tiktokv.com
 www.saxobutlereagle.122.2o7.net
 www.saxoconcordmonitor.122.2o7.net
@@ -42024,6 +42290,7 @@ www.script.trackword.net
 www.scripts.chitika.net
 www.scripts.kataweb.it
 www.scs-anapa.ru
+www.scs.samsungqbe.com
 www.scsmetrics.vodafone.it
 www.sd-ad.net
 www.sd-ad.org
@@ -42098,6 +42365,7 @@ www.secure-au.imrworldwide.com
 www.secure-cn.imrworldwide.com
 www.secure-dk.imrworldwide.com
 www.secure-eu.imrworldwide.com
+www.secure-geolocation.premiumtv.co.uk
 www.secure-it.imrworldwide.com
 www.secure-jp.imrworldwide.com
 www.secure-nz.imrworldwide.com
@@ -42200,11 +42468,13 @@ www.servesharp.net
 www.service.avail.net
 www.service.fyber.com
 www.service.game-mode.net
+www.service.lgtvcommon.com
 www.services.coem.awem.com
 www.services.wes.df.telemetry.microsoft.com
 www.servicesupport.hicloud.com
 www.serving-sys.com
 www.servingclks.com
+www.ses.3-t.uk
 www.sessioncam.com
 www.setting.adzcore.com
 www.settings-sandbox.data.microsoft.com
@@ -42928,6 +43198,7 @@ www.snta0034.com
 www.snxd.com
 www.so.toutiao.com
 www.so.toutiao.com.w.cdngslb.com
+www.social.biv.sony.tv
 www.socialhoney.co
 www.sociomantic.com
 www.socket-mt1-ingress-1987402783.us-east-1.elb.amazonaws.com
@@ -42969,6 +43240,7 @@ www.solvemedia.com
 www.sometrics.netapp.com
 www.songlytics.net
 www.sonobi.com
+www.sony.net
 www.sonybivstatic-a.akamaihd.net
 www.sonychina.112.2o7.net
 www.sonycorporate.112.2o7.net
@@ -43037,6 +43309,7 @@ www.sprinklecontent.com
 www.sprinkletxt.com
 www.sprintglobal.112.2o7.net
 www.sptslmtrafms.com
+www.spu.samsungelectronics.com
 www.spylog.com
 www.spylog.ru
 www.spynet2.microsoft.com
@@ -43067,6 +43340,8 @@ www.ssl.google-analytics.com
 www.ssl.ipstatp.com.edgekey.net
 www.ssl.tiktok.com.c.secure.footprint.net
 www.ssm1.internet.sony.tv
+www.ssm2.internet.sony.tv
+www.ssm3.internet.sony.tv
 www.sso.internetat.tv
 www.sso.toutiao.com
 www.sso.toutiao.com.w.cdngslb.com
@@ -43117,6 +43392,7 @@ www.static.242.130.55.162.clients.your-server.de
 www.static.2mdn.net
 www.static.audienceinsights.net
 www.static.chartbeat.com
+www.static.doubleclick.net
 www.static.fengkongcloud.com
 www.static.muscdn.com
 www.static.toutiao.com
@@ -43336,6 +43612,7 @@ www.tbsveryfunnyads.112.2o7.net
 www.tc.tradetracker.net
 www.tcinvitationsbydawn.112.2o7.net
 www.tck-10408-53.pl
+www.tcllauncher.com
 www.tcs-maliva-lb-useast2a.byteoversea.net
 www.tctm.co
 www.tdid.m.qq.com
@@ -43493,6 +43770,7 @@ www.tiktokv.com.edgekey.net
 www.tiktokv.com.edgesuite.net
 www.tiles.cdn.mozilla.net
 www.tiller.co
+www.time.samsungcloudsolution.com
 www.time1.byteoversea.com
 www.time2.byteoversea.com
 www.timechange.space
@@ -43786,6 +44064,7 @@ www.tp-paysg.snssdk.com
 www.tp2p.kg.qq.com
 www.tpaw-use1.muscdn.com
 www.tpciletsgo.112.2o7.net
+www.tpu.samsungelectronics.com
 www.tqlkg.com
 www.tqn.com
 www.tr-domaincfg.vivoglobal.com
@@ -43864,12 +44143,14 @@ www.track.securedvisit.com
 www.track.shop2market.com
 www.track.social.com
 www.track.spankadoo.pl
+www.track.sr.roku.com
 www.track.starmakerstudios.com
 www.track.talarsystems.com
 www.track.tenjin.com
 www.track.tenjin.io
 www.track.toutiao.com
 www.track.trkgd.com
+www.track.tvping.com
 www.track.uc.cn
 www.track.us.org
 www.track.webbranddeals.com
@@ -44157,7 +44438,9 @@ www.tv.ads.spotx.tv
 www.tv.deezer.com
 www.tvappvertising.net
 www.tvguide.112.2o7.net
+www.tvinteractive.tv
 www.tvmeta-dynamic.tvinteractive.tv
+www.tvpnlogopeu.samsungcloud.tv
 www.tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
 www.tvsquared.com
 www.tvtrack.us
@@ -44197,6 +44480,7 @@ www.ubiquitv.net
 www.uc.ucweb.com
 www.ucounter.ucoz.net
 www.ucweb.com
+www.ud-prd.geohawk.co.uk
 www.udc.msn.com
 www.udmserve.net
 www.ue.flipboard.com
@@ -44207,7 +44491,9 @@ www.ugdturner.com
 www.ugg66.com
 www.ui.skype.com
 www.uim.tifbs.net
+www.uimetadata.samsungiotcloud.com
 www.uimserv.net
+www.uk-api.samsungyosemite.com
 www.uks.b.prd.ags.trafficmanager.net
 www.ukxeudykhgdi.com
 www.ulog-sdk.gifshow.com
@@ -44225,6 +44511,7 @@ www.umhalilabs.com
 www.umwatson.events.data.microsoft.com
 www.umwatsonc.events.data.microsoft.com
 www.umwatsonc.telemetry.microsoft.us
+www.unagi-na.amazon.com
 www.unauthorized.snssdk.com
 www.unavailable.tiktokv.com
 www.unbranli.com
@@ -44305,6 +44592,7 @@ www.uptilt.com
 www.uptilt.net
 www.upu.samsungelectronics.com
 www.urbanairship.com
+www.urfcgnbx.1bliq.io
 www.urs.microsoft.com
 www.us-api.samsungyosemite.com
 www.us-east-1.paa-reporting-advertising.amazon
@@ -44976,12 +45264,14 @@ www.voucher-club.com
 www.voucheralley.com
 www.vouchercodeclub.com
 www.voucherwindow.com
+www.vox-digitaltext.rtl-hbbtv.de
 www.voxmedia.com
 www.voycme.com
 www.vpmc.122.2o7.net
 www.vpn2.byted.org
 www.vppgamingnetwork.com
 www.vps-5fc33f45.vps.ovh.ca
+www.vpu.samsungelectronics.com
 www.vrsmicros38msfteducationstorepr.112.2o7.net
 www.vrtztrk.com
 www.vs.snssdk.com
@@ -45003,6 +45293,7 @@ www.w55c.net
 www.wa.appsflyer.com
 www.wafmedia3.com
 www.wafmedia5.com
+www.wakadu-api.prod.rtl-hbbtv.de
 www.walgrns.112.2o7.net
 www.walkme.com
 www.wallet-hl.snssdk.com
@@ -45312,6 +45603,7 @@ www.wpa.qq.com
 www.wpdigital.net
 www.wpni.112.2o7.net
 www.wpnipostcomjobs.112.2o7.net
+www.wpu.samsungelectronics.com
 www.wrightsmedia.com
 www.wrigley.122.2o7.net
 www.ws-dot-web94p.appspot.com
