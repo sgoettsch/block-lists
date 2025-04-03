@@ -88,5 +88,25 @@
         "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/refs/heads/master/SmartTV.txt",
         "urlDetails": "",
         "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/marq24/pihole-blocklist/master/samsung-smart-tv.txt",
+        "urlDetails": "",
+        "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smart-tv-ads-tracking.txt",
+        "urlDetails": "",
+        "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/marq24/pihole-blocklist/master/private-hbbtv-ger.txt",
+        "urlDetails": "",
+        "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/hkamran80/blocklists/refs/heads/main/smart-tv.txt",
+        "urlDetails": "",
+        "description": ""
     }
 ]
