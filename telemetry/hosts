@@ -1,4 +1,4 @@
-## Generated at: 2025-04-17T20:58:07+00:00
+## Generated at: 2025-04-24T03:12:09+00:00
 0077777700140002.myhomescreen.tv
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
@@ -638,6 +638,7 @@ ads-d.viber.com
 ads-fa.spotify.com
 ads-for-apps.com
 ads-image.production-public.tubi.io
+ads-privacy-api.prd.mz.internal.unity3d.com
 ads-verify.net
 ads.aimitv.com
 ads.api.vungle.com
@@ -3321,7 +3322,6 @@ collect.media.jio.com
 collect.myhomescreen.tv
 collect.serious.li
 collect.ureca-lab.com
-collection.weverse.io
 collective-media.net
 collective.com
 collector.brandify.com
@@ -4497,6 +4497,7 @@ events.tvtime.com
 events.watchtower.imdbtv.amazon.dev
 events3.adcolony.com
 events3alt.adcolony.com
+eventsv2balanced.malpagames.com
 evepdaggiesports.112.2o7.net
 evepdaikencom.112.2o7.net
 evepdbrazossports.112.2o7.net
@@ -17025,7 +17026,6 @@ mobytrks.com
 mocean.mobi
 mochibot.com
 modern.watson.data.microsoft.com.akadns.net
-moengage.com
 mofxg.snssdk.com
 mojiva.com
 mojiva.mobi
@@ -18413,6 +18413,7 @@ plista.net
 plista.org
 plista.us
 ploy.batmobi.net
+pls.prd.mz.internal.unity3d.com
 plsoyfoods.112.2o7.net
 plugerr.com
 plymedia.com
@@ -23462,6 +23463,7 @@ www.ads-d.viber.com
 www.ads-fa.spotify.com
 www.ads-for-apps.com
 www.ads-image.production-public.tubi.io
+www.ads-privacy-api.prd.mz.internal.unity3d.com
 www.ads-verify.net
 www.ads.aimitv.com
 www.ads.api.vungle.com
@@ -26145,7 +26147,6 @@ www.collect.media.jio.com
 www.collect.myhomescreen.tv
 www.collect.serious.li
 www.collect.ureca-lab.com
-www.collection.weverse.io
 www.collective-media.net
 www.collective.com
 www.collector.brandify.com
@@ -27321,6 +27322,7 @@ www.events.tvtime.com
 www.events.watchtower.imdbtv.amazon.dev
 www.events3.adcolony.com
 www.events3alt.adcolony.com
+www.eventsv2balanced.malpagames.com
 www.evepdaggiesports.112.2o7.net
 www.evepdaikencom.112.2o7.net
 www.evepdbrazossports.112.2o7.net
@@ -39849,7 +39851,6 @@ www.mobytrks.com
 www.mocean.mobi
 www.mochibot.com
 www.modern.watson.data.microsoft.com.akadns.net
-www.moengage.com
 www.mofxg.snssdk.com
 www.mojiva.com
 www.mojiva.mobi
@@ -41237,6 +41238,7 @@ www.plista.net
 www.plista.org
 www.plista.us
 www.ploy.batmobi.net
+www.pls.prd.mz.internal.unity3d.com
 www.plsoyfoods.112.2o7.net
 www.plugerr.com
 www.plymedia.com
