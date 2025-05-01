@@ -1,4 +1,4 @@
-## Generated at: 2025-04-24T17:54:15+00:00
+## Generated at: 2025-05-01T03:21:36+00:00
 0077777700140002.myhomescreen.tv
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
@@ -396,6 +396,7 @@ adash.m.taobao.com
 adash.man.aliyuncs.com
 adashx.ut.alibaba.com
 adashx4ae.ut.taobao.com
+adashx4id.ut.taobao.com
 adb-analytics.live-now.com
 adbemdigitalmediarebootprod2.112.2o7.net
 adblade.com
@@ -752,6 +753,7 @@ adtomafusion.net
 adtop.com
 adtopia.club
 adtrace.org
+adtrack-intl.ucweb.com
 adtrack.appcpi.net
 adtrack.king.com
 adtrack.xiaojukeji.com
@@ -1282,6 +1284,7 @@ analytics.underarmour.com
 analytics.unister-gmbh.de
 analytics.unive.nl
 analytics.unsw.edu.au
+analytics.us.tiktok.com
 analytics.virginmobileusa.com
 analytics.wildlifestudios.com
 analytics.xoomenergy.com
@@ -1959,6 +1962,7 @@ astutemetrics.com
 asurastrike.de
 asus.router.com
 asustekglobal.112.2o7.net
+at-af.outfit7.com
 at.amgdgt.com
 atb-stats-api.imolive.tv
 atdmt.com
@@ -2291,6 +2295,7 @@ bhns2.toutiao.com
 bi.manhuaren.com
 bianjixing.snssdk.com
 bic.snssdk.com
+bidder.dsp.outfit7.com
 bidder.mdspinc.com
 biddingmax.apse.trk.rixserv.com
 bidgear.com
@@ -2581,6 +2586,7 @@ btrack.powermtapro.com
 btrll.com
 btrll.net
 btrll.org
+bts-la.ucweb.com
 btstatic.com
 btt.betarget.de
 bttrack.com
@@ -3625,6 +3631,7 @@ csaisonmail.122.2o7.net
 csoonlinecom.112.2o7.net
 csp.snssdk.com
 cspbuilder.info
+csplog.kwai-pro.com
 cst.innogames.de
 cstoa.com
 ctasnet.com
@@ -5149,6 +5156,8 @@ harrahscom.112.2o7.net
 hastrk3.com
 havingtrack.com
 haymarketbusinesspublications.122.2o7.net
+hb-af-us-central1.outfit7.com
+hb-failover-stpceyl2ua-uw.a.run.app
 hb.afl.rakuten.co.jp
 hbbtv-1.eurosport.com
 hbbtv-apps.redbutton.de
@@ -5726,7 +5735,6 @@ insightexpressai.com
 insightfirst.com
 insightfirst.net
 insights-categorizer-noneu.truecaller.com
-insights.alibaba.com
 insights.zennioptical.com
 inskinad.com
 inskinads.com
@@ -5785,6 +5793,7 @@ internal-lb-all.bytedns.net
 internetdealz.click
 interseek.si
 intervice.info
+intlsucus.ucweb.com
 intothestorm.com
 intouchsolutions.112.2o7.net
 intuitinc.122.2o7.net
@@ -6343,6 +6352,7 @@ log-ingestion.samsungacr.com
 log-lf.snssdk.com
 log-lq.snssdk.com
 log-music-data.line-apps.com
+log-sdk.ksapisrv.com
 log-sg.toutiao50.com
 log-tb.isnssdk.com
 log-tb.sgsnssdk.com
@@ -6463,6 +6473,7 @@ logs.supersonic.com
 logs13.xiti.com
 logs1407.xiti.com
 logs1409.xiti.com
+logsdk.kwai-pro.com
 logservice.dbankcloud.cn
 logservice.hicloud.com
 logservice1.dbankcloud.cn
@@ -17259,6 +17270,7 @@ multicounter.de
 multiply.112.2o7.net
 multiscreen.samsung.com
 multiview.122.2o7.net
+mum.alibabachengdun.com
 mun.122.2o7.net
 munchkin.marketo.net
 munrvscurlms.com
@@ -21690,7 +21702,15 @@ uk-api.samsungyosemite.com
 uks.b.prd.ags.trafficmanager.net
 ukxeudykhgdi.com
 ulog-sdk.gifshow.com
+ulog.ksapisrv.com
+ulog.kwai-pro.com
+ulog.kwaipros.com
+ulog1-us.kwai-pro.com
+ulog2-us.kwaipros.com
+ulogjs.ksapisrv.com
 ulogs.umengcloud.com
+ulogs1.ksapisrv.com
+ulogs2.ksapisrv.com
 ultimedia.com
 ultraadserver.com
 umbel.com
@@ -22779,6 +22799,7 @@ wj.byteoversea.com.edgesuite.net
 wj.toutiao.com
 wlaptoplogic.122.2o7.net
 wlgore.112.2o7.net
+wlog.ksapisrv.com
 wobbegongmedia.net
 wompanalytics.azurewebsites.net
 woodpecker.uc.cn
@@ -23221,6 +23242,7 @@ www.adash.m.taobao.com
 www.adash.man.aliyuncs.com
 www.adashx.ut.alibaba.com
 www.adashx4ae.ut.taobao.com
+www.adashx4id.ut.taobao.com
 www.adb-analytics.live-now.com
 www.adbemdigitalmediarebootprod2.112.2o7.net
 www.adblade.com
@@ -23577,6 +23599,7 @@ www.adtomafusion.net
 www.adtop.com
 www.adtopia.club
 www.adtrace.org
+www.adtrack-intl.ucweb.com
 www.adtrack.appcpi.net
 www.adtrack.king.com
 www.adtrack.xiaojukeji.com
@@ -24107,6 +24130,7 @@ www.analytics.underarmour.com
 www.analytics.unister-gmbh.de
 www.analytics.unive.nl
 www.analytics.unsw.edu.au
+www.analytics.us.tiktok.com
 www.analytics.virginmobileusa.com
 www.analytics.wildlifestudios.com
 www.analytics.xoomenergy.com
@@ -24784,6 +24808,7 @@ www.astutemetrics.com
 www.asurastrike.de
 www.asus.router.com
 www.asustekglobal.112.2o7.net
+www.at-af.outfit7.com
 www.at.amgdgt.com
 www.atb-stats-api.imolive.tv
 www.atdmt.com
@@ -25116,6 +25141,7 @@ www.bhns2.toutiao.com
 www.bi.manhuaren.com
 www.bianjixing.snssdk.com
 www.bic.snssdk.com
+www.bidder.dsp.outfit7.com
 www.bidder.mdspinc.com
 www.biddingmax.apse.trk.rixserv.com
 www.bidgear.com
@@ -25406,6 +25432,7 @@ www.btrack.powermtapro.com
 www.btrll.com
 www.btrll.net
 www.btrll.org
+www.bts-la.ucweb.com
 www.btstatic.com
 www.btt.betarget.de
 www.bttrack.com
@@ -26450,6 +26477,7 @@ www.csaisonmail.122.2o7.net
 www.csoonlinecom.112.2o7.net
 www.csp.snssdk.com
 www.cspbuilder.info
+www.csplog.kwai-pro.com
 www.cst.innogames.de
 www.cstoa.com
 www.ctasnet.com
@@ -27974,6 +28002,8 @@ www.harrahscom.112.2o7.net
 www.hastrk3.com
 www.havingtrack.com
 www.haymarketbusinesspublications.122.2o7.net
+www.hb-af-us-central1.outfit7.com
+www.hb-failover-stpceyl2ua-uw.a.run.app
 www.hb.afl.rakuten.co.jp
 www.hbbtv-1.eurosport.com
 www.hbbtv-apps.redbutton.de
@@ -28551,7 +28581,6 @@ www.insightexpressai.com
 www.insightfirst.com
 www.insightfirst.net
 www.insights-categorizer-noneu.truecaller.com
-www.insights.alibaba.com
 www.insights.zennioptical.com
 www.inskinad.com
 www.inskinads.com
@@ -28610,6 +28639,7 @@ www.internal-lb-all.bytedns.net
 www.internetdealz.click
 www.interseek.si
 www.intervice.info
+www.intlsucus.ucweb.com
 www.intothestorm.com
 www.intouchsolutions.112.2o7.net
 www.intuitinc.122.2o7.net
@@ -29168,6 +29198,7 @@ www.log-ingestion.samsungacr.com
 www.log-lf.snssdk.com
 www.log-lq.snssdk.com
 www.log-music-data.line-apps.com
+www.log-sdk.ksapisrv.com
 www.log-sg.toutiao50.com
 www.log-tb.isnssdk.com
 www.log-tb.sgsnssdk.com
@@ -29288,6 +29319,7 @@ www.logs.supersonic.com
 www.logs13.xiti.com
 www.logs1407.xiti.com
 www.logs1409.xiti.com
+www.logsdk.kwai-pro.com
 www.logservice.dbankcloud.cn
 www.logservice.hicloud.com
 www.logservice1.dbankcloud.cn
@@ -40084,6 +40116,7 @@ www.multicounter.de
 www.multiply.112.2o7.net
 www.multiscreen.samsung.com
 www.multiview.122.2o7.net
+www.mum.alibabachengdun.com
 www.mun.122.2o7.net
 www.munchkin.marketo.net
 www.munrvscurlms.com
@@ -44515,7 +44548,15 @@ www.uk-api.samsungyosemite.com
 www.uks.b.prd.ags.trafficmanager.net
 www.ukxeudykhgdi.com
 www.ulog-sdk.gifshow.com
+www.ulog.ksapisrv.com
+www.ulog.kwai-pro.com
+www.ulog.kwaipros.com
+www.ulog1-us.kwai-pro.com
+www.ulog2-us.kwaipros.com
+www.ulogjs.ksapisrv.com
 www.ulogs.umengcloud.com
+www.ulogs1.ksapisrv.com
+www.ulogs2.ksapisrv.com
 www.ultimedia.com
 www.ultraadserver.com
 www.umbel.com
@@ -45604,6 +45645,7 @@ www.wj.byteoversea.com.edgesuite.net
 www.wj.toutiao.com
 www.wlaptoplogic.122.2o7.net
 www.wlgore.112.2o7.net
+www.wlog.ksapisrv.com
 www.wobbegongmedia.net
 www.wompanalytics.azurewebsites.net
 www.woodpecker.uc.cn
