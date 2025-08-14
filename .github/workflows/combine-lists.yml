@@ -1,0 +1,32 @@
+name: Build Lists
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 2 * * 4'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    concurrency: build-${{ github.repository }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@20529878ed81ef8e78ddf08b480401e6101a850f # v2
+        with:
+          php-version: '8.2'
+          ini-values: memory_limit=1G
+
+      - name: Build
+        run: php build.php
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Automated build"
+          git push
