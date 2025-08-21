@@ -1,4 +1,4 @@
-## Generated at: 2025-08-14T19:08:38+00:00
+## Generated at: 2025-08-21T02:41:50+00:00
 0077777700140002.myhomescreen.tv
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
@@ -2230,6 +2230,8 @@ beacon.guim.co.uk
 beacon.qq.com
 beacon.quiltmc.org
 beacon.shazam.com
+beacons-prod.fubo.tv
+beacons.ads.fubo.tv
 beaconsinspace.com
 bead-ad.com
 beanstock.com
@@ -4500,6 +4502,7 @@ events.character.ai
 events.cid.samba.tv
 events.claspws.tv
 events.data.microsoft.com
+events.fubo.tv
 events.funnelish.com
 events.gfe.nvidia.com
 events.iap.unity3d.com
@@ -19328,6 +19331,7 @@ s2.pstatp.com.w.alikunlun.net
 s2.trafficmaxx.de
 s20.tiktokcdn.com
 s3-analytics-events.easybrain.com
+s3-ca-liveops.easybrain.com
 s3-dcd-sf.pstatp.com.m.alikunlun.com
 s3-fs.pstatp.com
 s3-fs.pstatp.com.w.cdngslb.com
@@ -21440,6 +21444,7 @@ tracker.webstyle.de
 tracker.winload.de
 tracker2.itzmx.com
 trackernew.ulivetv.net
+trackers.fubo.tv
 trackers.voodoo-analytics.io
 trackersdk.bdash-cloud.com
 trackersimulator.org
@@ -25113,6 +25118,8 @@ www.beacon.guim.co.uk
 www.beacon.qq.com
 www.beacon.quiltmc.org
 www.beacon.shazam.com
+www.beacons-prod.fubo.tv
+www.beacons.ads.fubo.tv
 www.beaconsinspace.com
 www.bead-ad.com
 www.beanstock.com
@@ -27383,6 +27390,7 @@ www.events.character.ai
 www.events.cid.samba.tv
 www.events.claspws.tv
 www.events.data.microsoft.com
+www.events.fubo.tv
 www.events.funnelish.com
 www.events.gfe.nvidia.com
 www.events.iap.unity3d.com
@@ -42211,6 +42219,7 @@ www.s2.pstatp.com.w.alikunlun.net
 www.s2.trafficmaxx.de
 www.s20.tiktokcdn.com
 www.s3-analytics-events.easybrain.com
+www.s3-ca-liveops.easybrain.com
 www.s3-dcd-sf.pstatp.com.m.alikunlun.com
 www.s3-fs.pstatp.com
 www.s3-fs.pstatp.com.w.cdngslb.com
@@ -44323,6 +44332,7 @@ www.tracker.webstyle.de
 www.tracker.winload.de
 www.tracker2.itzmx.com
 www.trackernew.ulivetv.net
+www.trackers.fubo.tv
 www.trackers.voodoo-analytics.io
 www.trackersdk.bdash-cloud.com
 www.trackersimulator.org
