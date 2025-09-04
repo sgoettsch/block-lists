@@ -14,39 +14,18 @@ concurrency:
 
 jobs:
   trim:
-    name: Trim to last 10 commits on main
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main' || github.event_name != 'push'
     steps:
-      - name: Safety check (only run in the source repo)
-        if: github.repository_owner != github.actor
-        run: |
-          echo "Note: running in repository ${GITHUB_REPOSITORY} as ${GITHUB_ACTOR}"
-          if [ "${GITHUB_REPOSITORY_OWNER}" != "sgoettsch" ]; then
-            echo "Not the canonical repo; exiting."
-            exit 0
-          fi
-
-      - name: Checkout full history of main
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0
 
-      - name: Ensure linear history (optional check)
-        run: |
-          if git rev-list --max-count=50 --merges main | grep -q .; then
-            echo "Found merge commits in recent history. Cherry-pick may not preserve merges."
-            echo "Either allow flattening or rebase to linear history first."
-            exit 1
-          fi
-
-      - name: Compute the last 10 commit SHAs (oldest->newest)
-        id: shas
+      - id: shas
         shell: bash
         run: |
           set -euo pipefail
-          mapfile -t COMMITS < <(git rev-list --max-count=10 --reverse origin/main)
+          mapfile -t COMMITS < <(git rev-list --first-parent --max-count=10 --reverse origin/main)
           if [ "${#COMMITS[@]}" -eq 0 ]; then
             echo "No commits found on main."
             exit 1
@@ -56,21 +35,15 @@ jobs:
           echo "first=${COMMITS[0]}" >> "$GITHUB_OUTPUT"
           echo "last=${COMMITS[-1]}" >> "$GITHUB_OUTPUT"
 
-      - name: Rebuild a new history from those 10 commits
-        shell: bash
+      - shell: bash
         run: |
           set -euo pipefail
-
           git switch --orphan new-main
-
           git rm -rf . >/dev/null 2>&1 || true
-
           mapfile -t COMMITS < /tmp/keep.txt
-
           FIRST="${COMMITS[0]}"
           git checkout "$FIRST" -- .
           git clean -fdx
-
           export GIT_AUTHOR_NAME="$(git log -1 --format=%an "$FIRST")"
           export GIT_AUTHOR_EMAIL="$(git log -1 --format=%ae "$FIRST")"
           export GIT_AUTHOR_DATE="$(git log -1 --format=%aI "$FIRST")"
@@ -78,31 +51,19 @@ jobs:
           export GIT_COMMITTER_EMAIL="$(git log -1 --format=%ce "$FIRST")"
           export GIT_COMMITTER_DATE="$(git log -1 --format=%cI "$FIRST")"
           MSG="$(git log -1 --format=%B "$FIRST")"
-
           git add -A
           git commit -m "$MSG"
-
           for SHA in "${COMMITS[@]:1}"; do
             git cherry-pick --allow-empty --keep-redundant-commits "$SHA"
           done
-
           git branch -M new-main main
 
-      - name: Push rewritten main (force)
-        env:
-          GIT_AUTHOR_NAME: github-actions
-          GIT_AUTHOR_EMAIL: actions@github.com
+      - shell: bash
         run: |
-          COUNT=$(git rev-list --count HEAD)
-          echo "New history commit count on main: $COUNT"
-          if [ "$COUNT" -lt 1 ] || [ "$COUNT" -gt 12 ]; then
-            echo "Unexpected commit count; aborting push for safety."
-            exit 1
-          fi
-
+          set -euo pipefail
           git push --force --prune origin main
 
-      - name: Local GC (remote will GC on its own schedule)
+      - shell: bash
         run: |
           git reflog expire --expire=now --all
           git gc --prune=now --aggressive
