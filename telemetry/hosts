@@ -1,4 +1,4 @@
-## Generated at: 2025-10-09T02:40:16+00:00
+## Generated at: 2025-10-16T02:40:46+00:00
 0077777700140002.myhomescreen.tv
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
@@ -1107,12 +1107,14 @@ analytic.112.2o7.net
 analyticaa.postaffiliatepro.com
 analytics-api.liveapp.com
 analytics-api.samsunghealthcn.com
+analytics-ccu.qpyou.cn
 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 analytics-egain.com
 analytics-events.inshorts.com
 analytics-gateway.delta.dp.lightricks.com
 analytics-ingestion.production-public.tubi.io
 analytics-lgs.corebridgefinancial.com
+analytics-log.withhive.com
 analytics-secure.dollargeneral.com
 analytics-server.gimbal.com
 analytics-sprint.qoqa.com
@@ -1395,6 +1397,7 @@ apeachsky.com
 apero-bigdata.com
 apester.com
 api-02.360dialog.io
+api-access.pangolin-sdk-toutiao1.com
 api-analytics.prod.birdapp.com
 api-bee-hl.amemv.com
 api-bee.amemv.com
@@ -4149,6 +4152,7 @@ dw.cbsimg.net
 dw.com.com
 dwin1.com
 dwin2.com
+dxp.baidu.com
 dynamic-amemv.com.edgekey.net
 dynamic-comm.snssdk.com.bdgslb.com
 dynamic-comm2.snssdk.com.bdgslb.com
@@ -4905,6 +4909,7 @@ gecko16-normal-c-useast2a.tiktokv.com.edgesuite.net
 geconsumerfinance.112.2o7.net
 gedfaccdcf.temp.p23.tc.cdntip.com
 geico.com.ssl.sc.omtrdc.net
+gem-log.sloegem.com
 gemini.yahoo.com
 gemius.pl
 gemoneysinsbicard2.112.2o7.net
@@ -6431,6 +6436,7 @@ log.make50.com
 log.mgtv.com
 log.mmstat.com
 log.musical.ly
+log.oceanzz.xyz
 log.olark.com
 log.pdfviewerscannerstore.live
 log.pinterest.com
@@ -17637,6 +17643,7 @@ ns2.c.bytetcdn.com
 ns2.s.bytetcdn.com
 ns3.bsgslb.com
 ns3.c.bytetcdn.com
+nsclickvideo.xiaodutv.com
 nsdldlese.112.2o7.net
 nspmotion.com
 nster.net
@@ -18528,6 +18535,7 @@ ppx.snssdk.com
 ppx.snssdk.com.w.kunluncan.com
 prderrordumphsm.samsungcloudsolution.com
 pre.footprintpredict.com
+prebid-server-canary.ifunny.co
 preferences.cid.samba.tv
 premium-videos.telly.com
 premiumtv.122.2o7.net
@@ -21418,6 +21426,7 @@ track.social.com
 track.spankadoo.pl
 track.sr.roku.com
 track.starmakerstudios.com
+track.taimi.com
 track.talarsystems.com
 track.tenjin.com
 track.tenjin.io
@@ -24028,12 +24037,14 @@ www.analytic.112.2o7.net
 www.analyticaa.postaffiliatepro.com
 www.analytics-api.liveapp.com
 www.analytics-api.samsunghealthcn.com
+www.analytics-ccu.qpyou.cn
 www.analytics-collector-28944298.us-east-1.elb.amazonaws.com
 www.analytics-egain.com
 www.analytics-events.inshorts.com
 www.analytics-gateway.delta.dp.lightricks.com
 www.analytics-ingestion.production-public.tubi.io
 www.analytics-lgs.corebridgefinancial.com
+www.analytics-log.withhive.com
 www.analytics-secure.dollargeneral.com
 www.analytics-server.gimbal.com
 www.analytics-sprint.qoqa.com
@@ -24316,6 +24327,7 @@ www.apeachsky.com
 www.apero-bigdata.com
 www.apester.com
 www.api-02.360dialog.io
+www.api-access.pangolin-sdk-toutiao1.com
 www.api-analytics.prod.birdapp.com
 www.api-bee-hl.amemv.com
 www.api-bee.amemv.com
@@ -27070,6 +27082,7 @@ www.dw.cbsimg.net
 www.dw.com.com
 www.dwin1.com
 www.dwin2.com
+www.dxp.baidu.com
 www.dynamic-amemv.com.edgekey.net
 www.dynamic-comm.snssdk.com.bdgslb.com
 www.dynamic-comm2.snssdk.com.bdgslb.com
@@ -27826,6 +27839,7 @@ www.gecko16-normal-c-useast2a.tiktokv.com.edgesuite.net
 www.geconsumerfinance.112.2o7.net
 www.gedfaccdcf.temp.p23.tc.cdntip.com
 www.geico.com.ssl.sc.omtrdc.net
+www.gem-log.sloegem.com
 www.gemini.yahoo.com
 www.gemius.pl
 www.gemoneysinsbicard2.112.2o7.net
@@ -29352,6 +29366,7 @@ www.log.make50.com
 www.log.mgtv.com
 www.log.mmstat.com
 www.log.musical.ly
+www.log.oceanzz.xyz
 www.log.olark.com
 www.log.pdfviewerscannerstore.live
 www.log.pinterest.com
@@ -40558,6 +40573,7 @@ www.ns2.c.bytetcdn.com
 www.ns2.s.bytetcdn.com
 www.ns3.bsgslb.com
 www.ns3.c.bytetcdn.com
+www.nsclickvideo.xiaodutv.com
 www.nsdldlese.112.2o7.net
 www.nspmotion.com
 www.nster.net
@@ -41449,6 +41465,7 @@ www.ppx.snssdk.com
 www.ppx.snssdk.com.w.kunluncan.com
 www.prderrordumphsm.samsungcloudsolution.com
 www.pre.footprintpredict.com
+www.prebid-server-canary.ifunny.co
 www.preferences.cid.samba.tv
 www.premium-videos.telly.com
 www.premiumtv.122.2o7.net
@@ -44339,6 +44356,7 @@ www.track.social.com
 www.track.spankadoo.pl
 www.track.sr.roku.com
 www.track.starmakerstudios.com
+www.track.taimi.com
 www.track.talarsystems.com
 www.track.tenjin.com
 www.track.tenjin.io
@@ -45859,6 +45877,7 @@ www.xct32.net
 www.xct33.net
 www.xd.snssdk.com
 www.xd.snssdk.com.w.kunluncan.com
+www.xda.xiaodutv.com
 www.xemhang.vn
 www.xg4ken.com
 www.xgapi-hl.snssdk.com
@@ -46099,6 +46118,7 @@ xct32.net
 xct33.net
 xd.snssdk.com
 xd.snssdk.com.w.kunluncan.com
+xda.xiaodutv.com
 xemhang.vn
 xg4ken.com
 xgapi-hl.snssdk.com
