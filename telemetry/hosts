@@ -1,4 +1,4 @@
-## Generated at: 2025-11-06T02:43:56+00:00
+## Generated at: 2025-11-13T02:44:55+00:00
 0077777700140002.myhomescreen.tv
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
@@ -1522,6 +1522,7 @@ api.massrelevance.com
 api.miui.security.xiaomi.com
 api.mixpanel.com
 api.mobula.sdk.duapps.com
+api.monedata.io
 api.musical.ly
 api.nfl.com
 api.pubnative.net
@@ -1826,6 +1827,7 @@ appanalytics.embarcadero.com
 appave.mobi
 appboy.com
 appcloud.mcafee.com
+appcpi.net
 appdynamics.asia
 appdynamics.biz
 appdynamics.com
@@ -2355,6 +2357,7 @@ blackholemyemail.com
 blaconmachine.com
 bladeshadowlauncherdev.112.2o7.net
 blethenmaine.112.2o7.net
+blink.fra-01.braze.eu
 blinkx.com
 blobcollector.events.data.trafficmanager.net
 blocwhite7.com
@@ -3134,6 +3137,7 @@ clickwindow.net
 clickz.gettraffic.com
 clickzs.com
 client-api.matchinguu.com
+client-log.box.com
 client-telemetry.hingeprod.net
 client.rave-api.com
 client.yixe.com
@@ -3754,6 +3758,7 @@ data-detect.nie.easebar.com
 data-eroadvertising.com
 data.arqiva.tv
 data.coremetrics.com
+data.eu.pendo.io
 data.flurry.com
 data.kuiniuca.com
 data.madovergames.com
@@ -4497,6 +4502,7 @@ event-dot-learning-piano.appspot.com
 event-portal.dailyinnovation.biz
 event-search.jorte.com
 event-us.ssp.taxssp.com
+event.aimailhome.io
 event.flareflow.tv
 event.karrotmarket.com
 event.meloshort.com
@@ -6699,6 +6705,7 @@ mcs-va.tiktokv.com
 mcs.snssdk.com
 mcs.tiktokv.us
 mcs.tiktokw.us
+mcs16-normal-us-ttp.capcutapi.us
 mcsecure.mobi
 mcstats.org
 mcstats.spigotmc.org
@@ -18350,6 +18357,7 @@ pdxor02.com
 peer39.net
 peerius.com
 pelmorexmedia.122.2o7.net
+pendo-data-prod.box.com
 pennwellcorp.112.2o7.net
 pentonmedia.122.2o7.net
 pepperjamnetwork.com
@@ -21095,6 +21103,7 @@ tmstoyota.112.2o7.net
 tnc-boot.capcutapi.com
 tnc-sg.capcutapi.com
 tnc16-alisg.tiktokv.com
+tnc16-normal-us-ttp.capcutapi.us
 tnc16-platform-alisg.tiktokv.com
 tnc16-platform-useast1a.tiktokv.com
 tnc16-platform-useast5.us.tiktokv.com
@@ -24455,6 +24464,7 @@ www.api.massrelevance.com
 www.api.miui.security.xiaomi.com
 www.api.mixpanel.com
 www.api.mobula.sdk.duapps.com
+www.api.monedata.io
 www.api.musical.ly
 www.api.nfl.com
 www.api.pubnative.net
@@ -24759,6 +24769,7 @@ www.appanalytics.embarcadero.com
 www.appave.mobi
 www.appboy.com
 www.appcloud.mcafee.com
+www.appcpi.net
 www.appdynamics.asia
 www.appdynamics.biz
 www.appdynamics.com
@@ -25288,6 +25299,7 @@ www.blackholemyemail.com
 www.blaconmachine.com
 www.bladeshadowlauncherdev.112.2o7.net
 www.blethenmaine.112.2o7.net
+www.blink.fra-01.braze.eu
 www.blinkx.com
 www.blobcollector.events.data.trafficmanager.net
 www.blocwhite7.com
@@ -26067,6 +26079,7 @@ www.clickwindow.net
 www.clickz.gettraffic.com
 www.clickzs.com
 www.client-api.matchinguu.com
+www.client-log.box.com
 www.client-telemetry.hingeprod.net
 www.client.rave-api.com
 www.client.yixe.com
@@ -26687,6 +26700,7 @@ www.data-detect.nie.easebar.com
 www.data-eroadvertising.com
 www.data.arqiva.tv
 www.data.coremetrics.com
+www.data.eu.pendo.io
 www.data.flurry.com
 www.data.kuiniuca.com
 www.data.madovergames.com
@@ -27430,6 +27444,7 @@ www.event-dot-learning-piano.appspot.com
 www.event-portal.dailyinnovation.biz
 www.event-search.jorte.com
 www.event-us.ssp.taxssp.com
+www.event.aimailhome.io
 www.event.flareflow.tv
 www.event.karrotmarket.com
 www.event.meloshort.com
@@ -29632,6 +29647,7 @@ www.mcs-va.tiktokv.com
 www.mcs.snssdk.com
 www.mcs.tiktokv.us
 www.mcs.tiktokw.us
+www.mcs16-normal-us-ttp.capcutapi.us
 www.mcsecure.mobi
 www.mcstats.org
 www.mcstats.spigotmc.org
@@ -41283,6 +41299,7 @@ www.pdxor02.com
 www.peer39.net
 www.peerius.com
 www.pelmorexmedia.122.2o7.net
+www.pendo-data-prod.box.com
 www.pennwellcorp.112.2o7.net
 www.pentonmedia.122.2o7.net
 www.pepperjamnetwork.com
@@ -44028,6 +44045,7 @@ www.tmstoyota.112.2o7.net
 www.tnc-boot.capcutapi.com
 www.tnc-sg.capcutapi.com
 www.tnc16-alisg.tiktokv.com
+www.tnc16-normal-us-ttp.capcutapi.us
 www.tnc16-platform-alisg.tiktokv.com
 www.tnc16-platform-useast1a.tiktokv.com
 www.tnc16-platform-useast5.us.tiktokv.com
@@ -45930,6 +45948,8 @@ www.xtendmedia.com
 www.xwzx.815181.com.bytedns.net
 www.xxbg.snssdk.com
 www.xxz.toutiao.com
+www.xy.fbcdn.net
+www.xz.fbcdn.net
 www.xzcs3zlph.com
 www.xzcs3zlph.com.akamaized.net
 www.xzhmjoch.bid
@@ -46170,6 +46190,8 @@ xtendmedia.com
 xwzx.815181.com.bytedns.net
 xxbg.snssdk.com
 xxz.toutiao.com
+xy.fbcdn.net
+xz.fbcdn.net
 xzcs3zlph.com
 xzcs3zlph.com.akamaized.net
 xzhmjoch.bid
