@@ -1,4 +1,4 @@
-## Generated at: 2025-11-13T23:34:11+00:00
+## Generated at: 2025-11-19T16:49:13+00:00
 0077777700140002.myhomescreen.tv
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
@@ -1807,7 +1807,9 @@ app-analytics-services.com
 app-analytics.snapchat.com
 app-beta.snssdk.com
 app-dynamics.com
+app-log-oversea.immomo.com
 app-measurement.com
+app-monitor.spacecape.com
 app-test.musemuse.cn
 app-tracking.hlogo.de
 app-va.tiktokv.com
@@ -1815,6 +1817,7 @@ app.112.2o7.net
 app.adjust.com
 app.appsflyer.com
 app.cumpar-auto-orice-tip.ro
+app.hbbtv.hse24.com
 app.musemuse.cn
 app.musical.ly
 app.rtpdgox.info
@@ -2308,6 +2311,7 @@ bhgremodel.112.2o7.net
 bhgscrap.112.2o7.net
 bhns1.toutiao.com
 bhns2.toutiao.com
+bi-tracker-global.rivergame.net
 bi.manhuaren.com
 bianjixing.snssdk.com
 bic.snssdk.com
@@ -3137,6 +3141,7 @@ clickwindow.net
 clickz.gettraffic.com
 clickzs.com
 client-api.matchinguu.com
+client-events-ingress.bookbub.com
 client-log.box.com
 client-telemetry.hingeprod.net
 client.rave-api.com
@@ -3347,6 +3352,7 @@ collect.media.jio.com
 collect.myhomescreen.tv
 collect.serious.li
 collect.ureca-lab.com
+collect.wehearfm.com
 collective-media.net
 collective.com
 collector-sbanking.shb-pelib.com
@@ -3861,6 +3867,7 @@ deployupdatemyprofile.com
 deseretnews.112.2o7.net
 despatcho.com
 desquer.ens.uabc.mx
+detaillog-global-dual.coolhcloud.com
 detect.rayjump.com
 dev-apigw.samsungdmroute.com
 dev-multiscreen.samsung.com
@@ -3891,7 +3898,6 @@ devops.byted.org
 dex50.deteql.net
 dexdexprod.112.2o7.net
 dexometer.com
-df.afafb.com
 df.telemetry.microsoft.com
 dfbfussballdeprod.112.2o7.net
 dfe.mic.mob.com
@@ -4220,7 +4226,6 @@ ecomuser.snssdk.com
 econda-monitor.de
 econommetrics.com
 ecopute.com
-ecpm.afafb.com
 ecpmrocks.com
 ecs.nel.measure.office.net
 ecustomeropinions.com
@@ -4662,12 +4667,14 @@ fcaapacjeepstylejapan.112.2o7.net
 fcdnns1.compass.byteoversea.net
 fcdnns2.compass.byteoversea.net
 fcds.affiliatetracking.net
+fcm-collect-api.alyac.com
 fdams.qublixaws.com
 fddfafhadd.temp.p23.tc.cdntip.com
 fdgkdhfgjkdfgdg.com
 fdic.122.2o7.net
 fe2.update.microsoft.com.akadns.net
 fearfromnone.com
+federatedcompute-pa.googleapis.com
 federatedml-pa.googleapis.com
 feed-ads.com
 feedanalytics.com
@@ -4845,7 +4852,6 @@ gamblingtraffic.ru
 game.internetat.tv
 game.snssdk.com
 gameanalytics.com
-gamedot.afafb.com
 gameofoffers.com
 gamespromotion.samsungcloudsolution.com
 gamestats.easybrain.com
@@ -5359,6 +5365,7 @@ hk2wns1.wns.windows.com
 hk2wns1b.wns.windows.com
 hkg1.aastocks.com
 hkrpg-log-upload-os.hoyoverse.com
+hlog.hiido.com
 hls-l11.tiktokcdn.liveplay.myqcloud.com
 hlserve.com
 hn-cnc.polaris.byteoversea.com
@@ -5437,6 +5444,8 @@ hscrmemail.com
 hscrmemail.net
 hscrmqa01.com
 hscta.net
+hse-ctv.com
+hse24.tvtelemetrie.de
 hsleadflows.net
 hsms01.com
 hsms01qa.net
@@ -5736,6 +5745,7 @@ industrybrains.com
 inetwork.directory
 inf-portal-boe.byted.org
 infernotions.com
+infinario.com
 infinity-tracking.net
 influentialinsights.com
 influentialinsights.net
@@ -5921,6 +5931,7 @@ iterable.com
 itgirishtimesprod.112.2o7.net
 itmedia.122.2o7.net
 itrack.it
+itracking.ikameglobal.com
 itsfom.com
 itv.112.2o7.net
 itv.ard.de
@@ -6391,6 +6402,7 @@ log-ingestion-eu.samsungacr.com
 log-ingestion.samsungacr.com
 log-lf.snssdk.com
 log-lq.snssdk.com
+log-mediation.easemobi.net
 log-music-data.line-apps.com
 log-pub-hk.aoshitang.com
 log-sdk.ksapisrv.com
@@ -6436,6 +6448,7 @@ log.internetat.tv
 log.isnssdk.com
 log.jackpotmasterslots.com
 log.kmplayer.com
+log.lnk.events
 log.m.sm.cn
 log.make50.com
 log.mgtv.com
@@ -6444,6 +6457,7 @@ log.musical.ly
 log.oceanzz.xyz
 log.olark.com
 log.pdfviewerscannerstore.live
+log.phonefreshfix.live
 log.pinterest.com
 log.pngindir.com
 log.pullcenter.live
@@ -6453,6 +6467,7 @@ log.snow.me
 log.snssdk.com
 log.snssdk.com.bytedns.net
 log.spotify.com
+log.suddenclean.com
 log.talkie-ai.com
 log.tiktokv.com
 log.tiktokv.com.edgesuite.net
@@ -6460,6 +6475,7 @@ log.toutiao50.com
 log.tpns.tencent.com
 log.ultimatecleaner.pro
 log.umsns.com
+log.wigoliv.work
 log.xzcs3zlph.com
 log.xzcs3zlph.com.edgesuite.net
 log.yougameover.com
@@ -6493,6 +6509,7 @@ log77-normal-c-alisg.tiktokv.com
 log9-normal-c-alisg.tiktokv.com
 logapi-and.zhipin.com
 logbak.hicloud.com
+logcollection.ronghub.com
 logend.cookpad.com
 logfiles.zoom.us
 logger.cloudmobi.net
@@ -6505,6 +6522,7 @@ login.tiktok.com
 logitechlogitechglobal.112.2o7.net
 logmatic.io
 lognormal.net
+logreport-global-dual.coolhcloud.com
 logs-ingress.svc.vinted.com
 logs-sg.rebxgame.com
 logs.amap.com
@@ -6531,6 +6549,7 @@ logsink.zedge.net
 logsss.com
 logtrace.snssdk.com
 logupdate.avlyun.sec.miui.com
+logz.tekiusa.com
 longpolling.redbutton.de
 loomia.com
 loopback.axelvasquez.com
@@ -6566,6 +6585,7 @@ luxemlocatorprod.112.2o7.net
 luxup.ru
 lv.ulikecam.com
 lvres.muscdn.com
+lw-c-log.lastwarapp.com
 lycos-eu.imrworldwide.com
 lyhxwx.com
 lynxbroker.de
@@ -6748,7 +6768,6 @@ mediametrix.com
 mediamond.it
 medianexusnetwork.com
 mediaplex.com
-mediation-receiver.afafb.com
 mediation-tracking.prd.mz.internal.unity3d.com
 mediation.mwmadnetworks.com
 mediative.ca
@@ -6941,7 +6960,6 @@ midar.112.2o7.net
 midc-test-hl.snssdk.com
 midc-test.snssdk.com
 midcru.112.2o7.net
-middle-defend.afafb.com
 midland.logs.roku.com
 midrollvideo.com
 midsen.112.2o7.net
@@ -17155,6 +17173,7 @@ morningnewsonline.112.2o7.net
 mosaicaudience.com
 moss-sg.snssdk.com
 mosspf.net
+mossturbo.com
 motdem.net
 motdgd.com
 mouseflow.com
@@ -19593,6 +19612,7 @@ sdk-orion.appboy.com
 sdk-services.appsflyer.com
 sdk.appsflyer.com
 sdk.hockeyapp.net
+sdk.out.usbla.net
 sdk.stats-locations.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
@@ -19738,6 +19758,7 @@ server.eye-network.ru
 server.iad.liveperson.net
 servesharp.com
 servesharp.net
+service-api.flarelane.com
 service.avail.net
 service.fyber.com
 service.game-mode.net
@@ -20648,6 +20669,7 @@ stat-analytics.mediavitrina.ru
 stat-in.dc.oppomobile.com
 stat.alibaba.com
 stat.bei-uns.de
+stat.dp.vocalbeats.com
 stat.duokanbox.com
 stat.gspaceteam.com
 stat.m.360.cn
@@ -20859,7 +20881,6 @@ tabelog.com.102.112.2o7.net
 taboola.com
 taboolasyndication.com
 tacoda.net
-tadata.afafb.com
 tag.yieldoptimizer.com
 tagcade.com
 tagcommander.com
@@ -21516,6 +21537,7 @@ tracking.aatkit.com
 tracking.addapptr.com
 tracking.adjug.com
 tracking.adspreemedia.com
+tracking.affattr.com
 tracking.aldi-international.com
 tracking.axiatel.com
 tracking.binarypromos.com
@@ -21675,6 +21697,7 @@ trk.securesmrt-dt.com
 trk.sndngbay.site
 trk.sodoit.com
 trk2.pinterest.com
+trkapi.impact.com
 trkme.net
 trkmob1.com
 trkthatpaper.org
@@ -21747,6 +21770,7 @@ twitstat.com
 twizt.net
 twns.p2ptun.qq.com
 tworismo.com
+tycollectproxy.tiyalive.com
 tynt.com
 typekit.net
 tyroo.com
@@ -24749,7 +24773,9 @@ www.app-analytics-services.com
 www.app-analytics.snapchat.com
 www.app-beta.snssdk.com
 www.app-dynamics.com
+www.app-log-oversea.immomo.com
 www.app-measurement.com
+www.app-monitor.spacecape.com
 www.app-test.musemuse.cn
 www.app-tracking.hlogo.de
 www.app-va.tiktokv.com
@@ -24757,6 +24783,7 @@ www.app.112.2o7.net
 www.app.adjust.com
 www.app.appsflyer.com
 www.app.cumpar-auto-orice-tip.ro
+www.app.hbbtv.hse24.com
 www.app.musemuse.cn
 www.app.musical.ly
 www.app.rtpdgox.info
@@ -25250,6 +25277,7 @@ www.bhgremodel.112.2o7.net
 www.bhgscrap.112.2o7.net
 www.bhns1.toutiao.com
 www.bhns2.toutiao.com
+www.bi-tracker-global.rivergame.net
 www.bi.manhuaren.com
 www.bianjixing.snssdk.com
 www.bic.snssdk.com
@@ -26079,6 +26107,7 @@ www.clickwindow.net
 www.clickz.gettraffic.com
 www.clickzs.com
 www.client-api.matchinguu.com
+www.client-events-ingress.bookbub.com
 www.client-log.box.com
 www.client-telemetry.hingeprod.net
 www.client.rave-api.com
@@ -26289,6 +26318,7 @@ www.collect.media.jio.com
 www.collect.myhomescreen.tv
 www.collect.serious.li
 www.collect.ureca-lab.com
+www.collect.wehearfm.com
 www.collective-media.net
 www.collective.com
 www.collector-sbanking.shb-pelib.com
@@ -26803,6 +26833,7 @@ www.deployupdatemyprofile.com
 www.deseretnews.112.2o7.net
 www.despatcho.com
 www.desquer.ens.uabc.mx
+www.detaillog-global-dual.coolhcloud.com
 www.detect.rayjump.com
 www.dev-apigw.samsungdmroute.com
 www.dev-multiscreen.samsung.com
@@ -26833,7 +26864,6 @@ www.devops.byted.org
 www.dex50.deteql.net
 www.dexdexprod.112.2o7.net
 www.dexometer.com
-www.df.afafb.com
 www.df.telemetry.microsoft.com
 www.dfbfussballdeprod.112.2o7.net
 www.dfe.mic.mob.com
@@ -27162,7 +27192,6 @@ www.ecomuser.snssdk.com
 www.econda-monitor.de
 www.econommetrics.com
 www.ecopute.com
-www.ecpm.afafb.com
 www.ecpmrocks.com
 www.ecs.nel.measure.office.net
 www.ecustomeropinions.com
@@ -27604,12 +27633,14 @@ www.fcaapacjeepstylejapan.112.2o7.net
 www.fcdnns1.compass.byteoversea.net
 www.fcdnns2.compass.byteoversea.net
 www.fcds.affiliatetracking.net
+www.fcm-collect-api.alyac.com
 www.fdams.qublixaws.com
 www.fddfafhadd.temp.p23.tc.cdntip.com
 www.fdgkdhfgjkdfgdg.com
 www.fdic.122.2o7.net
 www.fe2.update.microsoft.com.akadns.net
 www.fearfromnone.com
+www.federatedcompute-pa.googleapis.com
 www.federatedml-pa.googleapis.com
 www.feed-ads.com
 www.feedanalytics.com
@@ -27787,7 +27818,6 @@ www.gamblingtraffic.ru
 www.game.internetat.tv
 www.game.snssdk.com
 www.gameanalytics.com
-www.gamedot.afafb.com
 www.gameofoffers.com
 www.gamespromotion.samsungcloudsolution.com
 www.gamestats.easybrain.com
@@ -28301,6 +28331,7 @@ www.hk2wns1.wns.windows.com
 www.hk2wns1b.wns.windows.com
 www.hkg1.aastocks.com
 www.hkrpg-log-upload-os.hoyoverse.com
+www.hlog.hiido.com
 www.hls-l11.tiktokcdn.liveplay.myqcloud.com
 www.hlserve.com
 www.hn-cnc.polaris.byteoversea.com
@@ -28379,6 +28410,8 @@ www.hscrmemail.com
 www.hscrmemail.net
 www.hscrmqa01.com
 www.hscta.net
+www.hse-ctv.com
+www.hse24.tvtelemetrie.de
 www.hsleadflows.net
 www.hsms01.com
 www.hsms01qa.net
@@ -28678,6 +28711,7 @@ www.industrybrains.com
 www.inetwork.directory
 www.inf-portal-boe.byted.org
 www.infernotions.com
+www.infinario.com
 www.infinity-tracking.net
 www.influentialinsights.com
 www.influentialinsights.net
@@ -28863,6 +28897,7 @@ www.iterable.com
 www.itgirishtimesprod.112.2o7.net
 www.itmedia.122.2o7.net
 www.itrack.it
+www.itracking.ikameglobal.com
 www.itsfom.com
 www.itv.112.2o7.net
 www.itv.ard.de
@@ -29333,6 +29368,7 @@ www.log-ingestion-eu.samsungacr.com
 www.log-ingestion.samsungacr.com
 www.log-lf.snssdk.com
 www.log-lq.snssdk.com
+www.log-mediation.easemobi.net
 www.log-music-data.line-apps.com
 www.log-pub-hk.aoshitang.com
 www.log-sdk.ksapisrv.com
@@ -29378,6 +29414,7 @@ www.log.internetat.tv
 www.log.isnssdk.com
 www.log.jackpotmasterslots.com
 www.log.kmplayer.com
+www.log.lnk.events
 www.log.m.sm.cn
 www.log.make50.com
 www.log.mgtv.com
@@ -29386,6 +29423,7 @@ www.log.musical.ly
 www.log.oceanzz.xyz
 www.log.olark.com
 www.log.pdfviewerscannerstore.live
+www.log.phonefreshfix.live
 www.log.pinterest.com
 www.log.pngindir.com
 www.log.pullcenter.live
@@ -29395,6 +29433,7 @@ www.log.snow.me
 www.log.snssdk.com
 www.log.snssdk.com.bytedns.net
 www.log.spotify.com
+www.log.suddenclean.com
 www.log.talkie-ai.com
 www.log.tiktokv.com
 www.log.tiktokv.com.edgesuite.net
@@ -29402,6 +29441,7 @@ www.log.toutiao50.com
 www.log.tpns.tencent.com
 www.log.ultimatecleaner.pro
 www.log.umsns.com
+www.log.wigoliv.work
 www.log.xzcs3zlph.com
 www.log.xzcs3zlph.com.edgesuite.net
 www.log.yougameover.com
@@ -29435,6 +29475,7 @@ www.log77-normal-c-alisg.tiktokv.com
 www.log9-normal-c-alisg.tiktokv.com
 www.logapi-and.zhipin.com
 www.logbak.hicloud.com
+www.logcollection.ronghub.com
 www.logend.cookpad.com
 www.logfiles.zoom.us
 www.logger.cloudmobi.net
@@ -29447,6 +29488,7 @@ www.login.tiktok.com
 www.logitechlogitechglobal.112.2o7.net
 www.logmatic.io
 www.lognormal.net
+www.logreport-global-dual.coolhcloud.com
 www.logs-ingress.svc.vinted.com
 www.logs-sg.rebxgame.com
 www.logs.amap.com
@@ -29473,6 +29515,7 @@ www.logsink.zedge.net
 www.logsss.com
 www.logtrace.snssdk.com
 www.logupdate.avlyun.sec.miui.com
+www.logz.tekiusa.com
 www.longpolling.redbutton.de
 www.loomia.com
 www.loopback.axelvasquez.com
@@ -29508,6 +29551,7 @@ www.luxemlocatorprod.112.2o7.net
 www.luxup.ru
 www.lv.ulikecam.com
 www.lvres.muscdn.com
+www.lw-c-log.lastwarapp.com
 www.lycos-eu.imrworldwide.com
 www.lyhxwx.com
 www.lynxbroker.de
@@ -29690,7 +29734,6 @@ www.mediametrix.com
 www.mediamond.it
 www.medianexusnetwork.com
 www.mediaplex.com
-www.mediation-receiver.afafb.com
 www.mediation-tracking.prd.mz.internal.unity3d.com
 www.mediation.mwmadnetworks.com
 www.mediative.ca
@@ -29883,7 +29926,6 @@ www.midar.112.2o7.net
 www.midc-test-hl.snssdk.com
 www.midc-test.snssdk.com
 www.midcru.112.2o7.net
-www.middle-defend.afafb.com
 www.midland.logs.roku.com
 www.midrollvideo.com
 www.midsen.112.2o7.net
@@ -40097,6 +40139,7 @@ www.morningnewsonline.112.2o7.net
 www.mosaicaudience.com
 www.moss-sg.snssdk.com
 www.mosspf.net
+www.mossturbo.com
 www.motdem.net
 www.motdgd.com
 www.mouseflow.com
@@ -42535,6 +42578,7 @@ www.sdk-orion.appboy.com
 www.sdk-services.appsflyer.com
 www.sdk.appsflyer.com
 www.sdk.hockeyapp.net
+www.sdk.out.usbla.net
 www.sdk.stats-locations.com
 www.sdkconfig.ad.intl.xiaomi.com
 www.sdkconfig.ad.xiaomi.com
@@ -42680,6 +42724,7 @@ www.server.eye-network.ru
 www.server.iad.liveperson.net
 www.servesharp.com
 www.servesharp.net
+www.service-api.flarelane.com
 www.service.avail.net
 www.service.fyber.com
 www.service.game-mode.net
@@ -43590,6 +43635,7 @@ www.stat-analytics.mediavitrina.ru
 www.stat-in.dc.oppomobile.com
 www.stat.alibaba.com
 www.stat.bei-uns.de
+www.stat.dp.vocalbeats.com
 www.stat.duokanbox.com
 www.stat.gspaceteam.com
 www.stat.m.360.cn
@@ -43801,7 +43847,6 @@ www.tabelog.com.102.112.2o7.net
 www.taboola.com
 www.taboolasyndication.com
 www.tacoda.net
-www.tadata.afafb.com
 www.tag.yieldoptimizer.com
 www.tagcade.com
 www.tagcommander.com
@@ -44458,6 +44503,7 @@ www.tracking.aatkit.com
 www.tracking.addapptr.com
 www.tracking.adjug.com
 www.tracking.adspreemedia.com
+www.tracking.affattr.com
 www.tracking.aldi-international.com
 www.tracking.axiatel.com
 www.tracking.binarypromos.com
@@ -44617,6 +44663,7 @@ www.trk.securesmrt-dt.com
 www.trk.sndngbay.site
 www.trk.sodoit.com
 www.trk2.pinterest.com
+www.trkapi.impact.com
 www.trkme.net
 www.trkmob1.com
 www.trkthatpaper.org
@@ -44689,6 +44736,7 @@ www.twitstat.com
 www.twizt.net
 www.twns.p2ptun.qq.com
 www.tworismo.com
+www.tycollectproxy.tiyalive.com
 www.tynt.com
 www.typekit.net
 www.tyroo.com
