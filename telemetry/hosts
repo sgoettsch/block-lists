@@ -1,4 +1,4 @@
-## Generated at: 2026-01-08T02:49:53+00:00
+## Generated at: 2026-01-15T02:51:00+00:00
 0077777700140002.myhomescreen.tv
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
@@ -4540,6 +4540,7 @@ events-api.soundcloud.com
 events-api.towneers.prod.data.krmt.io
 events-collector-api.viacom.tech
 events-stream-svc.cordial.com
+events-stream-svc.cordial.io
 events-stream-svc.usw2.cordial.com
 events.api.red.wemesh.ca
 events.appsflyer.com
@@ -4553,6 +4554,7 @@ events.data.microsoft.com
 events.fubo.tv
 events.funnelish.com
 events.gfe.nvidia.com
+events.gonative.io
 events.iap.unity3d.com
 events.ifunny.co
 events.kaloo.ga
@@ -5227,6 +5229,7 @@ havingtrack.com
 haymarketbusinesspublications.122.2o7.net
 hb-af-us-central1.outfit7.com
 hb-failover-stpceyl2ua-uw.a.run.app
+hb-mob2.optiword.com
 hb.afl.rakuten.co.jp
 hbbtv-1.eurosport.com
 hbbtv-apps.redbutton.de
@@ -6669,6 +6672,7 @@ m.vpadn.com
 m.zjurl.cn
 m2pub.com
 m6r.eu
+mab-mob2.websearchapp.com
 madisonlogic.com
 madnxs.com
 madnxs.net
@@ -6731,6 +6735,7 @@ massrelevance.com
 matchinguu.com
 matheranalytics.com
 mathtag.com
+matomo.podslink.net
 mattelplaysitesglobalprod.112.2o7.net
 mattressusa.122.2o7.net
 mavic852.com
@@ -17571,6 +17576,9 @@ newcom.122.2o7.net
 newdating.today
 newdealmedia.info
 newlook.112.2o7.net
+news-app-events.apple.com
+news-events.apple.com
+news-sports-events.apple.com
 newscurve.com
 newsday.122.2o7.net
 newsinc.com
@@ -20138,6 +20146,7 @@ sitetagger.co.uk
 sitetracker.com
 sixapart.112.2o7.net
 sjremetrics.java.com
+skadsdk.appsflyersdk.com
 skift.pt
 skiftmedia.pt
 skimresources.com
@@ -21014,6 +21023,7 @@ telemetry.appex.bing.net
 telemetry.battle.net
 telemetry.canva.com
 telemetry.codefusion.technology
+telemetry.doxo.com
 telemetry.gfe.nvidia.com
 telemetry.jivosite.com
 telemetry.microsoft.com
@@ -21464,6 +21474,7 @@ track.adrevolver.com
 track.adtual.com
 track.affiliate-b.com
 track.aieic.com
+track.applicaster.com
 track.appsflyer.com
 track.bannerbridge.net
 track.barcoo.com
@@ -27566,6 +27577,7 @@ www.events-api.soundcloud.com
 www.events-api.towneers.prod.data.krmt.io
 www.events-collector-api.viacom.tech
 www.events-stream-svc.cordial.com
+www.events-stream-svc.cordial.io
 www.events-stream-svc.usw2.cordial.com
 www.events.api.red.wemesh.ca
 www.events.appsflyer.com
@@ -27579,6 +27591,7 @@ www.events.data.microsoft.com
 www.events.fubo.tv
 www.events.funnelish.com
 www.events.gfe.nvidia.com
+www.events.gonative.io
 www.events.iap.unity3d.com
 www.events.ifunny.co
 www.events.kaloo.ga
@@ -28253,6 +28266,7 @@ www.havingtrack.com
 www.haymarketbusinesspublications.122.2o7.net
 www.hb-af-us-central1.outfit7.com
 www.hb-failover-stpceyl2ua-uw.a.run.app
+www.hb-mob2.optiword.com
 www.hb.afl.rakuten.co.jp
 www.hbbtv-1.eurosport.com
 www.hbbtv-apps.redbutton.de
@@ -29695,6 +29709,7 @@ www.m.vpadn.com
 www.m.zjurl.cn
 www.m2pub.com
 www.m6r.eu
+www.mab-mob2.websearchapp.com
 www.madisonlogic.com
 www.madnxs.com
 www.madnxs.net
@@ -29757,6 +29772,7 @@ www.massrelevance.com
 www.matchinguu.com
 www.matheranalytics.com
 www.mathtag.com
+www.matomo.podslink.net
 www.mattelplaysitesglobalprod.112.2o7.net
 www.mattressusa.122.2o7.net
 www.mavic852.com
@@ -40597,6 +40613,9 @@ www.newcom.122.2o7.net
 www.newdating.today
 www.newdealmedia.info
 www.newlook.112.2o7.net
+www.news-app-events.apple.com
+www.news-events.apple.com
+www.news-sports-events.apple.com
 www.newscurve.com
 www.newsday.122.2o7.net
 www.newsinc.com
@@ -43164,6 +43183,7 @@ www.sitetagger.co.uk
 www.sitetracker.com
 www.sixapart.112.2o7.net
 www.sjremetrics.java.com
+www.skadsdk.appsflyersdk.com
 www.skift.pt
 www.skiftmedia.pt
 www.skimresources.com
@@ -44040,6 +44060,7 @@ www.telemetry.appex.bing.net
 www.telemetry.battle.net
 www.telemetry.canva.com
 www.telemetry.codefusion.technology
+www.telemetry.doxo.com
 www.telemetry.gfe.nvidia.com
 www.telemetry.jivosite.com
 www.telemetry.microsoft.com
@@ -44490,6 +44511,7 @@ www.track.adrevolver.com
 www.track.adtual.com
 www.track.affiliate-b.com
 www.track.aieic.com
+www.track.applicaster.com
 www.track.appsflyer.com
 www.track.bannerbridge.net
 www.track.barcoo.com
