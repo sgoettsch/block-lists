@@ -1,4 +1,7 @@
-## Generated at: 2026-02-12T03:12:42+00:00
+## Generated at: 2026-02-19T03:11:09+00:00
+$app=com.fiberhome.wifiserver
+$app=com.miui.analytics
+$app=com.miui.systemadsolution
 0077777700140002.myhomescreen.tv
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
@@ -634,6 +637,7 @@ adrsp.net
 adrtx.net
 adrunnr.com
 ads-ai.com
+ads-api.twitter.com$app=com.twitter.android
 ads-api.x.com
 ads-cloud.rovio.com
 ads-creativesyndicator.com
@@ -1194,7 +1198,6 @@ analytics.firstcitizens.com
 analytics.fishtrack.com
 analytics.futuro360.com
 analytics.gandi.net
-analytics.google.com
 analytics.greenmountain.com
 analytics.greenmountainenergy.com
 analytics.hardlightgames.com
@@ -1488,6 +1491,7 @@ api-t2.tiktokv.com
 api-t3.tiktokv.com
 api-t3.tiktokv.com.cdn.cloudflare.net
 api-test-pcs.snssdk.com
+api-track.linke.ai$app=com.aigc.ushow.ichat
 api-tv.spotify.com
 api-useast2a.toutiao50.com
 api-useast2a.toutiao50.com.edgesuite.net
@@ -1532,6 +1536,7 @@ api.mobula.sdk.duapps.com
 api.monedata.io
 api.musical.ly
 api.nfl.com
+api.onegg.site$app=com.apkpure.aegon
 api.pubnative.net
 api.redshell.io
 api.reproio.com
@@ -1822,6 +1827,7 @@ app-tracking.hlogo.de
 app-va.tiktokv.com
 app.112.2o7.net
 app.adjust.com
+app.adjust.com$app=com.microsoft.bing|jp.gocro.smartnews.android|com.daily.health.tracker.monitor|com.glovo|com.edadeal.android|com.dailymotion.dailymotion|com.novoda.dch|com.jotform.v2|com.location.track.proxy.gps|com.magical.smart.alban
 app.appsflyer.com
 app.cumpar-auto-orice-tip.ro
 app.hbbtv.hse24.com
@@ -1978,6 +1984,7 @@ aspirer.xyz
 asset1.sponsorpay.com
 assetdtmamcom.112.2o7.net
 assetdtmewm.112.2o7.net
+assets.adobedtm.com$app=com.aa.android|uk.co.thetimes|de.spiegel.android.app.spon|com.hilton.android.hhonors
 assets.gziraq.com
 assoc-amazon.jp
 associatedcontent.112.2o7.net
@@ -2343,6 +2350,8 @@ bigpond.122.2o7.net
 bigspeedpro.com
 bigtentresearch.com
 bigtentresearch.net
+bilanx.dcard.tw$app=com.sparkslab.dcardreader
+bilanx.dtto.com$app=com.dtto.app
 billmscurlrev.com
 billytesting.com
 bingads.microsoft.com
@@ -2582,6 +2591,7 @@ broadband2compare.com
 broker.to
 brooks.112.2o7.net
 browser.events.data.microsoft.com
+browser.events.data.microsoft.com$app=com.microsoft.bing
 browser.pipe.aria.microsoft.com
 brpx.com
 brpx.io
@@ -2855,6 +2865,7 @@ cdn-t2.byteoversea.com
 cdn.amgdgt.com
 cdn.applift.com
 cdn.atdmt.com
+cdn.branch.io$app=app.extra.android|com.spotify.music
 cdn.digitaltext.n-tv.de
 cdn.digitaltext.rtl.de
 cdn.digitaltext.vox.de
@@ -3080,6 +3091,7 @@ class.snssdk.com
 classicvacations.112.2o7.net
 classifiedventures1.112.2o7.net
 classmatescom.112.2o7.net
+clck.yandex.ru$app=com.edadeal.android
 cldup.com
 clear-reports.com
 clearcode.cc
@@ -3777,7 +3789,6 @@ dart.l.doubleclick.net
 dartsearch.net
 data-detect.nie.easebar.com
 data-eroadvertising.com
-data-p.gryphline.com
 data.arqiva.tv
 data.coremetrics.com
 data.eu.pendo.io
@@ -4749,6 +4760,7 @@ finance.snssdk.com
 financial-stock-web.snssdk.com
 findingflowers.com
 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
+firebaselogging-pa.googleapis.com$app=com.sampleapp
 fireclick.com
 firethepixel.click
 firstimpression.io
@@ -4899,6 +4911,7 @@ gate.hockeyapp.net
 gate.snssdk.com
 gatehousemedia.122.2o7.net
 gateway.122.2o7.net
+gateway.bingviz.microsoftapp.net$app=com.microsoft.bing
 gateway.facebook.com
 gator.io
 gaug.es
@@ -4918,6 +4931,7 @@ gcm.ksmobile.net
 gcs.sc-cdn.net
 gd-stats.jpush.cn
 gdent.bg
+gdl.youngle.tech$app=com.apkpure.aegon
 gdmconvtrck.com
 gdprinfo.mobirix.net
 gdstatus.7m.pl
@@ -5102,6 +5116,7 @@ googleads.g.doubleclick.net
 googleadservices.com
 googlesyndication.com
 googletagmanager.com
+googletagmanager.com$app=app.shinagawa.listentonovels.androidapp|com.edadeal.android|com.mysticsense.androidapp
 googletagservices.com
 gorillanation.com
 goroost.com
@@ -5905,6 +5920,7 @@ iot-eu-logser.realme.com
 iot-in-logser.realme.com
 iot-logser.realme.com
 ip-info.ff.avast.com
+ip.chinaz.com$app=com.apkpure.aegon
 ip.xindong.com
 ip2map.com
 ipccdn.co.uk
@@ -6423,6 +6439,7 @@ liveramp.com
 liveshoppingsecure.com
 liveshoppingsecuresite.com
 liwio.com
+ljc.coupang.com$app=com.coupang.mobile
 lklfwu-inapps.appsflyersdk.com
 lkqd.com
 lkqd.net
@@ -6439,6 +6456,7 @@ log-1.samsungacr.com
 log-16.toutiao50.com
 log-2.samsungacr.com
 log-3.samsungacr.com
+log-boot.capcutapi.com$app=com.xt.retouchoversea
 log-c.snssdk.com
 log-c.snssdk.com.w.kunluncan.com
 log-cold.snssdk.com
@@ -17131,6 +17149,7 @@ mobile.aws.weather.com
 mobile.bet365.com
 mobile.e.l.bytedns.net
 mobile.events.data.microsoft.com
+mobile.events.data.microsoft.com$app=com.microsoft.bing
 mobile.g.l.bytedns.net
 mobile.logs.roku.com
 mobile.pipe.aria.microsoft.com
@@ -18568,6 +18587,7 @@ planetout.122.2o7.net
 plankton-gtm.a.autoscout24.com
 platform.cid.samba.tv
 platform.massrelevance.com
+plausible.io$app=jp.gocro.smartnews.android
 playbuzz.com
 player.glomex.com
 playforprizes.net
@@ -19599,6 +19619,7 @@ sanfordcorporation.112.2o7.net
 santacruzsentinelcom.112.2o7.net
 santaidinuan.com
 sanya1.com
+sapphire.api.microsoftapp.net$app=com.microsoft.bing
 sarky.org
 sas.samsungcloudsolution.com
 sas15k01.com
@@ -20808,6 +20829,7 @@ stats.gc.apple.com
 stats.grafana.org
 stats.hbbtv.smartclip.net
 stats.l.doubleclick.net
+stats.norton.com
 stats.oilpainting.colorbynumber.veraxen.com
 stats.olark.com
 stats.paypal.com
@@ -20979,6 +21001,7 @@ tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com
 taggstar.com
 tags.creditkarma.com
 tags.news.com.au
+tags.tiqcdn.com$app=uk.co.thetimes|com.hulu.plus|com.booking
 tagsrvcs.com
 tailtarget.com
 talkforfun.isgreat.org
@@ -20991,6 +21014,7 @@ tapad.com
 tapas.net
 tapefailure.com
 tapfiliate.com
+tapi.axcadsf.cfd$app=com.apkpure.aegon
 tapjoy.com
 tapjoyads.com
 targeted-config-test.samsungacr.com
@@ -21007,6 +21031,7 @@ tc.mnbvcxzq.com
 tc.tradetracker.net
 tc.vbnmhjlp.com
 tc.weszxdrf.com
+tc.weszxdrf.com$app=com.apkpure.aegon
 tcinvitationsbydawn.112.2o7.net
 tck-10408-53.pl
 tcllauncher.com
@@ -21478,6 +21503,7 @@ tr-st-sl.vivoglobal.com
 tr-timesync.vivoglobal.com
 tr-vcode-api.vivoglobal.com
 tr-vcode-od.vivoglobal.com
+tr.acobt.tech$app=com.apkpure.aegon
 tr.gunosy.com
 tr.line.me
 tr.snapchat.com
@@ -21651,6 +21677,7 @@ tracking.hallimash.com
 tracking.haribo.de
 tracking.hittail.com
 tracking.i2w.io
+tracking.ibotta-classic.ipn-ops.net$app=com.ibotta.android
 tracking.intl.miui.com
 tracking.iwhop.cn
 tracking.justpremium.com
@@ -21795,6 +21822,7 @@ trk.sndngbay.site
 trk.sodoit.com
 trk2.pinterest.com
 trkapi.impact.com
+trkcliq.com
 trkme.net
 trkmob1.com
 trkthatpaper.org
@@ -23067,6 +23095,9 @@ wweconsumer.112.2o7.net
 wwecorp2.112.2o7.net
 wwpxl.com
 www-google-analytics.l.google.com
+www.$app=com.fiberhome.wifiserver
+www.$app=com.miui.analytics
+www.$app=com.miui.systemadsolution
 www.0077777700140002.myhomescreen.tv
 www.01.static.xsf.ximxim.com
 www.02.static.xsf.ximxim.com
@@ -23702,6 +23733,7 @@ www.adrsp.net
 www.adrtx.net
 www.adrunnr.com
 www.ads-ai.com
+www.ads-api.twitter.com$app=com.twitter.android
 www.ads-api.x.com
 www.ads-cloud.rovio.com
 www.ads-creativesyndicator.com
@@ -24262,7 +24294,6 @@ www.analytics.firstcitizens.com
 www.analytics.fishtrack.com
 www.analytics.futuro360.com
 www.analytics.gandi.net
-www.analytics.google.com
 www.analytics.greenmountain.com
 www.analytics.greenmountainenergy.com
 www.analytics.hardlightgames.com
@@ -24556,6 +24587,7 @@ www.api-t2.tiktokv.com
 www.api-t3.tiktokv.com
 www.api-t3.tiktokv.com.cdn.cloudflare.net
 www.api-test-pcs.snssdk.com
+www.api-track.linke.ai$app=com.aigc.ushow.ichat
 www.api-tv.spotify.com
 www.api-useast2a.toutiao50.com
 www.api-useast2a.toutiao50.com.edgesuite.net
@@ -24600,6 +24632,7 @@ www.api.mobula.sdk.duapps.com
 www.api.monedata.io
 www.api.musical.ly
 www.api.nfl.com
+www.api.onegg.site$app=com.apkpure.aegon
 www.api.pubnative.net
 www.api.redshell.io
 www.api.reproio.com
@@ -24890,6 +24923,7 @@ www.app-tracking.hlogo.de
 www.app-va.tiktokv.com
 www.app.112.2o7.net
 www.app.adjust.com
+www.app.adjust.com$app=com.microsoft.bing|jp.gocro.smartnews.android|com.daily.health.tracker.monitor|com.glovo|com.edadeal.android|com.dailymotion.dailymotion|com.novoda.dch|com.jotform.v2|com.location.track.proxy.gps|com.magical.smart.alban
 www.app.appsflyer.com
 www.app.cumpar-auto-orice-tip.ro
 www.app.hbbtv.hse24.com
@@ -25046,6 +25080,7 @@ www.aspirer.xyz
 www.asset1.sponsorpay.com
 www.assetdtmamcom.112.2o7.net
 www.assetdtmewm.112.2o7.net
+www.assets.adobedtm.com$app=com.aa.android|uk.co.thetimes|de.spiegel.android.app.spon|com.hilton.android.hhonors
 www.assets.gziraq.com
 www.assoc-amazon.jp
 www.associatedcontent.112.2o7.net
@@ -25411,6 +25446,8 @@ www.bigpond.122.2o7.net
 www.bigspeedpro.com
 www.bigtentresearch.com
 www.bigtentresearch.net
+www.bilanx.dcard.tw$app=com.sparkslab.dcardreader
+www.bilanx.dtto.com$app=com.dtto.app
 www.billmscurlrev.com
 www.billytesting.com
 www.bingads.microsoft.com
@@ -25650,6 +25687,7 @@ www.broadband2compare.com
 www.broker.to
 www.brooks.112.2o7.net
 www.browser.events.data.microsoft.com
+www.browser.events.data.microsoft.com$app=com.microsoft.bing
 www.browser.pipe.aria.microsoft.com
 www.brpx.com
 www.brpx.io
@@ -25923,6 +25961,7 @@ www.cdn-t2.byteoversea.com
 www.cdn.amgdgt.com
 www.cdn.applift.com
 www.cdn.atdmt.com
+www.cdn.branch.io$app=app.extra.android|com.spotify.music
 www.cdn.digitaltext.n-tv.de
 www.cdn.digitaltext.rtl.de
 www.cdn.digitaltext.vox.de
@@ -26148,6 +26187,7 @@ www.class.snssdk.com
 www.classicvacations.112.2o7.net
 www.classifiedventures1.112.2o7.net
 www.classmatescom.112.2o7.net
+www.clck.yandex.ru$app=com.edadeal.android
 www.cldup.com
 www.clear-reports.com
 www.clearcode.cc
@@ -26845,7 +26885,6 @@ www.dart.l.doubleclick.net
 www.dartsearch.net
 www.data-detect.nie.easebar.com
 www.data-eroadvertising.com
-www.data-p.gryphline.com
 www.data.arqiva.tv
 www.data.coremetrics.com
 www.data.eu.pendo.io
@@ -27817,6 +27856,7 @@ www.finance.snssdk.com
 www.financial-stock-web.snssdk.com
 www.findingflowers.com
 www.fineboost-loghub.ap-southeast-1.log.aliyuncs.com
+www.firebaselogging-pa.googleapis.com$app=com.sampleapp
 www.fireclick.com
 www.firethepixel.click
 www.firstimpression.io
@@ -27967,6 +28007,7 @@ www.gate.hockeyapp.net
 www.gate.snssdk.com
 www.gatehousemedia.122.2o7.net
 www.gateway.122.2o7.net
+www.gateway.bingviz.microsoftapp.net$app=com.microsoft.bing
 www.gateway.facebook.com
 www.gator.io
 www.gaug.es
@@ -27986,6 +28027,7 @@ www.gcm.ksmobile.net
 www.gcs.sc-cdn.net
 www.gd-stats.jpush.cn
 www.gdent.bg
+www.gdl.youngle.tech$app=com.apkpure.aegon
 www.gdmconvtrck.com
 www.gdprinfo.mobirix.net
 www.gdstatus.7m.pl
@@ -28170,6 +28212,7 @@ www.googleads.g.doubleclick.net
 www.googleadservices.com
 www.googlesyndication.com
 www.googletagmanager.com
+www.googletagmanager.com$app=app.shinagawa.listentonovels.androidapp|com.edadeal.android|com.mysticsense.androidapp
 www.googletagservices.com
 www.gorillanation.com
 www.goroost.com
@@ -28973,6 +29016,7 @@ www.iot-eu-logser.realme.com
 www.iot-in-logser.realme.com
 www.iot-logser.realme.com
 www.ip-info.ff.avast.com
+www.ip.chinaz.com$app=com.apkpure.aegon
 www.ip.xindong.com
 www.ip2map.com
 www.ipccdn.co.uk
@@ -29491,6 +29535,7 @@ www.liveramp.com
 www.liveshoppingsecure.com
 www.liveshoppingsecuresite.com
 www.liwio.com
+www.ljc.coupang.com$app=com.coupang.mobile
 www.lklfwu-inapps.appsflyersdk.com
 www.lkqd.com
 www.lkqd.net
@@ -29507,6 +29552,7 @@ www.log-1.samsungacr.com
 www.log-16.toutiao50.com
 www.log-2.samsungacr.com
 www.log-3.samsungacr.com
+www.log-boot.capcutapi.com$app=com.xt.retouchoversea
 www.log-c.snssdk.com
 www.log-c.snssdk.com.w.kunluncan.com
 www.log-cold.snssdk.com
@@ -40199,6 +40245,7 @@ www.mobile.aws.weather.com
 www.mobile.bet365.com
 www.mobile.e.l.bytedns.net
 www.mobile.events.data.microsoft.com
+www.mobile.events.data.microsoft.com$app=com.microsoft.bing
 www.mobile.g.l.bytedns.net
 www.mobile.logs.roku.com
 www.mobile.pipe.aria.microsoft.com
@@ -41636,6 +41683,7 @@ www.planetout.122.2o7.net
 www.plankton-gtm.a.autoscout24.com
 www.platform.cid.samba.tv
 www.platform.massrelevance.com
+www.plausible.io$app=jp.gocro.smartnews.android
 www.playbuzz.com
 www.player.glomex.com
 www.playforprizes.net
@@ -42667,6 +42715,7 @@ www.sanfordcorporation.112.2o7.net
 www.santacruzsentinelcom.112.2o7.net
 www.santaidinuan.com
 www.sanya1.com
+www.sapphire.api.microsoftapp.net$app=com.microsoft.bing
 www.sarky.org
 www.sas.samsungcloudsolution.com
 www.sas15k01.com
@@ -43876,6 +43925,7 @@ www.stats.gc.apple.com
 www.stats.grafana.org
 www.stats.hbbtv.smartclip.net
 www.stats.l.doubleclick.net
+www.stats.norton.com
 www.stats.oilpainting.colorbynumber.veraxen.com
 www.stats.olark.com
 www.stats.paypal.com
@@ -44047,6 +44097,7 @@ www.tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com
 www.taggstar.com
 www.tags.creditkarma.com
 www.tags.news.com.au
+www.tags.tiqcdn.com$app=uk.co.thetimes|com.hulu.plus|com.booking
 www.tagsrvcs.com
 www.tailtarget.com
 www.talkforfun.isgreat.org
@@ -44059,6 +44110,7 @@ www.tapad.com
 www.tapas.net
 www.tapefailure.com
 www.tapfiliate.com
+www.tapi.axcadsf.cfd$app=com.apkpure.aegon
 www.tapjoy.com
 www.tapjoyads.com
 www.targeted-config-test.samsungacr.com
@@ -44075,6 +44127,7 @@ www.tc.mnbvcxzq.com
 www.tc.tradetracker.net
 www.tc.vbnmhjlp.com
 www.tc.weszxdrf.com
+www.tc.weszxdrf.com$app=com.apkpure.aegon
 www.tcinvitationsbydawn.112.2o7.net
 www.tck-10408-53.pl
 www.tcllauncher.com
@@ -44546,6 +44599,7 @@ www.tr-st-sl.vivoglobal.com
 www.tr-timesync.vivoglobal.com
 www.tr-vcode-api.vivoglobal.com
 www.tr-vcode-od.vivoglobal.com
+www.tr.acobt.tech$app=com.apkpure.aegon
 www.tr.gunosy.com
 www.tr.line.me
 www.tr.snapchat.com
@@ -44719,6 +44773,7 @@ www.tracking.hallimash.com
 www.tracking.haribo.de
 www.tracking.hittail.com
 www.tracking.i2w.io
+www.tracking.ibotta-classic.ipn-ops.net$app=com.ibotta.android
 www.tracking.intl.miui.com
 www.tracking.iwhop.cn
 www.tracking.justpremium.com
@@ -44863,6 +44918,7 @@ www.trk.sndngbay.site
 www.trk.sodoit.com
 www.trk2.pinterest.com
 www.trkapi.impact.com
+www.trkcliq.com
 www.trkme.net
 www.trkmob1.com
 www.trkthatpaper.org
