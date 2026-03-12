@@ -1,4 +1,4 @@
-## Generated at: 2026-03-06T00:44:24+00:00
+## Generated at: 2026-03-12T03:08:57+00:00
 0077777700140002.myhomescreen.tv
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
@@ -2238,6 +2238,7 @@ bdex.com
 bdg001a.com
 bds-sg.byteoversea.com
 bds.snssdk.com
+bdtelemetry.amazon
 beachbody.com.102.122.2o7.net
 beachbuydig2020.112.2o7.net
 beacon-2.newrelic.com
@@ -7037,7 +7038,6 @@ milenar-ads.pt
 millennialmedia.com
 millerbrewingcompany.122.2o7.net
 mimomimoform.com
-minor-api-os.hoyoverse.com
 mintegral.net
 mioeverywhere.tv
 misc.api.snaptube.app
@@ -19393,6 +19393,7 @@ rubrikincproduction.112.2o7.net
 ruiframe.ru
 rum-collector.pingdom.net
 rum-static.pingdom.net
+rum.us-east-1.amazonaws.com
 rumstat.cdnvideo.ru
 runadtag.com
 rundsp.com
@@ -21484,7 +21485,6 @@ tr.line.me
 tr.snapchat.com
 tr6.snapchat.com
 traaack.com
-trace-v1.free-reels.com
 trace.free-reels.com
 trace.qq.com
 traces.sr.roku.com
@@ -25309,6 +25309,7 @@ www.bdex.com
 www.bdg001a.com
 www.bds-sg.byteoversea.com
 www.bds.snssdk.com
+www.bdtelemetry.amazon
 www.beachbody.com.102.122.2o7.net
 www.beachbuydig2020.112.2o7.net
 www.beacon-2.newrelic.com
@@ -30108,7 +30109,6 @@ www.milenar-ads.pt
 www.millennialmedia.com
 www.millerbrewingcompany.122.2o7.net
 www.mimomimoform.com
-www.minor-api-os.hoyoverse.com
 www.mintegral.net
 www.mioeverywhere.tv
 www.misc.api.snaptube.app
@@ -42464,6 +42464,7 @@ www.rubrikincproduction.112.2o7.net
 www.ruiframe.ru
 www.rum-collector.pingdom.net
 www.rum-static.pingdom.net
+www.rum.us-east-1.amazonaws.com
 www.rumstat.cdnvideo.ru
 www.runadtag.com
 www.rundsp.com
@@ -44555,7 +44556,6 @@ www.tr.line.me
 www.tr.snapchat.com
 www.tr6.snapchat.com
 www.traaack.com
-www.trace-v1.free-reels.com
 www.trace.free-reels.com
 www.trace.qq.com
 www.traces.sr.roku.com
