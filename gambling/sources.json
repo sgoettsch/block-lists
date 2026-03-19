@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/sgoettsch/block-lists/main/gambling/list",
+        "urlDetails": "https://github.com/sgoettsch/block-lists/",
+        "description": "Own list"
+    },
+    {
+        "url": "https://blocklistproject.github.io/Lists/gambling.txt",
+        "urlDetails": "",
+        "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN",
+        "urlDetails": "",
+        "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts",
+        "urlDetails": "",
+        "description": ""
+    }
+]
