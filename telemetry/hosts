@@ -1,4 +1,4 @@
-## Generated at: 2026-03-26T03:11:47+00:00
+## Generated at: 2026-04-02T03:11:55+00:00
 0077777700140002.myhomescreen.tv
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
@@ -1519,6 +1519,7 @@ api.distribution.hulu.com
 api.edgeoffer.microsoft.com
 api.eu.hismarttv.com
 api.euro.hismarttv.com
+api.event.appstack.tech
 api.gameanalytics.com
 api.gimbal.com
 api.huoshan.com.bytedns.net
@@ -3883,7 +3884,9 @@ deseretnews.112.2o7.net
 despatcho.com
 desquer.ens.uabc.mx
 detaillog-global-dual.coolbcloud.com
+detaillog-global-dual.coolgcloud.com
 detaillog-global-dual.coolhcloud.com
+detailroi.com
 detect.rayjump.com
 dev-apigw.samsungdmroute.com
 dev-multiscreen.samsung.com
@@ -4574,6 +4577,7 @@ events.mz.unity3d.com
 events.prd.api.discomax.com
 events.production.us1.pgw-pci.klarna.net
 events.samsungads.com
+events.split.io
 events.swiftlycontent.net
 events.swishapps.ai
 events.textme-app.com
@@ -6575,6 +6579,7 @@ log58-normal-c-alisg.tiktokv.com
 log77-normal-c-alisg.tiktokv.com
 log9-normal-c-alisg.tiktokv.com
 logapi-and.zhipin.com
+logapi.bodyevey.com
 logbak.hicloud.com
 logc-sg.tsd.xindong.com
 logcollection.ronghub.com
@@ -17270,6 +17275,7 @@ movoxi.com
 movoxi.net
 movoxy.com
 movoxy.net
+mp-gb-sdklog.kurogames.net
 mp.toutiao.com
 mpak-ainw1-up.muscdn.com
 mpak-odec1.akamaized.net
@@ -18694,6 +18700,7 @@ proadsredmsmt.com
 prod-analytics.royal.drmgms.com
 prod-clientlog.fastly.newssuite.sinfony.ne.jp
 prod-program.redbutton.de
+prod-ue1-metrics.hingeprod.net
 prod.amazoncrl.com
 prod.ingestion-edge.prod.dataops.mozgcp.net
 prod.report.nacustomerexperience.citi.com
@@ -21072,6 +21079,7 @@ telemetry.navigatorapp.net
 telemetry.nvidia.com
 telemetry.remoteapp.windowsazure.com
 telemetry.sdk.inmobi.com
+telemetry.split.io
 telemetry.urs.microsoft.com
 telemetry.voxeet.com
 telenor.112.2o7.net
@@ -24599,6 +24607,7 @@ www.api.distribution.hulu.com
 www.api.edgeoffer.microsoft.com
 www.api.eu.hismarttv.com
 www.api.euro.hismarttv.com
+www.api.event.appstack.tech
 www.api.gameanalytics.com
 www.api.gimbal.com
 www.api.huoshan.com.bytedns.net
@@ -26963,7 +26972,9 @@ www.deseretnews.112.2o7.net
 www.despatcho.com
 www.desquer.ens.uabc.mx
 www.detaillog-global-dual.coolbcloud.com
+www.detaillog-global-dual.coolgcloud.com
 www.detaillog-global-dual.coolhcloud.com
+www.detailroi.com
 www.detect.rayjump.com
 www.dev-apigw.samsungdmroute.com
 www.dev-multiscreen.samsung.com
@@ -27654,6 +27665,7 @@ www.events.mz.unity3d.com
 www.events.prd.api.discomax.com
 www.events.production.us1.pgw-pci.klarna.net
 www.events.samsungads.com
+www.events.split.io
 www.events.swiftlycontent.net
 www.events.swishapps.ai
 www.events.textme-app.com
@@ -29655,6 +29667,7 @@ www.log58-normal-c-alisg.tiktokv.com
 www.log77-normal-c-alisg.tiktokv.com
 www.log9-normal-c-alisg.tiktokv.com
 www.logapi-and.zhipin.com
+www.logapi.bodyevey.com
 www.logbak.hicloud.com
 www.logc-sg.tsd.xindong.com
 www.logcollection.ronghub.com
@@ -40350,6 +40363,7 @@ www.movoxi.com
 www.movoxi.net
 www.movoxy.com
 www.movoxy.net
+www.mp-gb-sdklog.kurogames.net
 www.mp.toutiao.com
 www.mpak-ainw1-up.muscdn.com
 www.mpak-odec1.akamaized.net
@@ -41774,6 +41788,7 @@ www.proadsredmsmt.com
 www.prod-analytics.royal.drmgms.com
 www.prod-clientlog.fastly.newssuite.sinfony.ne.jp
 www.prod-program.redbutton.de
+www.prod-ue1-metrics.hingeprod.net
 www.prod.amazoncrl.com
 www.prod.ingestion-edge.prod.dataops.mozgcp.net
 www.prod.report.nacustomerexperience.citi.com
@@ -44152,6 +44167,7 @@ www.telemetry.navigatorapp.net
 www.telemetry.nvidia.com
 www.telemetry.remoteapp.windowsazure.com
 www.telemetry.sdk.inmobi.com
+www.telemetry.split.io
 www.telemetry.urs.microsoft.com
 www.telemetry.voxeet.com
 www.telenor.112.2o7.net
