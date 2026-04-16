@@ -16,6 +16,25 @@ Different host files for different cases to enhance own privacy
 | [spam](spam/hosts)           | Anti spam list               | [Sources](spam/sources.json)                         |
 | [telemetry](telemetry/hosts) | Anti telemetry list          | [Sources](telemetry/sources.json)                    |
 
+# 📥 Download URLs
+
+Direct download URLs for Pi-hole / hosts file consumers:
+
+> **Note:** All lists are stored via Git LFS.
+> Use `media.githubusercontent.com` (not `raw.githubusercontent.com`).
+
+| List | URL |
+|------|-----|
+| ads | `https://media.githubusercontent.com/media/sgoettsch/block-lists/main/ads/hosts` |
+| malware | `https://media.githubusercontent.com/media/sgoettsch/block-lists/main/malware/hosts` |
+| fakeNews | `https://media.githubusercontent.com/media/sgoettsch/block-lists/main/fakeNews/hosts` |
+| gambling | `https://media.githubusercontent.com/media/sgoettsch/block-lists/main/gambling/hosts` |
+| mailSpam | `https://media.githubusercontent.com/media/sgoettsch/block-lists/main/mailSpam/hosts` |
+| scam | `https://media.githubusercontent.com/media/sgoettsch/block-lists/main/scam/hosts` |
+| spam | `https://media.githubusercontent.com/media/sgoettsch/block-lists/main/spam/hosts` |
+| telemetry | `https://media.githubusercontent.com/media/sgoettsch/block-lists/main/telemetry/hosts` |
+| dead | `https://media.githubusercontent.com/media/sgoettsch/block-lists/main/dead/hosts` |
+
 # 💡 Description
 
 The published files can offer an improved privacy to protect you from ads, tracking, spyware, telemetry, malware,
