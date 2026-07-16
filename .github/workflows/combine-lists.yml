@@ -1,0 +1,40 @@
+name: Build Lists
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 2 * * 4'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    concurrency: build-${{ github.repository }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7
+        with:
+          lfs: false
+
+      # The build fully regenerates every category `hosts` file, so their LFS blobs are
+      # not pulled on checkout. Only `dead/hosts` is read (and appended to) by the build,
+      # so fetch just that one small object.
+      - name: Fetch dead/hosts from LFS
+        run: git lfs pull --include="dead/hosts"
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@f3e473d116dcccaddc5834248c87452386958240 # v2
+        with:
+          php-version: '8.2'
+
+      - name: Build
+        run: php build.php
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Automated build"
+          git push
