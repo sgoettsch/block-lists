@@ -9,18 +9,24 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     concurrency: build-${{ github.repository }}
     steps:
       - name: Checkout
         uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7
         with:
-          lfs: true
+          lfs: false
+
+      # The build fully regenerates every category `hosts` file, so their LFS blobs are
+      # not pulled on checkout. Only `dead/hosts` is read (and appended to) by the build,
+      # so fetch just that one small object.
+      - name: Fetch dead/hosts from LFS
+        run: git lfs pull --include="dead/hosts"
 
       - name: Setup PHP
         uses: shivammathur/setup-php@f3e473d116dcccaddc5834248c87452386958240 # v2
         with:
           php-version: '8.2'
-          ini-values: memory_limit=1G
 
       - name: Build
         run: php build.php

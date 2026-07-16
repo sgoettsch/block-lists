@@ -85,8 +85,6 @@ class build
                 CURLOPT_CONNECTTIMEOUT => 120,
                 CURLOPT_TIMEOUT => 120,
                 CURLOPT_MAXREDIRS => 10,
-                CURLOPT_SSL_VERIFYHOST => false, // debug
-                CURLOPT_SSL_VERIFYPEER => false, // debug
             ]);
             $content = curl_exec($curl);
             curl_close($curl);
@@ -100,28 +98,35 @@ class build
         throw new RuntimeException('⚠️ Could not download ' . $l);
     }
 
-    private static function readAndParseList(string $l): array
+    /**
+     * Streams the cached download line by line and feeds cleaned domains (plus their
+     * `www.` variant) directly into the shared dedup set to keep peak memory low.
+     *
+     * @param array<string, true> $records
+     */
+    private static function readAndParseListInto(string $l, array &$records): void
     {
         $filename = md5($l) . '.txt';
         $location = __DIR__ . '/tmp/';
 
         echo 'ℹ️ Parsing list: ' . $location . $filename . PHP_EOL;
 
-        $list = [];
-        $content = file($location . $filename);
-        if (is_array($content)) {
-            foreach ($content as $value) {
-                $cleanValue = self::cleanRow($value);
-                if (empty($cleanValue)) {
-                    continue;
-                }
-
-                $list[] = $cleanValue;
-                $list[] = 'www.' . $cleanValue;
-            }
+        $handle = @fopen($location . $filename, 'r');
+        if ($handle === false) {
+            return;
         }
 
-        return $list;
+        while (($line = fgets($handle)) !== false) {
+            $cleanValue = self::cleanRow($line);
+            if ($cleanValue === '') {
+                continue;
+            }
+
+            $records[$cleanValue] = true;
+            $records['www.' . $cleanValue] = true;
+        }
+
+        fclose($handle);
     }
 
     /**
@@ -139,19 +144,17 @@ class build
                 if ($sourceContent) {
                     $sources = json_decode($sourceContent, true, 512, JSON_THROW_ON_ERROR);
                     foreach ($sources as $source) {
-                        $res = self::readAndParseList($source['url']);
-                        foreach ($res as $r) {
-                            if (!empty($r)) {
-                                $allRecords[$r] = $r;
-                            }
-                        }
+                        self::readAndParseListInto($source['url'], $allRecords);
+                    }
 
+                    if (!empty($allRecords)) {
+                        ksort($allRecords);
 
-                        if (!empty($allRecords)) {
-                            asort($allRecords);
-                            $newContent = '## Generated at: ' . date('c') . PHP_EOL;
-                            $newContent .= implode("\n", $allRecords);
-                            file_put_contents($hostsFile, $newContent);
+                        $handle = fopen($hostsFile, 'w');
+                        if ($handle !== false) {
+                            fwrite($handle, '## Generated at: ' . date('c') . "\n");
+                            fwrite($handle, implode("\n", array_keys($allRecords)));
+                            fclose($handle);
                         }
                     }
                 }
@@ -171,7 +174,7 @@ class build
 
     private static function prepare(): void
     {
-        ini_set('memory_limit', '1G');
+        ini_set('memory_limit', '-1');
 
         self::getWhiteList();
 
@@ -263,10 +266,9 @@ class build
                     }
                 }
 
-                $newContent = '';
                 asort($cleanList);
-                $newContent .= implode("\n", $cleanList);
-                if ($newContent != $sourceContent) {
+                $newContent = implode("\n", $cleanList);
+                if ($newContent !== $fileContent) {
                     file_put_contents($listFile, $newContent);
                 }
             }
