@@ -1,0 +1,31 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/sgoettsch/block-lists/main/fakeNews/list",
+        "urlDetails": "https://github.com/sgoettsch/block-lists/",
+        "description": "Own list"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/tqml/Pi-Hole-Lists/master/fakenewsde.txt",
+        "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/tqml/Pi-Hole-Lists/master/gamefake.txt",
+        "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/tqml/Pi-Hole-Lists/master/jbfake.txt",
+        "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/marktron/fakenews/master/fakenews",
+        "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/alternates/fakenews-only/hosts",
+        "description": ""
+    },
+    {
+        "url": "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/alternates/fakenews/hosts",
+        "description": ""
+    }
+]
